@@ -1,0 +1,1642 @@
+With artificial intelligence (AI) replacing humans at work, creative work is becoming increasingly important for
+humans. Although AI may improve employees’ innovation behavior, some evidence suggests a negative effect
+through employees’ psychological well-being. To address these contradictory arguments, this study investigated
+the double-edged sword effect of AI-assistant intelligence on employees’ innovation behavior based on the
+transactional model of stress. Two scenario-based experiments reveal that an AI assistant characterized as high
+intelligence has a positive indirect effect on employees’ AI-enabled innovation behavior via creative self-efficacy,
+while the indirect effect is stronger when organizational AI readiness is higher than when it is lower. However,
+the same AI assistance has a negative indirect effect on employees’ AI-enabled innovation behavior via STARA
+awareness when organizational AI readiness is low. These findings have pivotal implications for both manage­
+ment theory and practice.
+
+Keywords:
+Artificial intelligence
+Creative self-efficacy
+STARA awareness
+Organizational AI readiness
+Innovation behavior
+
+1. Introduction
+Artificial intelligence (AI) refers to highly capable and complex
+machines that perform cognitive functions usually associated with
+human intelligence, such as learning, interacting, and problem solving
+(Nilsson, 1971). AI transforms human–technology relations by shifting
+agency from humans to technology, and is considered the core of In­
+dustry 4.0 (Raisch & Krakowski, 2020). Given that AI can significantly
+increase labor productivity (Brynjolfsson et al., 2021), 80% of large
+companies have integrated AI into their core businesses in the last few
+years (Ghosh et al., 2019). Many companies provide employees with AI
+assistants to help them perform various tasks. An AI assistant is a soft­
+ware driven by artificial intelligence functions such as machine learning,
+and can help individual users complete work and non-work tasks (Yang
+& Lee, 2019). The most common AI assistants currently in the market are
+intelligent agents with an identifiable entity and embodiment via
+anthropomorphism (Moussawi et al., 2020), such as Amazon’s Alexa,
+Apple’s Siri, and Microsoft’s Cortana. There are also embedded
+AI-driven software systems that do not have an intelligent agent, but can
+help employees with a variety of tasks (Glikson & Woolley, 2020). For
+
+example, customer service intelligent assistants can instantly identify
+customer problems, recommend sales talks, generate customer portraits,
+and predict transaction probabilities (Vlacic et al., 2021).
+AI intelligence is the extent to which AI can learn, reason, and solve
+problems (Bartneck et al., 2009). With the advancement of intelligence,
+AI assistants can perform various complex tasks, react to environmental
+changes, and perform tasks in line with user preferences by learning
+information from users and the environment (Hu et al., 2021). However,
+AI is only capable within defined limits; out-of-the-box thinking and
+creative problem solutions seem unattainable for now, where humans
+will still dominate (Wirtz et al., 2018). In the future division of labor,
+cognitive-analytical tasks are more likely to be performed by AI (Huang
+& Rust, 2018). Employees may only be required to ensure the operation
+of the AI system (Wilson & Daugherty, 2018), while being engaged in
+tasks related to emotions and creativity (Huang & Rust, 2020). The
+advantages of humans and AI are complementary only when the former
+are motivated to innovate, and human–AI collaboration can lead to a
+source of competitive advantage for an organization (Makarius et al.,
+2020). Therefore, promoting employees’ innovative behavior is impor­
+tant for the development of employees and organizations in the digital
+
+This study is supported by the Innovative Research Fund of Higher Education of Gansu Province (Grant number: 2022A-082), Postgraduate Innovative Research
+Fund of University of International Business and Economics (Grant number: 202221).
+* Corresponding author.
+E-mail addresses: yinmeng1231@qq.com (M. Yin), jsy_nku@sina.com (S. Jiang), niuxy@uibe.edu.cn (X. Niu).
+☆
+
+https://doi.org/10.1016/j.chb.2023.107987
+Received 11 March 2023; Received in revised form 11 September 2023; Accepted 29 September 2023
+Available online 11 October 2023
+0747-5632/© 2023 Elsevier Ltd. All rights reserved.
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+and intelligent era.
+Can AI promote employee innovation if it cannot completely replace
+employees in innovation-related tasks? According to the Society for
+Industrial and Organizational Psychology’s top ten workplace trends
+list, AI continues to be the top workplace trend and is relevant to almost
+every organizational function (SIOP Administrative Office, 2020). This
+has brought to prominence the influence of AI on employees’ innovation
+behavior, with most researchers arguing that AI can improve employees’
+creativity and innovation behavior in general (e.g., Arias-Perez &
+Velez-Jaramillo, 2022; Jia et al., 2023; Verma & Singh, 2022). However,
+competent AI may also have a negative impact on employees’ psycho­
+logical well-being (Stein et al., 2020) and motivate employees’ avoid­
+ance behavior (Brougham & Haar, 2017), thus suppressing employee
+innovation behavior. Considering these contradictory arguments, unlike
+previous studies that focused on the positive effect of AI on employees’
+innovation behavior, we suppose the coexistence of positive and nega­
+tive effects of AI on employee innovation behavior. In short, we aim to
+reveal the double-edged sword effect of AI assistants on employees’
+innovation behavior.
+First, we aim to investigate the mediating mechanisms through
+which AI assistants have a double-edged sword effect on employee
+innovation behavior. We introduce the transactional model of stress
+(TMS)—an important theoretical perspective for revealing the doubleedged sword effect—to investigate the mediating mechanism thereof.
+TMS describes the cognitive processes and subsequent responses when
+confronted with a particular stressor (Lazarus & Folkman, 1987). Digital
+technologies, including AI, can be a source of job stress because the
+implementation of new technology allows employees to adapt to novel
+task situations and learn new roles and skills (Park et al., 2020; Shin,
+2022; Wang, Liao, Chen, Zhang, & Qian, 2023; Yu et al., 2018). Thus, AI
+assistants can increase employees’ perceptions of stress, which subse­
+quently induce cognitive processes and responses. According to the
+TMS, AI assistants can be evaluated positively by employees, induce
+positive responses (Gelbrich et al., 2021; Guha et al., 2023), or be
+evaluated negatively, induce negative responses (Spatola & Normand,
+2020; Stein et al., 2020). Therefore, we propose that AI assistants with
+high intelligence not only lead to a creative self-efficacy, which in turn
+promotes innovation behaviors, but also lead to a STARA awareness,
+which in turn suppresses innovation behavior.
+STARA awareness refers to the extent to which employees feel that
+their jobs can be replaced by smart technology, AI, robotics, and algo­
+rithms (Lingmont & Alexiou, 2020). STARA awareness has served as a
+predictor of employees’ emotions, cognition, and behaviors toward AI
+(Brougham & Haar, 2017; Kong et al., 2021; Li et al., 2019). For
+example, Liang et al. (2022) found that STARA awareness increased
+employees’ emotional exhaustion, intrinsic motivation, and innovative
+service behaviors. These studies assumed that STARA awareness arises
+spontaneously in individuals, focusing only on the central role of
+humans, while ignoring the broader technological context of work
+(Anthony et al., 2023). However, employees may not perceive a threat
+when the AI is incompetent, malfunctioning, or inefficient. We believe
+that STARA awareness does not arise spontaneously in individuals but is
+stimulated by AI itself. High-intelligence AI may be a predictor of STARA
+awareness, which plays a mediating role between AI-assistant intelli­
+gence and employees’ AI-enabled innovative behavior.
+Creative self-efficacy refers to individuals’ belief in their ability to
+generate creative outcomes when working with an AI assistant (Tierney
+& Farmer, 2002). People rely on mastery and vicarious experiences as
+sources of information pertaining to their level of self-efficacy (Bandura,
+1997). However, the implementation of AI in the workplace means that
+employees must adapt to novel task situations in which they lack the
+experience of innovating when working with AI. If so, how can AI
+contribute to the development of creative self-efficacy among employees
+who lack innovation experience when working with AI? To answer this
+question, we extended the antecedents of employees’ creative
+self-efficacy when working with AI based on a model of the determinants
+
+of self-efficacy (Gist & Mitchell, 1992). We argue that high-intelligence
+AI can contribute to the development of employees’ creative
+self-efficacy because of providing them with resources for innovation.
+Therefore, creative self-efficacy plays a mediating role between
+AI-assistant intelligence and AI-enabled innovative behavior.
+Second, we aim to investigate the boundary conditions under which
+AI has a positive or negative impact on employees’ AI-enabled innova­
+tive behavior. Although previous research has implied the important
+role of organizational factors in implementing and integrating AI sys­
+tems (Parker & Grote, 2022; Prikshat et al., 2022; Seeber et al., 2020), it
+is unclear how organizational factors intervene employee-AI collabo­
+ration. According to the TMS, individuals may not appraise or respond to
+certain stressors in the same way (Lazarus & Folkman, 1987). Organi­
+zational factors partly account for variations in employees’ differential
+appraisals and responses to a given stressor. For example, Gursoy et al.
+(2019) found that social influence and group norms influenced in­
+dividuals’ cognitive appraisal of AI devices. Hence, we believe that
+employees’ cognitive appraisals of AI assistants are influenced by
+organizational factors-organizational AI readiness. Organizational AI
+readiness refers to the state of preparedness and availability of the
+organizational resources required to adopt AI (Prikshat et al., 2021).
+Employees that belong to organizations with different degrees of AI
+readiness may be in a different position to assess, prepare, and integrate
+AI assistants into their work (Makarius et al., 2020), which may influ­
+ence their appraisals and responses to AI. We propose that organiza­
+tional AI readiness moderates the relationship between AI assistants and
+employees’ creative self-efficacy as well as the relationship between AI
+assistants and STARA awareness.
+In this study, by proposing an integrative model based on TMS, we
+uniquely reveal the double-edged sword effect of AI-assistant intelli­
+gence. Our model achieves a consensus on the different theoretical views
+on how AI influences employees, and provides a new theoretical lens for
+research on the relationship between AI and employees. Further, we
+propose an influence mechanism that explains how high-intelligence AI
+assistants influence employees’ innovation behaviors. We also highlight
+the moderating role of organizational AI readiness, demonstrating how
+organizational AI readiness strengthens the positive effect of AI on
+employees and weakens the negative effect of AI on employees. These
+findings contribute to the literature on AI-related organizational factors.
+Finally, we extend the antecedents of STARA awareness and creative
+self-efficacy from the perspective of AI characteristics, which has im­
+plications for future research on the importance of AI actors in
+human–AI collaboration.
+2. Theory and hypotheses
+2.1. AI assistant and employees’ innovation behavior: mediating role of
+creative self-efficacy
+TMS suggests that individuals appraise stressors, and then consider
+their subsequent coping (Lazarus & Folkman, 1987). The more an in­
+dividual perceives a stressor as a benefit or an opportunity, the more
+likely they are to adopt problem-focused coping (Lazarus & Folkman,
+1984). Problem-focused coping refers to positive psychological states
+and approaching behaviors in response to stressors (Lazarus & Folkman,
+1987). In the context of workplace technology usage, employees can
+perceive positive psychological states and engage in approaching be­
+haviors when they appraise technologies as benefits and opportunities
+for their work. For example, Beaudry and Pinsonneault (2010) found
+that, when employees appraised the information technology as a benefit
+to their work, they would perceive playfulness and show adaptive be­
+haviors. Gursoy et al. (2019) found that customers feel positive emotions
+and accept AI devices when they appraise them as a benefit during
+service encounters. Drawing on the TMS (Lazarus & Folkman, 1984), we
+propose that employees can perceive creative self-efficacy and perform
+AI-enabled innovation behavior when they regard AI assistants as a
+2
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+benefit and opportunity for their work.
+We first explain why AI assistants with high intelligence increase
+employees’ creative self-efficacy. The construct of creative self-efficacy
+is a promising application of self-efficacy to employees’ creative per­
+formance (Tierney & Farmer, 2002). Bandura (1997) suggested that four
+categories of experience are used to develop self-efficacy: mastery,
+vicariousness, social persuasion, and physiological arousal. Previous
+experience contributes to a variety of information cues that ultimately
+determine self-efficacy (Bandura, 1997). However, when employees are
+in a novel task situation, they generally have insufficient experience in
+completing the task. Gist and Mitchell (1992) extended the determinants
+of self-efficacy by suggesting that it is formed through personal and
+situational resources in novel task situations. Extending the theory to the
+workplace AI usage context, the implementation of AI in the workplace
+means that employees must adapt to a novel task situation in which they
+lack the experience to innovate. Therefore, the availability of innovative
+resources is key to developing employees’ creative self-efficacy when
+working with AI.
+On the one hand, AI assistants with high intelligence help conserve
+the cognitive, mental, and emotional resources needed by employees for
+innovation. Compared with low-intelligence AI assistants, which are
+characterized as incompetent, malfunctioning, and inefficient, AI as­
+sistants with high intelligence have strong and versatile problem diag­
+nosis and resolution capabilities (Guha et al., 2023). They can accurately
+perform various tasks with stable and reliable results (Yoon & Lee,
+2019). Unlike AI assistants with low intelligence, which require manual
+intervention, high-intelligence AI assistants are embedded with complex
+artificial autonomy that allows them to perform tasks autonomously (Hu
+et al., 2021). Driven by machine learning algorithms, the most advanced
+AI assistants can operate proactively and perform tasks in line with
+employees’ preferences by learning their working patterns, schedules,
+and tastes (Han & Yang, 2018). With the help of a high-intelligence AI
+assistant, employees are liberated from repetitive, well-codified, and
+structured tasks. They have more autonomy in how to perform their
+work (Verma & Singh, 2022) and conserve cognitive, mental, and
+emotional resources to solve higher-level problems (Jia et al., 2023).
+Employees can then invest the surplus of resources to solving creative
+tasks, which increases their creative self-efficacy (Mathisen, 2011; Hu
+et al., 2023).
+On the other hand, such AI assistants help employees with the
+instrumental resources needed for innovation. Compared with lowintelligence AI assistants, which can only perform simple and mechan­
+ical tasks, high-intelligence AI assistants can augment employees’
+working abilities and extend their cognition by assisting them in pro­
+cessing information and analyzing data (Raisch & Krakowski, 2020). For
+example, when dealing with uncertainty and complexity in organiza­
+tional decision-making, AI can collect information about both internal
+and external organizational environments to assist human decision
+makers in predictive analytics (Jarrahi, 2018). Therefore, AI assistants
+with high intelligence complement employees’ abilities with machines’
+unique capabilities and compensate for employees’ limitations (Hunter,
+2019; Verma & Singh, 2022). They provide the instrumental resources
+needed by employees for innovation, which increases their creative
+self-efficacy (Lu et al., 2023).
+Aside from the role of high-intelligence AI assistants in providing
+employees with the resources needed for innovation, they may provide
+another source of self-efficacy: physiological arousal. Bandura (1997)
+suggested that aversive physiological arousal hinders the development
+of self-efficacy, whereas pleasurable physiological arousal promotes it.
+High-intelligence AI assistants have a human-like mental power that
+allows them to identify, understand, and influence employees’ emotions
+(Huang & Rust, 2018; Lv et al., 2022). Indeed, outperforming AI can
+transmit positive emotions to users (Chuah & Yu, 2021; Han, Yin, &
+Zhang, 2023), thus reducing the psychological distance between them
+and enhancing users’ positive emotions (Lee et al., 2022; Song et al.,
+2022). In contrast, incompetent AI does not have human-like mental
+
+power, making it difficult for users to perceive them (Yam et al., 2021).
+Malfunctioning AI can also lead to user dissatisfaction and annoyance
+(Filieri et al., 2022). Thus, we expect AI assistants with high intelligence
+to promote employees’ creative self-efficacy by arousing positive
+emotions.
+Second, we explain why employees’ creative self-efficacy leads to AIenabled innovation behavior. Tarafdar et al. (2010) used the term
+“ICT-enabled innovation” to describe the extent to which individuals use
+ICT to enhance their innovation behavior and performance. Based on the
+concept of ICT-enabled innovation, we propose AI-enabled innovation
+behavior, which describes the extent to which individuals use AI to
+improve their innovation behavior. Individuals’ creative self-efficacy is
+an important predictor of innovation behavior (Tierney & Farmer,
+2011). Creative self-efficacy has been associated with innovation
+behavior in a variety of settings, including management (Chris­
+tensen-Salem et al., 2020), education (Puozzo & Audrin, 2021), and
+human–computer interaction (Chang et al., 2019). Employees with high
+creative self-efficacy believe in their ability to generate creative ideas for
+new products or processes, and have greater confidence in solving
+problems creatively and generating solutions to new problems (Tierney
+& Farmer, 2002). Therefore, employees’ creative self-efficacy promotes
+AI-enabled innovation behavior.
+Based on the above arguments, we argue that, compared with AI
+assistants with low intelligence, AI assistants with high intelligence can
+indirectly promote employees’ AI-enabled innovation behavior through
+creative self-efficacy. Thus, we propose the following hypotheses:
+H1a. An AI assistant characterized by high intelligence (versus low
+intelligence) has a positive indirect effect on employees’ AI-enabled
+innovation behavior through creative self-efficacy.
+2.2. AI assistant and employees’ innovation behavior: mediating role of
+STARA awareness
+TMS suggests that the more an individual perceives the stressor as
+harmful or threatening, the more likely they are to adopt emotionfocused coping (Lazarus & Folkman, 1984). Emotion-focused coping
+refers to negative psychological states and avoidance behaviors in
+response to stressors, such as work withdrawal behavior and managing
+negative emotions associated with a stressful situation, rather than
+solving the problem at hand (Lazarus & Folkman, 1987). In the context
+of workplace technology usage, employees can perceive negative psy­
+chological states and perform avoidance behaviors when they appraise
+technologies as a threat or harm to their work. For example, Beaudry
+and Pinsonneault (2010) found that, when employees appraised the
+information technology as a threat to their work, they would feel anxiety
+and were less likely to use it. Butts et al. (2015) found that employees’
+negative appraisal of electronic communication led to negative emo­
+tions and work-to-non-work conflicts. Drawing on TMS, we propose that
+employees can perceive STARA awareness and reduce AI-enabled
+innovation behavior when they regard AI assistants as a threat or
+harm for their work.
+First, we explain why AI assistants with high intelligence increase
+employees’ STARA awareness. STARA awareness refers to an em­
+ployee’s perception of their working state. Employees with high STARA
+awareness believe that their jobs can be replaced by smart technology,
+AI, robotics, and algorithms, reflecting a unique perception of job un­
+certainty and insecurity in the digital era (Brougham & Haar, 2018).
+Employees engage in social comparison when they work hand-in-hand
+with an outperforming artificial agent. When the AI assistant out­
+performs the employees in some tasks, their self-esteem suffers from
+threats that would induce psychological discomfort and job insecurity
+(Spatola & Normand, 2020; Stein et al., 2020; Wang et al., 2023).
+Moreover, with the rapid advancement of AI, employees are required to
+ensure that systems function properly and safely (Wilson & Daugherty,
+2018). To some extent, advanced AI is gradually leading to a shift from
+3
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+“human assisting machines” rather than the reverse (Huang & Rust,
+2018). Machines determines business success, and employees may move
+to a more marginal position in the value chain (Nelson & Irwin, 2013).
+This shift diminishes employees’ value and worth, resulting in job
+insecurity. In contrast, low-intelligence AI assistants do not have
+human-like mental power; therefore, the degree of anthropomorphism
+among AI assistants is low (Yam et al., 2021). Rather than threatening
+employees, they foster a perception of self-identity and reduce intra­
+group prejudice and tension (Jackson et al., 2019; Savela, Kaakinen,
+Ellonen, & Oksanen, 2021). Thus, we expect AI assistants with high
+intelligence to increase employees’ STARA awareness.
+Second, we explain why employees’ STARA awareness reduces their
+AI-enabled innovation behavior. STARA awareness reflects employees’
+job insecurity when working with intelligent technology, which leads to
+the avoidance of working motivation and behaviors (Lingmont &
+Alexiou, 2020). Previous research has found that STARA awareness di­
+minishes employees’ organizational commitment and job satisfaction
+and induces job burnout and turnover intentions (Brougham & Haar,
+2017; Kong et al., 2021; Li et al., 2019). Employees’ AI-enabled inno­
+vation behavior indicates that they generate creative ideals or problem
+solutions when working with AI assistants. This approaching behavior is
+negatively related to avoidance motivation (Jin et al., 2016). Therefore,
+employees’ STARA awareness suppresses AI-enabled innovation
+behavior.
+Based on the above arguments, we argue that, compared to AI as­
+sistants with low intelligence, AI assistants with high intelligence can
+indirectly suppress employees’ AI-enabled innovation behavior through
+STARA awareness. Thus, we propose the following hypotheses:
+
+and top management support to implement and maintain AI applica­
+tions as well as sufficient installed and in-use enterprise systems and
+network technologies on which AI applications can be built (Prikshat
+et al., 2021).
+The benefits of organizational readiness for AI adoption are already
+known (Abuzaid et al., 2022; Prikshat et al., 2021; Wong et al., 2019).
+Employees who belong to organizations with a higher degree of AI
+readiness may be in a better position to rapidly assess, prepare, and
+integrate new AI assistants into their work. AI-oriented organizations
+are more capable and willing to leverage advances in AI as part of the
+development of new products or services (Makarius et al., 2020). Hence,
+employees who belong to organizations with a higher degree of AI
+readiness are more capable of coping with AI assistants and believe in
+their potential to perform tasks with AI assistant. Based on TMS (Lazarus
+& Folkman, 1987), employees with a high degree of coping potential can
+strengthen their positive appraisal and actively respond to AI assistants
+or weaken their negative appraisal and passively respond to AI assis­
+tants. Based on the above arguments, we argue that organizational AI
+readiness strengthens the positive effect of AI-assistant intelligence on
+employees’ creativity self-efficacy, while weakening the negative effect
+of AI-assistant intelligence on employees’ STARA awareness. Thus, we
+propose the following hypotheses:
+H2a. Organizational AI readiness strengthens the relationship be­
+tween AI-assistant intelligence and employees’ creative self-efficacy.
+Specifically, the effect of AI-assistant intelligence on employees’ crea­
+tive self-efficacy is stronger when organizational AI readiness is higher.
+H2b. Organizational AI readiness weakens the relationship between
+AI-assistant intelligence and employee STARA awareness. Specifically,
+the effect of AI-assistant intelligence on employees’ STARA awareness
+was weaker when organizational AI readiness was higher.
+
+H1b. An AI assistant characterized as having high intelligence (versus
+low intelligence) has a negative indirect effect on employees’ AI-enabled
+innovation behavior through STARA awareness.
+
+2.4. An integrative model
+
+2.3. The moderating role of organizational AI readiness
+
+Hypotheses 1a, 1b, 2a, and 2b suggest a moderated mediation model
+in which the indirect effect of AI-assistant intelligence on employees’ AIenabled innovation behavior through employees’ creative self-efficacy
+and STARA awareness is moderated by organizational AI readiness. In
+other words, when organizational AI readiness is high, the effects of AI
+on employees’ AI-enabled innovation behavior through creative selfefficacy are stronger. Conversely, when organizational AI readiness is
+low, the effects of AI on employees’ AI-enabled innovation behavior via
+creative self-efficacy are weaker. Regarding the mediating effect of
+STARA awareness, when organizational AI readiness is higher, the ef­
+fects of AI-assistant intelligence on employees’ AI-enabled innovation
+behavior via STARA awareness are weaker. Conversely, when organi­
+zational AI readiness is low, the effects of AI-assistant intelligence on
+employees’ AI-enabled innovation behavior through STARA awareness
+are stronger. Based on these arguments, we propose the following
+hypotheses:
+
+TMS (Lazarus & Folkman, 1987) suggests that when confronted with
+a particular stressor, individuals go through several stages of appraisal,
+including evaluating the relevance and importance of the stressor,
+evaluating what can be done about the stressor, and finally, coping at­
+titudes and behaviors. When employees perceive technology as a
+benefit, the less they believe in their potential to cope with it, the less
+likely they are to respond actively; when employees perceive technology
+as a threat, the more they believe in their potential to cope with it, the
+less likely they are to respond passively (Beaudry and Pinsonneault,
+2010). Organizational factors in TMS answer the following question:
+What can an individual do with organizational help when confronted
+with a stressor? Organizational factors are related to the resources and
+support available to employees, which partly account for the variation in
+employees’ coping potential (Lazarus & Folkman, 1984). We introduced
+organizational AI readiness as an organizational factor and investigated
+its moderating effect on cognitive appraisal processes.
+Organizational AI readiness was developed based on the concept of
+organizational readiness, which refers to the state of preparedness and
+availability of organizational resources required to adopt technology
+(Hossain et al., 2016). Organizational readiness can be used to describe
+the readiness of organizational resources required to adopt a specific
+technology. For example, van de Weerd, Mangula, and Brinkkemper
+(2016) defined organizational readiness as the availability of organiza­
+tional resources to implement and integrate SaaS applications when
+studying the influence of organizational factors on SaaS adoption.
+Hence, organizational AI readiness can describe the state of prepared­
+ness and availability of organizational resources required to adopt AI
+(Prikshat et al., 2021). Moreover, this concept is often specified in terms
+of four aspects: financial, expert human resources, infrastructure, and
+top management support (Hossain et al., 2016). Organizations with high
+AI readiness have sufficient financial resources, technical professionals,
+
+H3a. Organizational AI readiness moderates the indirect relationship
+between AI-assistant intelligence and employees’ AI-enabled innovation
+behavior through creative self-efficacy such that the relationship is
+stronger when organizational AI readiness is higher than when it is
+lower.
+H3b. Organizational AI readiness moderates the indirect relationship
+between AI-assistant intelligence and employees’ AI-enabled innovation
+behavior through STARA awareness such that the relationship is weaker
+when organizational AI readiness is higher than when it is lower.
+Fig. 1 illustrates the theoretical model.
+3. Overview of studies
+We conducted two scenario-based experiments to test our
+4
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+Fig. 1. Theoretical model.
+
+hypotheses. Participants’ behaviors in scenario-based experiments are
+consistent with their actual work (Woods et al., 2006). Given the con­
+straints of conducting a randomized field experiment of AI-employee
+collaboration, scenario-based experiments are most often employed to
+test the behavioral and psychological consequences of AI-employee
+collaboration. For example, Tang, Koopman, Yam, et al. (2022) and
+Tang, Koopman, McClean et al. (2022) stimulated participants’ role
+breadth self-efficacy and self-esteem by video manipulation of AI usage.
+Stein et al. (2020) created two written vignettes for the manipulation of
+AI and revealed the effect of AI on individuals’ psychological well-being.
+In Study 1, we examined the impact of AI-assistant intelligence on
+employees’ AI-enabled innovation behavior, as well as the mediating
+effects of creative self-efficacy (H1a) and STARA awareness (H1b). We
+experimentally manipulated the intelligence of AI assistants and
+measured participants’ creative self-efficacy, STARA awareness, and AIenabled innovation behavior. In Study 2, we replicated the scenariobased manipulation and design from Study 1, and further manipulated
+organizational AI readiness. In Study 2, we further tested the results of
+Study 1 and examined the moderating effect of organizational AI read­
+iness on the relationship between AI-assistant intelligence, creative selfefficacy (H2a), and STARA awareness (H2b), as well as the moderated
+mediation effect (H3a and H3b).
+
+AI assistants, creative self-efficacy, STARA awareness, AI-enabled
+innovation behavior, and the control variables.
+4.2. Manipulation
+To increase psychological realism, AI assistants conversationally
+interacted with participants, which was conducted through a video
+embedded in the survey. These videos combine sophisticated-looking
+animation and an anthropomorphic-sounding voice created by an AIbased text-to-video service.
+Verbal persuasion, in which individuals are verbally convinced that
+they possess the capabilities required to act successfully, contributes to
+the development of self-efficacy and other self-perceptions (Bandura,
+1997). In the scenario-based experiments, by using experimental ma­
+terial such as written vignettes (Ni et al., 2022; Mao, Quan, Li, & Xiao,
+2021), pictures (Ng et al., 2022), and videos (Ng et al., 2022), partici­
+pants were persuaded to believe that they had the ability to complete the
+task, which, in turn, stimulated their self-efficacy. Therefore, the
+experimental materials with written vignettes and AI-based videos used
+in our experiments can make the participants believe that they can
+complete innovative tasks when working with AI assistants (see Ap­
+pendix A for the manipulation videos). Fig. 2 shows a sample image of
+the virtual AI assistant “Amy” in the manipulation videos.
+To distinguish between the different levels of AI-assistant intelli­
+gence, we created two self-introductions of AI assistants based on the
+common functions on the market and previous research (Kim et al.,
+2022; Pitardi et al., 2022; Stein et al., 2020). Appendix B provides the
+exact script used in the manipulation of AI-assistant intelligence levels
+(see Appendix B for the exact script).
+
+4. Study 1
+4.1. Participants and procedures
+We conducted a single-factor (high AI-assistant intelligence versus
+low AI-assistant intelligence) between-subjects experiment. We
+recruited 103 MBA students (Mage = 25.99, SD = 6.50, 47.6% male)
+from a large university in China between September 2022 and October
+2022. We invited students to participate in this experiment during the
+break time of MBA classes. The MBA students volunteered for this
+experiment and were compensated with course credit. MBA students are
+well-educated and have substantial work and managerial experience,
+which allows them to understand experimental scenarios quickly and
+accurately. This approach potentially offers more realism in its assess­
+ment of employee perceptions of AI assistants (Castilla & Benard, 2010).
+We randomly assigned participants to one of two conditions. Subse­
+quently, participants read a description of the scenario in which they
+were instructed to imagine themselves as employees using an AI assis­
+tant. The script describing the scenario is as follows:
+Imagine you are a pre-sales engineer in charge of customer demand
+dig-out, product solution design, bidding document production, and
+bidding Q&A. In recent years, many industries and companies have
+attempted to implement AI to assist employees in their daily work.
+Following an investigation, your company’s managers have also decided
+to bring in AI assistants to help you with your work.
+The participants then watched the virtual AI assistant introduce
+themselves and answer scenario-related questions based on how they
+felt in a simulated situation. We measured the perceived intelligence of
+
+4.3. Measures
+All scales were presented in Chinese to the respondents. As the
+measurement scales used were originally developed in English, we
+conducted a commonly used translation and back-translation procedure
+
+Fig. 2. The virtual AI assistant used in the studies.
+5
+
+Computers in Human Behavior 150 (2024) 107987
+
+M. Yin et al.
+
+for the items to ensure the equivalency of meaning in the Chinese
+version.
+We used the five-item semantic differential scale developed by
+Bartneck et al. (2009) to assess participants’ perceived intelligence.
+STARA awareness was measured using a five-item scale adapted from
+Brougham and Haar (2018). Creative self-efficacy was measured using a
+three-item scale adapted from Tierney and Farmer (2002). The items
+were modified slightly to fit the research context. The measurement
+scales used are listed in Table 1. The reliability and validity of the
+measurement items were tested. First, the values of Cronbach’s α should
+exceed 0.70. Second, three criteria were used to determine convergent
+validity: composite reliability (CR) above 0.70, average variance
+extracted (AVE) at least 0.50, and all factor loadings greater than 0.50 at
+statistical significance. As shown in Table 1, all measures have good
+reliability and validity.
+Following Yam et al. (2022), we measured AI-enabled innovation
+behavior using behavioral measures. At the end of the study, we told
+participants that “after using the AI assistant for a while, the leader
+assigned you a task. The company has developed a batch of new
+equipment that requires you to find potential target customers and
+design solutions. What would you do?“. Participants were asked to what
+extent they would “use AI assistant to gather market information, find
+new potential customers, and use AI assistant to restructure project
+processes, design new solutions instead of applying old ones.”
+Seven-point Likert scales ranging from 1 (strongly disagree) to 7
+(strongly agree) were used to measure STARA awareness, creative
+self-efficacy, and AI-enabled innovation behavior.
+We controlled for the participants’ gender, age, familiarity with AI,
+
+and prior experience. Familiarity with AI was measured using the scale
+developed by Pitardi et al. (2022). Each participant rated their famil­
+iarity with the AI in general conditions using a 7-point Likert scale
+ranging from 1 (not familiar at all) to 7 (very familiar). Prior experience
+was measured using a scale developed by Gelbrich et al. (2021). The
+item for prior experience is “I have experience with using AI” (1 =
+strongly disagree to 7 = strongly agree).
+4.4. Results
+4.4.1. Descriptive statistics and correlations
+Means, standard deviations, and correlations for variables in Study 1
+are presented in Table 2. As shown in Table 2, AI-assistant intelligence
+positively correlated with participants’ creative self-efficacy (r = 0.439,
+p < 0.001), and participants’ creative self-efficacy positively correlated
+with AI-enabled innovation behavior (r = 0.394, p < 0.001). These re­
+sults are consistent with and provide initial support for Hypothesis 1a.
+4.4.2. Manipulation check
+An independent samples t-test showed that, as expected, participants
+in the experimental condition experienced higher levels of AI-assistant
+intelligence (M = 4.035, SD = 0.753) than in the control condition
+(M = 3.519, SD = 1.046), t = 2.896, p < 0.05. Thus, the manipulation of
+AI-assistant intelligence was successful.
+4.4.3. Confirmatory factor analysis
+We conducted confirmatory factor analyses (CFAs) using structural
+equation modeling (SEM) with Mplus 8.3 to test the construct validity.
+Results indicated that the three-factor hypothesized model (i.e., AIassistant intelligence, creative self-efficacy, STARA awareness) demon­
+strated acceptable model fit (χ2 (63) = 112.227, CFI = 0.951, TLI =
+0.939, RMSEA = 0.087). Our hypothesized model was superior to two
+alternative models: (1) a two-factor model, in which creative selfefficacy and STARA awareness loaded on a single factor (χ2 (65) =
+409.915, CFI = 0.656, TLI = 0.587, RMSEA = 0.227) and (2) a onefactor model, in which AI-assistant intelligence, creative self-efficacy
+and STARA awareness loaded on a single factor (χ2 (66) = 615.250,
+CFI = 0.452, TLI = 0.352, RMSEA = 0.284).
+
+Table 1
+Scales used in Study 1 and Study 2.
+Construct and item
+
+Factor loading
+(Study1)
+
+Factor loading
+(Study2)
+
+AI-assistant intelligence (Study1: CR = 0.928, AVE = 0.764, Cronbach’s α = 0.925;
+Study2: CR = 0.913, AVE = 0.725, Cronbach’s α = 0.898)
+Incompetent/competent
+0.899
+0.907
+Ignorant/knowledgeable
+0.887
+0.739
+Irresponsible/responsible
+0.801
+0.820
+Unintelligent/intelligent
+0.905
+0.867
+Foolish/sensible
+0.900
+0.884
+STARA awareness (Study1: CR = 0.934, AVE = 0.779, Cronbach’s α = 0.905; Study2:
+CR = 0.938, AVE = 0.834, Cronbach’s α = 0.933)
+I think my job could be replaced by STARA
+0.856
+0.889
+(smart technology, artificial intelligence,
+robotics, and algorithms).
+I am personally worried that what I do now in
+0.879
+0.931
+my job can be replaced by STARA.
+I am personally worried about my future in my
+0.887
+0.919
+organization owing to STARA replacing
+employees.
+I am personally worried about my future in my
+0.907
+0.910
+industry owing to STARA replacing
+employees.
+Creative self-efficacy (Study1: CR = 0.961, AVE = 0.892, Cronbach’s α = 0.939;
+Study2: CR = 0.953, AVE = 0.870, Cronbach’s α = 0.925)
+I have confidence in my ability to solve
+0.953
+0.942
+problems creatively when working with AI
+assistance.
+I feel that I am good at generating novel ideas
+0.954
+0.932
+when working with AI assistance.
+I have a knack for further developing the ideals
+0.926
+0.924
+of others when working with AI assistance.
+Organizational readiness (Study2: CR = 0.966, AVE = 0.877, Cronbach’s α = 0.953)
+The company has financial resources for AI
+0.934
+assistance projects.
+The company has expert human resources in AI
+0.959
+assistance.
+The company has an excellent AI-based
+0.933
+infrastructure, including all IT components.
+The company’s top managers support by
+0.919
+providing labor resources, finances, and
+materials for AI assistance.
+
+4.4.4. Hypothesis testing
+SEM was used to test the hypothesized model. As shown in Fig. 3,
+after controlling for participants’ gender, age, familiarity, and prior
+experience, AI-assistant intelligence was positively related to creative
+self-efficacy (β = 0.660, p <0.001), whereas AI-assistant intelligence
+was not significantly related to STARA awareness (β = 0.189, n.s.).
+Creative self-efficacy was positively related to AI-enabled innovation
+behavior (β = 0.374, p <0.01) and STARA awareness negatively related
+to AI-enabled innovation behavior (β = − 0.463, p <0.01). We tested the
+mediating effects using the bootstrapped indirect effect analysis (5000
+resamples). Results showed that the indirect effect of AI-assistant in­
+telligence on AI-enabled innovation behavior via creative self-efficacy
+was significant (coefficient = 0.247, 95% CI = [0.047, 0.500]),
+whereas the indirect effect of AI-assistant intelligence on AI-enabled
+innovation behavior via STARA awareness was not significant (coeffi­
+cient = − 0.088, 95% CI [-0.223, 0.041]). These results supported Hy­
+pothesis 1a but not 1b.
+4.4.5. Discussion
+Study 1 revealed that AI assistants with high intelligence can pro­
+mote employees’ AI-enabled innovation behavior via creative selfefficacy, providing evidence for Hypothesis 1. However, we found no
+support for the mediating role of employees’ STARA awareness. Ac­
+cording to the TMS, employees evaluate what can be done by an AI
+assistant also based on their coping potential. Employees who believed
+in their potential to cope with AI were more likely to adopt problemfocused coping, whereas those who did not believed in their potential
+6
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+Table 2
+Descriptive statistics and correlations for study variables (Study 1).
+Variable
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1. Gender
+2. Age
+3. Familiarity
+4. Prior experience
+5. AI-assistant intelligence
+6. STARA awareness
+7. Creative self-efficacy
+8. AI-enabled innovation behavior
+
+1.524
+25.990
+4.000
+4.408
+3.775
+4.299
+4.990
+4.427
+
+0.502
+6.501
+1.290
+1.309
+0.945
+1.237
+1.314
+1.506
+
+− 0.194*
+− 0.212*
+− 0.164
+0.181
+− 0.314**
+− 0.086
+0.103
+
+0.105
+0.143
+− 0.178
+0.011
+0.004
+− 0.121
+
+0.563**
+− 0.019
+− 0.011
+0.069
+0.081
+
+− 0.136
+− 0.014
+0.109
+0.199**
+
+0.098
+0.439**
+0.333*
+
+0.119
+− 0.251*
+
+0.394**
+
+Note: N = 102; *p < 0.05, **p < 0.001.
+
+Fig. 3. Results of structural equation modeling (study1)
+Note: N = 103. This is a simplified version of the actual model. *p < 0.05, **p < 0.001.
+
+to cope with AI were more likely to adopt emotion-focused coping
+(Spekman et al., 2018). Considering organizational characteristics have
+been noted to affect employees’ coping potential (Parker & Grote,
+2022). We designed Study 2 to reveal that, under what organizational
+circumstance, the positive effect of AI assistants with high intelligence
+on employees’ creative self-efficacy can be strengthened, and the posi­
+tive effect of AI assistants with high intelligence on employees’ STARA
+awareness can be significant.
+
+organizational AI readiness. The items were modified slightly to fit the
+research context. A sample item for organizational AI readiness is “The
+company would have financial resources to adopt AI.” (1 = strongly
+disagree to 7 = strongly agree). As shown in Table 1, all measures dis­
+played good reliability and validity.
+5.4. Results
+5.4.1. Descriptive statistics and correlations
+The means, standard deviations, and correlations of the variables in
+Study 2 are presented in Table 3.
+
+5. Study 2
+5.1. Participants and procedures
+
+5.4.2. Manipulation check
+An independent sample t-test showed that, as expected, participants
+in the experimental condition experienced higher levels of AI-assistant
+intelligence (M = 4.021, SD = 0.711) than participants in the control
+condition (M = 3.484, SD = 0.844), t = 4.741, p < 0.001. Participants in
+the experimental condition perceived higher levels of organizational AI
+readiness (M = 5.430, SD = 1.110) compared to participants in the
+control condition (M = 3.553, SD = 1.631; t = 9.251, p < 0.001. Thus,
+the manipulation of the AI-assistant intelligence and organizational AI
+readiness was successful.
+
+We conducted a 2 (high AI-assistant intelligence vs. low AI-assistant
+intelligence) × 2 (high organizational AI readiness vs. low organiza­
+tional AI readiness) between-subjects experiment. We recruited 191
+MBA students (Mage = 26.44 SD = 8.87, 47.4% males) following the
+same procedure and schedule as in Study 1. We randomly assigned the
+participants to one of the four conditions. Next, participants read a
+description of the scenario used in Study 1. The participants then
+watched the virtual AI assistant introduce herself and read a description
+of the organizational context. Finally, participants answered scenariorelated questions based on how they felt in the simulated situation.
+We measured the perceived intelligence of AI assistants, organizational
+AI readiness, creative self-efficacy, STARA awareness, AI-enabled
+innovation behavior, and the control variables.
+
+5.4.3. CFA
+We conducted CFAs to test the construct validity using the same
+procedure in Study 1. Table 4 shows that the fit indices for the proposed
+four-factor model were satisfactory and superior to three alternative
+models.
+
+5.2. Manipulation
+We performed the same manipulation of AI-assistant intelligence as
+in Study 1. To manipulate organizational AI readiness, we created two
+descriptions of the organizational context based on previous research
+(Prikshat et al., 2021). Appendix B provides the script used to manipu­
+late different levels of organizational AI readiness.
+
+5.4.4. Hypothesis testing
+Fig. 4 presents the results of the SEM. First, the hypothesis testing in
+Study 1 was replicated. After controlling for gender, age, familiarity
+with AI, and prior experience, the indirect effect of AI-assistant intelli­
+gence on AI-enabled innovation behavior via creative self-efficacy was
+significant (indirect effect = 0.178, 95% CI = [0.039, 0.419]), sup­
+porting Hypothesis 1a. The indirect effect of AI-assistant intelligence on
+participants’ AI-enabled innovation behavior via STARA awareness is
+not significant (indirect effect = − 0.023, 95% CI [-0.138, 0.091]),
+rejecting Hypothesis 1b.
+To test the moderating role of organizational AI readiness, we con­
+ducted the latent moderated structural equation modeling (LMS) using
+
+5.3. Measures
+The same scales as in Study 1 were used to measure the AI-assistant
+intelligence, STARA awareness, creative self-efficacy, AI-enabled inno­
+vation behavior, and control variables in Study 2. In addition, we used
+the 4-item scale developed by Hossain et al. (2016) to assess
+7
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+Table 3
+Descriptive statistics and correlations for study variables (Study 2).
+Variable
+
+M
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1. Gender
+2. Age
+3. Familiarity
+4. Prior experience
+5. AI-assistant intelligence
+6. Organizational AI readiness
+7. STARA awareness
+8. Creative self-efficacy
+9. AI-enabled innovation behavior
+
+1.526
+26.437
+4.100
+4.290
+3.753
+4.501
+4.251
+5.063
+4.825
+
+0.501
+8.866
+1.198
+1.510
+0.824
+1.677
+1.442
+1.229
+1.405
+
+− 0.221**
+− 0.176*
+− 0.042
+− 0.029
+0.051
+0.087
+0.000
+− 0.028
+
+− 0.013
+− 0.091
+0.033
+− 0.255**
+− 0.327**
+0.035
+0.127
+
+0.464**
+0.002
+− 0.022
+− 0.025
+0.024
+0.190**
+
+0.091
+− 0.024
+0.064
+− 0.009
+0.214**
+
+0.121
+0.067
+0.250**
+0.226**
+
+0.176*
+0.210**
+− 0.019
+
+− 0.053
+− 0.280**
+
+0.330**
+
+Note: N = 191; *p < 0.05, **p < 0.001.
+Table 4
+Results of CFAs.
+Model
+
+χ2
+
+df
+
+TLI
+
+CFI
+
+RMSEA
+
+Four-factor model (a-b-c-d)
+Three-factor model 1 (a-bc-d)
+Two-factor model 2 (a-bcd)
+One-factor model (abcd)
+
+124.332
+575.802
+1175.405
+1962.330
+
+98
+101
+103
+104
+
+0.987
+0.771
+0.494
+0.131
+
+0.989
+0.808
+0.565
+0.247
+
+0.038
+0.158
+0.235
+0.307
+
+Note: a = AI-assistant intelligence; b = creative self-efficacy; c = STARA
+awareness; d = organizational AI readiness.
+
+Mplus 8.3. As shown in Fig. 4, after controlling for participants’ gender,
+age, familiarity, and prior experience, the interaction between AIassistant intelligence and organizational AI readiness was significantly
+and positively related to creative self-efficacy (β = 0.286, p <0.001).
+The simple slope tests and interaction plot in Fig. 5 show that, when
+organizational AI readiness was higher (SD + M), the relationship be­
+tween AI-assistant intelligence and creative self-efficacy was positive
+(simple slope = 0.622, p <0.001). In contrast, when organizational AI
+readiness was low (SD-M), the relationship became non-significant
+(simple slope = 0.077, p = 0.567). Therefore, Hypothesis 2a was
+supported.
+The interaction between AI-assistant intelligence and organizational
+AI readiness was significantly and negatively related to STARA aware­
+ness (β = − 0.267, p <0.05). The simple slope tests and interaction plot
+in Fig. 6 show that, when organizational AI readiness was lower (SD-M),
+the relationship between AI-assistant intelligence and creative selfefficacy was positive (simple slope = 0.319, p <0.05). In contrast,
+when organizational AI readiness was higher (SD + M), the relationship
+became non-significant (simple slope = − 0.175, p = 0.212). Therefore,
+Hypothesis 2b was supported.
+To test the moderated mediating effects, we conducted the LMS using
+Mplus 8.3. Following the procedure introduced by Edwards and Lambert
+(2007), we tested the indirect effects of AI-assistant intelligence on
+AI-enabled innovation behavior via creative self-efficacy/STARA
+awareness at higher (+1 SD) and lower (− 1 SD) levels of organiza­
+tional AI readiness and the difference between these two effects (index
+of moderated mediation). The mediating effect was moderated if the
+
+Fig. 5. The moderating effect of organizational AI readiness on the relationship
+between AI-assistant intelligence and creative self-efficacy.
+
+index of moderated mediation was significant (Edwards and Lambert,
+2007). To assess the significance of the index of moderated mediation,
+we calculated bootstrapped bias-corrected CIs for 500 resamples with a
+95% confidence interval.
+As shown in Table 5, the difference between the indirect effects of AIassistant intelligence on AI-enabled innovation behavior via creative
+self-efficacy at higher and lower levels of organizational AI readiness
+was significant (moderated mediation index = 0.226, 95%CI [0.064,
+0.531]). Therefore, Hypothesis 3a was supported. The difference be­
+tween the indirect effects of AI-assistant intelligence on AI-enabled
+innovation behavior via STARA awareness at higher and lower levels
+of organizational AI readiness was significant (moderated mediation
+index = 0.139, 95%CI [0.019, 0.429]). Therefore, Hypothesis 3b was
+supported.
+
+Fig. 4. Results of structural equation modeling (study2)
+Note: N = 191. This is a simplified version of the actual model. *p < 0.05, **p < 0.001.
+8
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+assistant characterized as high-intelligence (vs. low-intelligence) has a
+positive indirect effect on employees’ AI-enabled innovation behavior
+via creative self-efficacy, and the indirect effect is stronger when orga­
+nizational AI readiness is higher than it is lower; and (2) an AI assistant,
+characterized by high-intelligence (vs low-intelligence), has a negative
+indirect effect on employees’ AI-enabled innovation behavior via STARA
+awareness when organizational AI readiness is lower.
+6.2. Theoretical contributions
+This study has important implications for theory and research. First,
+contradictions exist regarding the consequences of AI in workplace. On
+the one hand, AI is beneficial to employees because it can augment their
+working abilities. On the other hand, AI can create job insecurity and
+other negative psychological consequences. We propose an integrative
+model that shows the coexistence of two pathways through which AI
+assistants influence employees’ innovation behavior. It helps resolve
+previous contradictory arguments about the consequences of AI in the
+workplace and advances our understanding of the consequences of AI
+from the “bright” and “dark” sides simultaneously.
+Second, based on TMS, we introduced creative self-efficacy and
+STARA awareness as mediators. Our findings indicate that AI assistants
+promote employees’ AI-enabled innovation behavior through creative
+self-efficacy and suppress employees’ AI-enabled innovation behavior
+through STARA awareness when organizational AI readiness is low. By
+proposing and testing the mediating effects of creativity self-efficacy and
+STARA awareness, our study reveals the mechanism through which AI
+influences employee innovation. These findings also provide a new
+theoretical lens for future research on revealing how AI influence em­
+ployees’ behaviors.
+Third, although previous research has implied the important role of
+organizational factors in implementing and integrating AI systems
+(Parker & Grote, 2022; Prikshat et al., 2022; Seeber et al., 2020), it is
+unclear how organizational factors intervene employee-AI collabora­
+tion. Based on TMS, we identified and tested the moderating effect of
+organizational AI readiness. This study reveals the boundary conditions
+under which the positive influence of AI on employees can be
+strengthened and the negative influence of AI on employees can be
+weakened. Thus, these findings contribute to the literature on organi­
+zational readiness and broaden our knowledge of the role of organiza­
+tional factors in coordinating employee-AI collaboration.
+Fourth, STARA awareness serves as a predictor of employees’ emo­
+tions, cognition, and behavior toward AI (Brougham & Haar, 2017; Kong
+et al., 2021; Li et al., 2019). These studies assumed that STARA
+awareness arises spontaneously in individuals, focusing only on the
+central role of humans, while ignoring the broader technological context
+of work (Anthony et al., 2023). We propose that STARA awareness does
+not arise spontaneously in individuals, but is stimulated by AI itself. Our
+study provides experimental evidence that AI positively correlates with
+STARA awareness. These findings contribute to the literature on the
+antecedents of STARA awareness and highlight the important role of AI
+in human–AI collaboration.
+Fifth, employees rely on work experience as a source of self-efficacy
+(Bandura, 1997). However, the implementation of AI in the workplace
+means that employees must adapt to novel task situations in which they
+lack the experience of innovating. Drawing on a model of the de­
+terminants of self-efficacy (Gist & Mitchell, 1992), we argue that AI with
+high intelligence can promote employees’ creative self-efficacy because
+of providing innovation resources and arousing positive emotions. Our
+study provides experimental evidence that AI positively correlates with
+creative self-efficacy. These findings contribute to the literature on an­
+tecedents of creative self-efficacy in novel AI-related task situations.
+
+Fig. 6. The moderating effect of organizational AI readiness on the relationship
+between AI-assistant intelligence and STARA awareness.
+Table 5
+Results of moderated mediation tests.
+Path
+
+Slopes
+
+Standard
+Error
+
+95% CI
+Upper
+
+Lower
+
+AI-assistant intelligence→Creative self-efficacy→AI-enabled innovation behavior
+High organizational AI readiness
+0.303
+0.156
+0.115
+0.743
+(M + SD)
+Low organizational AI readiness
+0.077
+0.107
+− 0.068
+0.410
+(M-SD)
+Slope difference
+0.226
+0.112
+0.064
+0.531
+AI-assistant intelligence→STARA awareness→AI-enabled innovation behavior
+High organizational AI readiness
+0.048
+0.072
+− 0.050
+0.262
+(M + SD)
+Low organizational AI readiness
+− 0.091
+0.072
+− 0.295
+0.010
+(M-SD)
+Slope difference
+0.139
+0.093
+0.019
+0.429
+
+Note: N = 191; *p < 0.05, **p < 0.001.
+
+5.5. Discussion
+Study 2 not only confirms the findings of Study 1, but also reveals
+that organizational AI readiness strengthens the indirect relationship
+between AI-assistant intelligence and employees’ AI-enabled innovation
+behavior through creative self-efficacy. In Study 1, we failed to find
+evidence for the mediating role of employees’ STARA awareness.
+However, Study 2 reveals that the indirect relationship between AIassistant intelligence and employees’ AI-enabled innovation behavior
+through STARA awareness is significant when organizational AI readi­
+ness is lower. In general, Study 2 revealed the boundary condition under
+which the positive influence of AI assistants with high intelligence on
+employees can be strengthened and the negative influence of AI assis­
+tants with high intelligence on employees can be weakened. These
+findings are consistent with the literature on the important role of
+organizational readiness in the effective integration of AI (Seeber et al.,
+2019; Prikshat et al., 2021; Makarius et al., 2020).
+6. Conclusions and general discussion
+6.1. Conclusions
+Based on TMS, we investigated the double-edged sword effect of AI
+assistants with high intelligence on employees’ innovation behavior.
+Using two experimental scenarios, the results indicate that (1) an AI
+
+6.3. Practical implications
+This study has several practical implications. First, despite the
+9
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+potential for AI to drive organizationally valued outcomes, there is ev­
+idence that many companies do not experience the anticipated benefits
+(Canhoto & Clear, 2020). Many companies invest time, effort, and re­
+sources in AI yet find it difficult to integrate AI with existing people,
+processes, and systems, ultimately deeming AI initiatives failures
+(Fountaine et al., 2019). Companies need to realize that AI is a
+double-edged sword that may either promote or inhibit employee
+innovation behavior, depending on whether it works through the crea­
+tive self-efficacy pathway or the STARA awareness pathway. We suggest
+that managers try their best to take measures to reduce employees’
+STARA awareness and enhance creative self-efficacy. On the one hand,
+managers can design a variety of interventions to identify, manage, and
+prevent STARA awareness. Managers should provide employees with
+learning and career development opportunities, resources, and organi­
+zational support. This support can help them adapt their skills and ca­
+pacities to the technology-driven changing work environment and find
+opportunities to perform subjective work that would not be easily
+replaced by AI. On the other hand, managers should also realize that AI
+is used not only to automate a variety of tasks that used to be performed
+by humans but also to augment employees’ working abilities and pro­
+mote their performance. Managers should evaluate the best AI appli­
+cations and design effective organizational structures or management
+systems to exploit its advantages.
+Second, our findings reveal the boundary conditions under which
+AI’s positive and negative influences on employees can be strengthened.
+Hence, although AI is a double-edged sword, companies can benefit
+from it while avoiding its negative impacts by promoting their organi­
+zations’ AI readiness. Specifically, we suggest that companies provide
+sufficient investment and technical professionals to implement and
+maintain AI applications to ensure that employees receive timely help
+when they have difficulty using AI. Companies should invest in AI-based
+infrastructures and equip their employees with high-performance com­
+puters and high-speed networks. Top management should motivate
+employees to integrate AI into their working processes, resolve conflict,
+rebalance power at different phases of the technology assimilation
+lifecycle, reward the desirable behaviors of employees in using AI, and
+create an organizational climate of learning and active use of AI.
+
+behaviors was not investigated. We suggest that future research could
+broaden our understanding by investigating the relationship between
+these characteristics and employees’ innovation behavior.
+Fourth, the AI assistant played the role of coworkers in our research,
+performing tasks for employees either independently or collaboratively.
+AI can not only affect employees serving as coworkers, but also as su­
+pervisors (Yam et al., 2022; Tong, Jia, Luo, & Fang, 2021). Therefore,
+the findings of our research may not apply to AI, which performs
+managerial tasks. We suggest that future research explore the impact of
+AI serving as a supervisor on employees’ innovation behavior.
+Fifth, in addition to the TMS, the job demands-resources model (JDR), conservation of resources theory, social information processing
+theory, and other theories provide important theoretical perspectives to
+reveal the double-edged sword effect. For example, the JD-R model
+suggests that job demands and resources jointly determine an in­
+dividual’s working status (Hobfoll, 2002). Job demands cause in­
+dividuals to experience strain. Job demands can also be considered
+challenging and motivate employees to implement positive behaviors
+when they have sufficient job resources (Liang et al., 2022). Because
+techno-overload, techno-complexity, and techno-uncertainty of AI itself,
+which can lead to technostress and consume individuals’ physical and
+psychological resources, the implementation of AI was considered to be
+job demands (Wang et al., 2023). We suggest that future research
+investigate the double-edged sword effect of AI-assistant intelligence on
+employees’ innovation behavior based on the JD-R model, which could
+help reveal different mediating mechanisms and boundary conditions.
+CRediT authorship contribution statement
+Meng Yin: Writing – original draft, Software, Methodology, Formal
+analysis, Conceptualization. Shiyao Jiang: Writing – review & editing,
+Data curation, Conceptualization. Xiongying Niu: Writing – review &
+editing, Funding acquisition.
+Declaration of competing interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+
+6.4. Limitations and future research
+This study has several limitations that set the stage for promising
+future studies. First, we conduct two scenario-based experiments to test
+our hypotheses. Although experimental materials were provided to
+simulate reality, there is still a bias between the experimental scenario
+and the actual working situation, which may limit the external validity
+of the results. A field design should be applied to test the relationships
+documented in the future and strengthen the external validity of our
+findings.
+Second, our results are based on a convenience sample, and the
+majority of participants were MBA students, which helps establish the
+internal validity of the results but simultaneously weakens the external
+validity at the same time. Although professional and educational back­
+grounds did not directly affect our dependent variables, previous
+research argued that employees with a technology/engineering degree
+or higher knowledge, skills, and abilities could develop greater advan­
+tages in collaboration with AI (Kim et al., 2022; Oksanen et al., 2020)
+that might, in turn, have affected our outcome (Jia et al., 2023). Future
+research should replicate and extend these results with a more balanced
+sample in terms of professional and educational background.
+Third, we experimentally manipulated AI-assistant intelligence to
+examine its effect on employees’ innovation behaviors. Anthropomor­
+phism (Yam et al., 2021), emotional support (Gelbrich et al., 2021),
+transparency (Glikson & Woolley, 2020), and other characteristics of AI
+assistants may also influence employees’ innovation behavior via psy­
+chological outcomes. Although we controlled for these characteristics in
+our experimental design, their impact on employees’ innovative
+
+Data availability
+Data will be made available on request.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.chb.2023.107987.
+References
+Abuzaid, M. M., Elshami, W., Tekin, H., & Issa, B. (2022). Assessment of the willingness
+of radiologists and radiographers to accept the integration of artificial intelligence
+into radiology practice. Academic Radiology, 29(1), 87–94.
+Anthony, C., Bechky, B. A., & Fayard, A. L. (2023). Collaborating” with AI: Taking a system
+view to explore the future of work. online: Organization Science.
+Arias-Perez, J., & Velez-Jaramillo, J. (2022). Ignoring the three-way interaction of digital
+orientation, not-invented-here syndrome and employee’s artificial intelligence
+awareness in digital innovation performance: A recipe for failure. Technological
+Forecasting and Social Change, 174, Article 121350.
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York: Freeman.
+Bartneck, C., Kulić, D., Croft, E., & Zoghbi, S. (2009). Measurement instruments for the
+anthropomorphism, animacy, likeability, perceived intelligence, and perceived
+safety of robots. International Journal of Social Robotics, 1(1), 71–81.
+Beaudry, A., & Pinsonneault, A. (2010). The other side of acceptance: Studying the direct
+and indirect effects of emotions on information technology use. MIS Quarterly, 34(4),
+689–710.
+Brougham, D., & Haar, J. (2017). Smart technology, artificial intelligence, robotics, and
+algorithms (STARA): Employees’ perceptions of our future workplace. Journal of
+Management and Organization, 24(2), 239–257.
+
+10
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+
+Brougham, D., & Haar, J. (2018). Smart technology, artificial intelligence, robotics, and
+algorithms (STARA): Employees’ perceptions of our future workplace. Journal of
+Management & Organization, 24(2), 239–257.
+Brynjolfsson, E., Rock, D., & Syverson, C. (2021). The productivity J-Curve: How
+intangibles complement general purpose technologies. American Economic Journal:
+Macroeconomics, 13(1), 333–372.
+Butts, M. M., Becker, W. J., & Boswell, W. R. (2015). Hot buttons and time sinks: The
+effects of electronic communication during nonwork time on emotions and worknonwork conflict. Academy of Management Journal, 58(3), 763–788.
+Canhoto, A. I., & Clear, F. (2020). Artificial intelligence and machine learning as business
+tools: A framework for diagnosing value destruction potential. Business Horizons, 63
+(2), 183–193.
+Castilla, E. J., & Benard, S. (2010). The paradox of meritocracy in organizations.
+Administrative Science Quarterly, 55, 543–576.
+Chang, Y. S., Chen, M. Y. C., Chuang, M. J., & Chou, C. H. (2019). Improving creative
+self-efficacy and performance through computer-aided design application. Thinking
+Skills and Creativity, 31, 103–111.
+Christensen-Salem, A., Walumbwa, F. O., Hsu, C. I. C., Misati, E., Babalola, M. T., &
+Kim, K. (2020). Unmasking the creative self-efficacy-creative performance
+relationship: The roles of thriving at work, perceived work significance, and task
+interdependence. International Journal of Human Resource Management, 32(22),
+4820–4846.
+Chuah, H. W., & Yu, J. (2021). The future of service: The power of emotion in
+human–robot interaction. Journal of Retailing and Consumer Services, 61(3), Article
+102551.
+Edwards, J. R., & Lambert, L. S. (2007). Methods for integrating moderation and
+mediation: A general analytical framework using moderated path analysis.
+Psychological Methods, 12, 1–22.
+Filieri, R., Lin, Z. B., & Lu, X. Q. (2022). Customer emotions in service robot encounters:
+A hybrid machine-human intelligence approach. Journal of Service Research, 25(4),
+614–629.
+Fountaine, T., McCarthy, B., & Saleh, T. (2019). Building the AI–powered organization.
+Harvard Business Review, 62–73.
+Gelbrich, K., Hagel, J., & Orsingher, C. (2021). Emotional support from a digital assistant
+in technology-mediated services: Effects on customer satisfaction and behavioral
+persistence. International Journal of Research in Marketing, 38(1), 176–193.
+Ghosh, B., Daugherty, P., Wilson, J., & Burden, A. (2019). Taking a systems approach to
+adopting AI. Harvard Business Review, 5(9), 2–6.
+Gist, M. E., & Mitchell, T. R. (1992). Self-efficacy: A theoretical analysis of its
+determinants and malleability. Academy ol Management Review, 17(2), 183–211.
+Glikson, E., & Woolley, A. W. (2020). Human trust in artificial intelligence: Review of
+empirical research. The Academy of Management Annals, 14(2), 627–660.
+Guha, A., Bressgott, T., Grewal, D., Mahr, D., Wetzels, M., & Schweiger, E. (2023). How
+artificiality and intelligence affect voice assistant evaluations. Journal of the Academy
+of Marketing Science, 51, 843–886.
+Gursoy, D., Chi, O. H., Lu, L., & Nunkoo, R. (2019). Consumers acceptance of artificially
+intelligent device use in service delivery. International Journal of Information
+Management, 49, 157–169.
+Han, E., Yin, D., & Zhang, H. (2023). Bots with feelings: Should AI agents express positive
+emotion in customer service? Information Systems Research, 34(3), 1296–1311.
+Han, S., & Yang, H. (2018). Understanding adoption of intelligent personal assistants: A
+parasocial relationship perspective. Industrial Management & Data Systems, 118(3),
+618–636.
+Hobfoll, S. E. (2002). Social and psychological resources and adaptation. Review of
+General Psychology, 6, 307–324.
+Hossain, M. A., Quaddus, M., & Islam, N. (2016). Developing and validating a model
+explaining the assimilation process of RFID: An empirical study. Information Systems
+Frontiers, 18(4), 645–663.
+Huang, M. H., & Rust, R. T. (2018). Artificial intelligence in service. Journal of Service
+Research, 21(2), 155–172.
+Huang, M. H., & Rust, R. T. (2020). Engaged to a robot? The role of AI in service. Journal
+of Service Research, 24(1), 30–41.
+Hu, J. J., Xiong, L., Zhang, M. Y., & Chen, C. (2023). The mobilization of employees’
+psychological resources: How servant leadership motivates pro-customer deviance.
+International Journal of Contemporary Hospitality Management, 35(1), 115–136.
+Hu, Q., Lu, Y., Pan, Z., Gong, Y., & Yang, Z. (2021). Can AI artifacts influence human
+cognition? The effects of artificial autonomy in intelligent personal assistants.
+International Journal of Information Management, 56, Article 102250.
+Hunter, G. K. (2019). On conceptualizing, measuring, and managing augmented
+technology use in business–to–business sales contexts. Journal of Business Research,
+105, 201–213.
+Jackson, J. C., Castelo, N., & Gray, K. (2019). Could a rising robot workforce make
+humans less prejudiced? American Psychologist, 75(7), 969–982.
+Jarrahi, M. H. (2018). Artificial intelligence and the future of work: Human–AI symbiosis
+in organizational decision making. Business Horizons, 61(4), 577–586.
+Jin, X. T., Wang, L., & Dong, H. Z. (2016). The relationship between self-construal and
+creativity-regulatory focus as moderator. Personality and Individual Differences, 97,
+282–288.
+Kim, H., So, K. K. F., & Wirtz, J. (2022). Service robots: Applying social exchange theory
+to better understand human-robot interactions. Tourism Management, 92, Article
+104537.
+Kong, H. Y., Yuan, Y., Baruch, Y., Bu, N. P., Jiang, X. Y., & Wang, K. P. (2021). Influences
+of artificial intelligence (AI) awareness on career competency and job burnout.
+International Journal of Contemporary Hospitality Management, 33(2), 717–734.
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New York, NY:
+Springer.
+
+Lazarus, R. S., & Folkman, S. (1987). Transactional theory and research on emotions and
+coping. European Journal of Personality, 1(3), 141–169.
+Lee, C. T., Pan, L. Y., & Hsieh, S. H. (2022). Artificial intelligent chatbots as brand
+promoters: A two–stage structural equation modeling artificial neural network
+approach. Internet Research, 32(4), 1329–1356.
+Liang, X., Guo, G., Shu, L., Gong, Q., & Luo, P. (2022). Investigating the double-edged
+sword effect of AI awareness on employee’s service innovative behavior. Tourism
+Management, 92, Article 104564.
+Li, J., Bonn, M. A., & Ye, B. H. (2019). Hotel employee’s artificial intelligence and
+robotics awareness and its impact on turnover intention: The moderating roles of
+perceived organizational support and competitive psychological climate. Tourism
+Management, 73, 172–181.
+Lingmont, D. N. J., & Alexiou, A. (2020). The contingent effect of job automating
+technology awareness on perceived job insecurity: Exploring the moderating role of
+organizational culture. Technological Forecasting and Social Change, 161, Article
+120302.
+Lu, L., Luo, T. H., & Zhang, Y. J. (2023). Perceived overqualification and deviant
+innovation behavior: The roles of creative self-efficacy and perceived organizational
+support. Frontiers in Psychology, 14, Article 967052.
+Lv, X. Y., Yang, Y. F., Qin, D. Z., Cao, X. P., & Xu, H. (2022). Artificial intelligence service
+recovery: The role of empathic response in hospitality customers’ continuous usage
+intention. Computers in Human Behavior, 126, Article 106993.
+Makarius, E. E., Mukherjee, D., Fox, J. D., & Fox, A. K. (2020). Rising with the machines:
+A sociotechnical framework for bringing artificial intelligence into the organization.
+Journal of Business Research, 120, 262–273.
+Mao, J. Y., Quan, J., Li, Y., & Xiao, J. C. (2021). The differential implications of employee
+narcissism for radical versus incremental creativity: A self-affirmation perspective.
+Journal of Organizational Behavior, 42(7), 933–949.
+Mathisen, G. E. (2011). Organizational antecedents of creative self-efficacy. Creativity
+and Innovation Management, 20(3), 185–195.
+Moussawi, S., Koufaris, M., & Benbunan-Fich, R. (2020). How perceptions of intelligence
+and anthropomorphism affect adoption of personal intelligent agents. Electronic
+Markets, 31, 343–364.
+Nelson, A. J., & Irwin, J. (2013). Defining what we do—all over again”: Occupational
+identity, technological change, and the librarian/internet-search relationship.
+Academy of Management Journal, 57(3), 892–928.
+Ng, T. W. H., Shao, Y. D., Koopmann, J., Wang, M., Hsu, D. Y., & Yim, F. H. K. (2022).
+The effects of idea rejection on creative self-efficacy and idea generation: Intention
+to remain and perceived innovation importance as moderators. Journal of
+Organizational Behavior, 43(1), 146–163.
+Nilsson, N. J. (1971). Problem-solving methods in artificial intelligence. New York: McGrawHill.
+Ni, D., Song, L. J., Zheng, X. M., Zhu, J. L., Zhang, M. Y., & Xu, L. X. (2022). Extending a
+helping hand: How receiving gratitude makes a difference in employee performance
+during a crisis. Journal of Business Research, 149, 967–982.
+Oksanen, A., Savela, N., Latikka, R., & Koivula, A. (2020). Trust toward robots and
+artificial intelligence: An experimental approach to human–technology interactions
+online. Frontiers in Psychology, 11, Article 568256.
+Parker, S. K., & Grote, G. (2022). Automation, algorithms, and beyond: Why work design
+matters more than ever in a digital world. Applied Psychology: International Review, 71
+(4), 1171–1204.
+Park, Y. A., Liu, Y., & Headrick, L. (2020). When work is wanted after hours: Testing
+weekly stress of information communication technology demands using boundary
+theory. Journal of Organizational Behavior, 41(6), 518–534.
+Pitardi, V., Wirtz, J., Paluch, S., & Kunz, W. H. (2022). Service robots, agency and
+embarrassing service encounters. Journal of Service Management, 33(2), 389–414.
+Prikshat, V., Malik, A., & Budhwar, P. (2021). AI–augmented HRM: Antecedents,
+assimilation and multilevel consequences. Human Resource Management Review,
+Article 100860.
+Prikshat, V., Malik, A., & Budhwar, P. (2021). AI-augmented HRM: Antecedents,
+assimilation and multilevel consequences. Human Resource Management Review, 33
+(1), Article 100860.
+Puozzo, I. C., & Audrin, C. (2021). Improving self-efficacy and creative self-efficacy to
+foster creativity and learning in schools. Thinking Skills and Creativity, 42, Article
+100966.
+Raisch, S., & Krakowski, S. (2020). Artificial intelligence and management: The
+automation–augmentation paradox. Academy of Management Review, 46(2),
+192–210.
+Savela, N., Kaakinen, M., Ellonen, N., & Oksanen, A. (2021). Sharing a work team with
+robots: The negative effect of robot co–workers on in–group identification with the
+work team. Computers in Human Behavior, 115, Article 106585.
+Seeber, I., Bittner, E., Briggs, R. O., de Vreede, T., de Vreede, G., Elkins, A., Maier, R.,
+Merz, A. B., Oeste–Reiß, S., Randrup, N., Schwabe, G., & Söllner, M. (2020).
+Machines as teammates: A research agenda on AI in team collaboration. Information
+& Management, 57(2), Article 103174.
+Shin, H. (2022). A critical review of robot research and future research opportunities:
+Adopting a service ecosystem perspective. International Journal of Contemporary
+Hospitality Management, 34(6), 2337–2358.
+SIOP Administrative Office. (2020). SIOP announces top 10 workplace trends for 2020.
+Society for Industrial and Organizational Psychology. https://www.siop.org/.
+Song, X., Xu, B., & Zhao, Z. Z. (2022). Can people experience romantic love for artificial
+intelligence? An empirical study of intelligent assistants. Information & Management,
+59, Article 103595.
+Spatola, N., & Normand, A. (2020). Human vs. machine: The psychological and
+behavioral consequences of being compared to an outperforming artificial agent.
+Psychological Research, 85, 915–925.
+
+11
+
+M. Yin et al.
+
+Computers in Human Behavior 150 (2024) 107987
+Wirtz, J., Patterson, G. P., Kunz, H. W., Gruber, T., Lu, V. N., Paluch, S., & Martins, A.
+(2018). Brave new world: Service robots in the frontline. Journal of Service
+Management, 29(5), 907–931.
+Wong, S. H., Al-Hasani, H., Alam, Z., & Alam, A. (2019). Artificial intelligence in
+radiology: How will we be affected? European Radiology, 29(1), 141–143.
+Woods, S., Walters, M., Koay, K. L., & Dautenhahn, K. (2006). Comparing human robot
+interaction scenarios using live and video based methods: Towards a novel
+methodological approach. Proceedings of 9th IEEE international workshop on advanced
+motion control, 750–755.
+Yam, K. C., Bigman, Y. E., Tang, P. M., Ilies, R., Cremer, D. D., & Soh, H. (2021). Robots
+at work: People prefer–and forgive–service robots with perceived feelings. Journal of
+Applied Psychology, 106(10), 1557–1572.
+Yam, K. C., Goh, E. Y., Feh, R., Lee, R., Soh, H., & Gray, K. (2022). When your boss is a
+robot: Workers are more spiteful to robot supervisors that seem more human. Journal
+of Experimental Social Psychology, 102, Article 104360.
+Yang, H., & Lee, H. (2019). Understanding user behavior of virtual personal assistant
+devices. Information Systems and e-Business Management, 17(1), 65–87.
+Yoon, S. N., & Lee, D. (2019). Artificial intelligence and robots in healthcare: What are
+the success factors for technology–based service encounters? International Journal of
+Healthcare Management, 12(3), 218–225.
+Yu, L., Cao, X., Liu, Z., & Wang, J. (2018). Excessive social media use at work: Exploring
+the effects of social media overload on job performance. Information Technology &
+People, 31(6), 1091–1112.
+Jia, N., Luo, X.M., Fang, Z., & Liao, C.C. (2023). When and how artificial intelligence
+augments employee creativity. Academy of Management Journal, in press. https://
+doi.org/10.5465/amj.2022.0426.
+
+Spekman, M. L. C., Konijn, E. A., & Hoorn, J. F. (2018). Perceptions of healthcare robots
+as a function of emotion-based coping: The importance of coping appraisals and
+coping strategies. Computers in Human Behavior, 85, 308–318.
+Stein, J. P., Appel, M., Jost, A., & Ohler, P. (2020). Matter over mind? How the
+acceptance of digital entities depends on their appearance, mental prowess, and the
+interaction between both. International Journal of Human-Computer Studies, 142,
+Article 102463.
+Tang, P. M., Koopman, J., McClean, S. T., Zhang, J. H., Li, C. H., De Cremer, D., Lu, Y. Z.,
+& Ng, C. T. S. (2022). When conscientious employees meet intelligent machines: An
+integrative approach inspired by complementarity theory and role theory. Academy
+of Management Journal, 65(3), 1019–1054.
+Tang, P. M., Koopman, J., Yam, K. C., De Cremer, D., Zhang, J. H., & Reynders, P. (2022).
+The self-regulatory consequences of dependence on intelligent machines at work: Evidence
+from field and experimental studies. Human Resource Management. online.
+Tarafdar, M., Tu, Q., & Ragu–Nathan, T. S. (2010). Impact of technostress on end–user
+satisfaction and performance. Journal of Management Information Systems, 27(3),
+303–334.
+Tierney, P., & Farmer, S. M. (2002). Creative self-efficacy: Its potential antecedents and
+relationship to creative performance. Academy of Management Journal, 45,
+1137–1148.
+Tierney, P., & Farmer, S. M. (2011). Creative self-efficacy development and creative
+performance over time. Journal of Applied Psychology, 96(2), 277–293.
+Tong, S. L., Jia, N., Luo, X. M., & Fang, Z. (2021). The Janus face of artificial intelligence
+feedback: Deployment versus disclosure effects on employee performance. Strategic
+Management Journal, 42(9), 1600–1631.
+Verma, S., & Singh, V. (2022). The employees intention to work in artificial intelligencebased hybrid environments. IEEE Transactions on Engineering Management. https://
+doi.org/10.1109/TEM.2022.3193664
+Vlacic, B., Corbo, L., Silva, S. C. E., & Dabic, M. (2021). The evolving role of artificial
+intelligence in marketing: A review and research agenda. Journal of Business
+Research, 128, 187–203.
+van de Weerd, I., Mangula, I. S., & Brinkkemper, S. (2016). Adoption of software as a
+service in Indonesia: Examining the influence of organizational factors. Information
+& Management, 53(7), 915–928.
+Wang, B., Liao, Y. J., Chen, M., Zhang, L. T., & Qian, J. (2023). Work and affective
+outcomes of social media use at work: A daily-survey study. The International Journal
+of Human Resource Management, 34(5), 941–965.
+Wang, H. T., Ding, H., & Kong, X. S. (2023). Understanding technostress and employee
+well-being in digital work: The roles of work exhaustion and workplace knowledge
+diversity. International Journal of Manpower, International Journal of Human Resource
+Management, 44(2), 334–353.
+Wilson, J., & Daugherty, P. (2018). Collaborative intelligence: Humans and AI are joining
+forces. Harvard Business Review, 96(4), 114–124.
+
+Meng Yin is a Ph.D. candidate at the Business school, University of International Business
+and Economics. His research interests include workplace AI usage and employee-AI
+collaboration.
+Shiyao Jiang is an associate professor at the Business Administration School, Lanzhou
+University of Finance and Economics. He holds a Ph.D. in Innovation & Entrepreneurship
+Management from Nankai University. His research focuses on innovation & entrepre­
+neurship management and digital transformation. His work has appeared in the Man­
+agement Decision, Entrepreneurship Research Journal, and among others.
+Xiongying Niu is a professor at the Business school, University of International Business
+and Economics. He holds a Ph.D. in Applied Psychology from Chinese Academy of Sciences
+(CAS). His research focuses on job research and selection, organizational change and
+mental health. His work has appeared in the Journal of Applied Psychology, Journal of
+Organizational Behavior, and among others.
+
+
+

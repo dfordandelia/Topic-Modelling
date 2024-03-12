@@ -1,0 +1,691 @@
+This study explores university students’ engagement with Generative Artificial Intelligence
+(GenAI) tools for creative writing and graphic storytelling, drawing on Jacques Rancière’s phi­
+losophy of intellectual equality and emancipation. Qualitative data analysis from a co-curricular
+creative writing programme, including reflections, surveys, and focus-group interviews, reveals
+emerging artificial intelligence literacies and students’ improvisational aptitudes for interpreting,
+subverting, and transforming notions of authorship. Students decentred authorial attribution
+through the pragmatic adoption of the technology as a creative catalyst, negotiated creative
+conventions by adopting non-conventional communication strategies, and reconceptualised
+creativity as distributed across human and non-human agents. Our approach of student-driven
+learning for autonomous exploration, sense-making, and criticality with GenAI indicates the
+potential for promoting conditions for students to exercise intellectual equality and emancipation.
+The findings contribute to the understanding of authorship and creativity; begin to contour
+emerging GenAI literacies and competencies; and suggest that creative collaborations with GenAI
+may be a promising way to foster emancipatory practices in the classroom, while nurturing
+creative and critical skills.
+
+1. Introduction
+Recent mainstream popularisation and development of new Artificial Intelligence (AI) tools for generative, creative work open
+radical new possibilities for disrupting traditional notions of creativity, authorship and the creative process. Generative Artificial
+Intelligence (GenAI), including Large Language Models (LLMs), encompasses a proliferating family of AI systems typically built on
+foundation models rooted in advanced neural networks to generate diverse modalities (including text, images, audio, and videos)
+based on human instructional prompts. These systems leverage advanced machine learning methodologies, such as deep learning and
+reinforcement learning, to discern patterns and structures from extensive unstructured and publicly accessible datasets, producing
+original and coherent outputs and performing multiple tasks. The remarkable adaptability and natural language proficiency of LLMs,
+exemplified by OpenAI’s cutting-edge language model, GPT-X, along with innovative digital art creation tools like DALL-E, Mid­
+journey, and the open-sourced Stable Diffusion, have vastly enhanced AI’s utility for the general public and fostered experimentation
+and active online communities among non-experts. In this context, "non-experts" refers to enthusiasts, hobbyists, or casual users,
+including artists, writers, educators, students, who, despite not having formal training or extensive experience in AI, engage with AI
+* Corresponding author.
+E-mail address: jtsao@hku.hk (J. Tsao).
+https://doi.org/10.1016/j.poetic.2024.101865
+Received 28 August 2023; Received in revised form 20 December 2023; Accepted 10 January 2024
+Available online 17 January 2024
+0304-422X/© 2024 Elsevier B.V. All rights reserved.
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+tools for creative work or other purposes. For instance, the online Discord community of the image generation app Midjourney,
+established in July 2022, has exponentially acquired over 16 million users within one year, becoming the largest collaborative and
+knowledge-sharing community for GenAI image generation. Crucially, GenAI systems transcend mere data repositories or discrimi­
+native machine learning models, instead functioning as reasoning apparatuses and possessing significant potential to transform,
+automate, and augment knowledge-related tasks across numerous sectors. McKinsey and Company (2023) estimates GenAI can
+perform more than 2100 detailed work activities, impacting 850 occupations and stimulating new frontiers in creativity and inno­
+vation. This development has precipitated robust educational debates and reflections regarding reforming curriculum, pedagogy, and
+assessment and structural constraints of schools and universities.
+Our empirical investigation examines the engagement of undergraduate and postgraduate students from two Hong Kong univer­
+sities in a co-curricular creative writing programme, focusing on the student’s negotiation and mediation of GenAI in the creative
+production process. Utilising Rancière’s (1991) concepts of intellectual equality and emancipation, we explore the entanglement of
+technology with educational, aesthetic, and political value and the implications for educators’ roles within the creative production and
+learning process. In its emphasis on the views of university students themselves throughout the human-GenAI co-creative writing,
+image generation, and workshopping process, this investigation embodies what Davis (2010) sees as a practice of Rancière’s political
+and aesthetic philosophy and radical egalitarianism. However, beyond a praxis of intellectual emancipation through creative writing,
+our study also encourages educators to re-think how knowledge is produced and how to radicalise traditional teaching and learning of
+creative practices through cultivating the competencies and orientations required to co-create with AI. It contributes to the nascent
+corpus of research at the intersection between GenAI and creativity in education, pointing to how creative collaborative practices with
+GenAI could serve to nurture creativity, critical thinking skills, and ethical awareness. By “ethical awareness,” we mean a student’s
+capacity to understand the moral and societal implications of their actions, considering issues such as fairness, justice, responsibility,
+data privacy, algorithmic bias, the digital divide, and the societal impacts of AI-generated content in their engagement with GenAI.
+While creativity has been shown to be a contested concept from a sociological lens, here our sense of the term aligns with Godart
+et al.’s (2020) understanding of creativity as an “intentional configuration of cultural and material elements that is unexpected for a
+given audience” (p. 489) and with Novak-Leonard’s (2022) emphasis on creativity as what a person does through problem-solving to
+actualise ideas into reality both individually and in groups. The use of image is grounded in Sgourev’s (2021) conception that
+perception and optics are indissolubly connected to creativity and imagination.
+2. Intellectual equality and emancipation
+Our study draws on Rancière’s (1991) notions of intellectual equality and emancipation to provide a critical theoretical framework
+for examining students’ co-creative production with GenAI. Rancière conceives his philosophy based on the concept of “universal
+teaching” discovered by Joseph Jacotot, a nineteenth-century French professor, whereby his Flemish students learnt French through a
+bilingual edition of Fenelon’s Les Aventures de Telemaque, despite Jacotot’s ignorance of Flemish. The core of Rancière’s (1991)
+philosophy is that all social actors are “thinking beings” and have equal intellectual abilities for understanding, comparing, and
+forming knowledge (pp. 9, 34). He argues that differences in performance stem from variations in students’ attention or willingness to
+learn affected by their social contexts. Rancière criticises the “structuring fiction” (p. 80) of knowledge transmission that falsely
+presupposes a dependency on learned teachers in guiding ignorant students from simple to complex concepts. He blames this expli­
+catory order as complicit in stultification and perpetuating a culture of inattention. Instead, Rancière refers to Jacotot’s idea of learning
+and creative processes as movements in a circular, rather than a linear or progressive, motion (p. 55). Rancière views intelligence and
+equality as interconnected and involving the ability to communicate and verify knowledge with others. Clarifying Rancière (1991, pp.
+84 - 85), Ewalt (2016) distinguishes between poetics and rhetoric as fluid conceptual poles on a spectrum of communicative forces.
+Poetics operates under the presumption of human equality and invites a reciprocal dialogue between equals, envisioning a commu­
+nicative space where every individual can be both listener and speaker, thereby challenging traditional dichotomies. On the other
+hand, rhetoric assumes a pre-existing inequality and can contribute to stultification. Rather than dismissing the value or relevance of
+rhetoric, it highlights its potential to perpetuate a hierarchy between the speaker and the listener, the positions of “knowing” and “not
+knowing”. Hence, intellectual equality comes into view when poetics, rather than rhetoric, is primary, and the distinction between
+speakers and listeners diminishes (Hjulström & Rytzler, 2022). This interpretation provides a lens through which to view the
+entanglement of technology with educational, aesthetic, and political value in GenAI’s creative processes.
+Following intellectual equality, intellectual emancipation challenges hierarchical knowledge structures as arbitrary and “liberates”
+thought by questioning norms within a knowledge domain. Hence, this emancipation is connected to Rancière’s philosophy around
+dissensus, as clarified by Corcoran (2010):
+“…the disruption that [genuine political or artistic activities] effect is not simply a reordering of the relations of power between
+existing groups; dissensus is not an institutional overturning. It is an activity that cuts across forms of cultural and identity
+belonging and hierarchies between discourses and genres, working to introduce new subjects and heterogeneous objects into
+the field of perception.” (p. 2)
+In theorising what he calls “the distribution of the sensible”, Rancière (2004) describes how social communities develop specific
+language usage guidelines delineating what can be seen, heard, and thought (the “sensible”). His-theories suggest expertise is not
+essential for new ideas, as it often perpetuates norms and the status quo, mirroring Williams’ (1977) earlier analysis of modes of
+domination and the social context of authorship. Instead, Rancière (1991) values the approach of an “ignorant schoolmaster” like
+Jacotot, who “doesn’t have to worry about what the emancipated person learns. He will learn what he wants, nothing maybe” (p. 18).
+2
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+Biesta (2016) clarifies that Rancière’s focus is not on forbidding explication but on asserting that it is not the route to emancipation.
+Biesta highlights education’s role in cultivating individuality, creativity, responsibility, and ethical judgment for emancipation. Hence,
+emancipation emphasises students’ intellectual efforts and necessitates verifications through acts of imagination instead of assessment,
+a counterforce to the neoliberalisation of universities generally focused on (re)producing an efficient, employable, yet uncritical
+workforce (Karlsson, 2022).
+In pursuit of intellectual equality and emancipation, educators should establish conditions encouraging self-confidence, enabling
+students to engage their thinking and overcome their own and others’ contempt. For Rancière (1991), “contempt” denotes discourse or
+conduct that seeks to “put people in their place” by asserting distinctions in intellectual capacity, and leads to students relinquishing
+responsibility for independent learning (pp. 12, 15). Intellectual emancipation counters the tendency in academic settings to compare,
+categorise, and respond based on students’ perceived intellectual differences, instead recognising students’ shared capabilities as
+speaking beings to mitigate potential contempt within the classroom. Kogut et al. (2021) reminds us of Rancière’s recognition of the
+difficult pedagogical paradox that all communication contains an inherent ambiguity between intentions to categorise and compare
+versus intentions to acknowledge equality. Every classroom interaction can enact inequality through hierarchies but can also pre­
+suppose equality between thinking beings. For educators, the core challenge is becoming aware of inequality as an ever-present
+possibility in order to intentionally counter it. Rancière underscores that vigilance, creativity and committing students to investiga­
+tion are required to prioritise equality within situations that also allow contempt.
+To facilitate this, Rancière endorses a thing-centred approach over student-centred or teacher-centred methods. The process in­
+volves students using their intelligence to translate ideas and emotions into a text, and then in turn, as readers, relying on their own
+intelligence to decipher and interpret the meaning of this text (Vlieghe, 2018). Emancipation hinges on a “third thing” or “common
+thing”— a shared, accessible text or site unfamiliar to both teacher and student yet embraced as a focal point and open to multiple
+interpretations (Rancière, 2009, pp. 14 - 15) - enabling students to conduct their own intellectual exploration and thinking. By
+emphasising such a common object, Rancière seeks to disrupt and shift the links, associations, borders, and constraints between
+knowledge and emancipation (Simons & Masschelein, 2011), transforming education into an inclusive, experimental, and
+non-teleological pursuit (Bingham et al., 2010).
+3. Creative education and intellectual emancipation
+Various studies have explored creative pedagogical approaches through the emancipatory lens, including: the transformation of
+visual journal assignments into a “third space” for knowledge production (Sinner, 2015); video self-portraits by young Latinx children
+in the USA as a “third thing” that stimulates a “heterogenesis of the sensible”, emphasising teachers’ roles in facilitating students’ will
+and agency to contribute creatively to the urban imaginary (Trafí-Prats, 2012); theatre education as a shared subject for creative
+collaboration, comparison, and individuality between teachers/facilitators and students/participants (Lev-Aladgem, 2015); and
+drama and experimental theatre performances as the “third thing”, enabling new relations to emerge outside social hierarchy and
+facilitating a subjective process of mutual discovery for teachers/performers and students/spectators (Fryer, 2015). Building on the
+role of teachers, Simpson (2021) challenges the notion that effective creative writing instruction requires teachers to be writers
+themselves, advocating for an “ignorant schoolmaster” approach that emphasises teachers as storytellers (Biesta, 2016).
+Studies have also focused on digital creative writing tools as a means to facilitate emancipatory, circular learning and to redis­
+tribute power in the classroom by operating as a “third thing.” Abdel-Hack and Helwa (2014) explore how interactive classroom
+learning with digital storytelling can boost critical thinking and student agency by fostering engagement instead of passivity with the
+software, while Bumgarner (2012) investigates student-centred learning, where expertise comes from students as much as teachers.
+Klerfelt (2007) focuses on how student agency is influenced by students’ access to digital resources as active participants, where
+Dahlström (2019) suggests that active engagement with the affordances of digital writing tools can shift classroom power dynamics.
+Research specifically about classroom digital writing using GenAI tools presents mixed findings regarding students’ perceptions of
+being creatively inspired and supported beyond grammar and vocabulary assistance (Kangasharju et al., 2022; Plate & Hutson, 2022).
+In non-educational settings, “machine-in-the-loop” processes have demonstrated the ability to enhance creative writers’ perception of
+their creativity being “amplified” (Clark et al., 2018), while for less experienced writers, GenAI tools can provide a less intimidating
+environment for brainstorming compared to collaborating with a human (Clark et al., 2018; Roemmele & Gordon, 2018). From an
+emancipatory and classroom setting, “less experienced” writers can engage with GenAI on terms of equality, alleviating concerns about
+teachers’ potential and contempt.
+Ouyang and Jiao (2021) proposed three broad paradigms of AI in education: AI-directed, AI-supported, and AI-empowered
+learning. Collaborative creative writing is a promising arena in which to consider how educators can facilitate the AI-empowered
+“learner-as-leader” model, emphasising and furthering research around increased student agency and redistribution of power in the
+classroom. The present study offers a model for how co-creating with AI collaborators can operate as a “third thing” and a trans­
+formative force, moving classrooms toward emancipation and equality in Rancière’s sense.
+4. Our participants and the data
+In our 8-week pilot study, 16 undergraduate degree and PhD postgraduate students from two public Hong Kong universities
+participated in a co-curricular creative writing programme, employing GenAI tools such as Rytr, GPT, Midjourney, Stable Diffusion,
+and Craiyon. Participation was framed as a research project to explore how GenAI text and image generation could complement the
+creative writing process. Students came from different year levels and disciplinary programmes, with an overrepresentation of English
+3
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+Literature majors. Participants were a mix of primarily local Hong Kong and mainland and international students. Our study primarily
+consisted of students with higher educational backgrounds and potential socioeconomic advantages, who may hold views on art and
+creativity that do not fully reflect the wider population. This limitation underscores the need for caution in generalising the results.
+Following institutional ethical approval guidelines, all participant data were anonymised, and students could voluntarily opt out
+without explanation. The programme occurred between February and April 2023, when Hong Kong universities implemented tem­
+porary policies limiting GenAI use. Our study therefore aimed to explore more imaginative applications of LLMs for student learning
+beyond the immediate concerns over academic honesty.
+Students had access to Rytr, Midjourney, and later ChatGPT (via the Poe app) to experiment with various AI tools for generating
+graphic short stories or poems. Alternative GenAI apps were permitted and employed. GenAI-produced images can act as productive
+catalysts for student writing and inspire juxtaposed multimedia compositions. Moreover, the ambiguous character of AI art also has
+potential to resist intuitive expectations, compelling students to fill interpretive "gaps" and forge tangential associations through its
+unpredictability that is distinct from other visual sources. Students actively participated in peer reviews and received some input from
+teachers while creating their graphic short stories and poetry. Our data included drafts, final submissions, reflective writings, peer
+feedback, end-of-programme surveys (N = 15), and two focus group interviews (N = 8) facilitated by the second author. Both oral and
+written classroom interactions were recorded to observe teacher-student and student-student relationships that emphasised intel­
+lectual equality and emancipation.
+5. Methodology of equality in practice
+In alignment with the approach by advocated by Bingham et al. (2010) on fostering self-directed learning environments, we aimed
+to engage students collaboratively, learning alongside them without traditional evaluation. Students were encouraged to pursue their
+own learning and creative endeavours in the project, which was designed as a voluntary co-curricular program driven by their own will
+to learn. Our focus was on the process over the end product. We aimed to verify students’ intellectual efforts and emancipation through
+their acts of imagination in creating graphic short fiction and poetry. GenAI served as an unfamiliar site to affirm their equality in this
+experimental endeavour, fostering the exploration of a creative product without predefined answers. The approach echoes Rancière’s
+(1991) assertion that “To teach what one doesn’t know is simply to ask questions about what one doesn’t know” (p. 30). We considered
+creative writing via GenAI applications as Rancière’s “third thing” – a shared object promoting discovery-based learning because it
+required effort to navigate and served as a locus for intellectual accountability. The emancipatory potential of GenAI’s content gen­
+eration tool distinctly sets it apart from discriminative AI algorithms based on ranking systems and implicit inequality. Hence, our
+research undertakes preliminary strides to elucidate how the accessibility of GenAI democratises algorithmic technology, offering hope
+of subverting the prospective dystopian futures forewarned by Burrell and Fourcade (2021), particularly pertaining to inequitable
+power relations predicated on discriminatory AI systems.
+As Rancière (1991) asserts, teachers, despite their asymmetrical position of authority, play an essential role in asking questions,
+improvising, and supporting students’ commitment to self-expression and investigation through “the relationship of will to will” (p.
+13). While we minimised explicative or instructional materials to prevent any predetermined influence on the students’ work, we did
+observe that some explication would be required as a starting point to initiate learning and initial progress. Therefore, we conducted
+two 2-hour interactive and open-ended workshops over two weeks to introduce students to GenAI applications, share our own recent
+experiments with prompting, and highlight the ongoing debates around biases and the opacity in LLM pre-training. As instructors, we
+explicitly communicated that we did not have much more expertise than the students and therefore were not there to correct or provide
+answers. The workshops sparked discussions around GenAI’s implications for creative writers in terms of avoiding cliches and ste­
+reotypes, and promoting ethical representation of characters and worlds. No guidance was offered on resolving these challenges;
+students were responsible for arriving at a solution, mainly through trial and error.
+While conscious that our workshops could not model a full embodiment of Rancièrian pedagogical practice, we observe that, as
+mentioned before, Rancière’s emancipation does not forbid explication, but rather, asserts that explication is not the route to
+emancipation (Biesta, 2016). Our subsequent feedback on draft submissions, alongside peer feedback, was intentionally open-ended
+and non-prescriptive. This approach aimed to suspend comparative judgment and affirm students’ shared capacity as speaking beings
+through creative expression. We fostered a learning environment where, as much as possible, students turned to each other, rather than
+to us as instructors, for validation of their acts of imagination. For example, when Student A created something imaginative, Student B
+had to recognise and respond to it without assessing based on instructor-provided standards which introduced hierarchies of power.
+We remained attentive to actions by the students, such as imitation, translation, deconstruction, and reconstruction, that signalled the
+circular motions of emancipation and potential enactments of equality (Galloway, 2012; Rancière, 1991). Rancière sees
+student-originated, trial-and-error repetition as emancipatory because it showcases the will and belief in equal intelligence among
+individuals. In the classroom, we propose that teachers play a role in maintaining and strengthening this motion.
+6. Findings and discussion
+Employing our methodology informed by Rancière’s notion of intellectual emancipation, our analysis of multiple qualitative data
+points uncovered the participants’ aptitudes for interpretation, meaning-making, self-directed and collaborative learning, contouring
+some emerging GenAI literacies or competencies. Our discussion revolves around themes of decentring authorship, the negotiation
+over creative conventions, and the notion of creativity as a specialised skill as we seek to understand the influence of GenAI on student
+subjectivities in creative production.
+4
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+7. Decentring authorship
+Decentring authorship in creative writing involves shifting from the idea of an individual author as the sole creator to recognising
+the collaborative and sociohistorical contextual contributions within the creative process. The idea situates well within Rancière’s
+philosophy of reducing dependence on external authorities and fostering more active and critical interactions with knowledge and
+texts. The theme of decentring authorship emerged as we explored students’ co-creation with GenAI applications and their views on
+allocating authorship between themselves and the technology. We found that co-creating with GenAI helped students develop a
+nuanced view of authorship, recognising their own responsibilities in the creative process.
+One of the ethical concerns was the potential of students to excessively rely on this technology, with implications for academic
+dishonesty, unethical authorship, and stultification. However, our findings posit that a substantial proportion of students chiefly
+employed GenAI as an initiating catalyst or an inception point for their creative thoughts, particularly when confronted with moments
+of creative stagnation. Initially, a few students prompted GenAI to accomplish the entirety of their literary works, but this impulse was
+quickly abandoned after discerning the system’s inability to apprehend their intentions fully. For most students confronting this novel
+technology for the first time, their early struggles in formulating effective prompts improved as they became more adept at feeling out
+GenAI’s limits.
+Student 7 adopted a fragmented approach of feeding piecemeal inputs to the GenAI when she failed to obtain a complete poem with
+the twist she expected because the outputs were too clichéd. Student 14 encountered challenges generating cohesive works that would
+lend fluidity to his narrative and resigned himself to manually writing certain scenes of the story. In both cases, students expressed a
+sentiment common across student participants in their early experiments: the quality of first-draft AI creative writing, without further
+human intervention, was unsatisfying. This assessment related to issues around (mis)interpretation of their prompts; unreliable
+relevance, coherence and consistency of the outputs; poor use of language such as tone, style, word choices (for images, this related to
+colours, style, composition), and lack of emotional resonance. When results did not align with students’ desired outcomes, they were
+forced to rely on their own intellect to advance or complete their stories and poems. For example, we observed that, while GenAI’s
+knowledge encompasses genre conventions due to pre-training on extensive datasets that reflect hegemonic sociocultural and political
+history, it is students themselves who must recognise and refuse outputs which are not only conventional for their genre but clichéd or
+boring. Arguably, the technology’s passive agency and authorially ignorant characteristics (i.e., the fact that its knowledge is over­
+whelmingly encompassing, but it is contextually ignorant to respond unless activated and made aware through prompts) enabled
+students to take responsibility for the creative writing process and claim greater authorship. Even and especially when it did not meet
+their expectations, the AI played a part in shaping the creative process by providing a starting point, a challenge, or even an unexpected
+direction that the students had to navigate.
+As they learned to problem-solve their results, numerous students actively engaged in proactive experimentation with crafting the
+prompts to support and refine their ideas, independently discovering ways for Rytr to contribute to richer character and narrative
+development, recommend alternative wording and phrasing, and offer feedback on pacing:
+The writing tools surprised me the most. I never thought they can write something so sophisticated. For example, they can help
+generate ideas for stories, by suggesting topics or characters based on user input. AI can also help with the actual writing
+process, by suggesting words or phrases to use in a sentence, or by suggesting plot points and providing feedback on pacing.
+(Student 7)
+Notably, the dialectical potential of GenAI to guide and review the students’ creative writing is directed by the students, without the
+intervention of, or being unintentionally subject to “contempt” from, teachers. As the common “thing”, GenAI acted not simply as a
+substitution for the teachers’ explication but demanded students’ efforts in inducing satisfactory solutions and negotiating its outputs.
+Our results suggest that students, on the whole, felt themselves to be agents in the co-creative process, claiming the lion’s share of
+authorship of the resulting creative writing. Sometimes they even claimed sole authorship, addressing the GenAI tool as a purely
+mechanical aid more like a word processing programme than a creative collaborator. As will become clear in subsequent discussions,
+students’ comments in the end-of-programme survey show that there was a range of cognisance of the role of the AI in the collaborative
+process. Even as merely a “tool”, GenAI’s suggestions directed or shaped the creative process in subtle ways, thus blurring the lines of
+authorship.
+Students tended to attribute greater authorship to GenAI image applications, though, as they perceived the creative (re)production
+of these images to surpass their own abilities to enact or explain. Many students expressed being caught off-guard by the remarkable
+quality of the digital images generated by Midjourney and the technology’s intuitive interpretation of their prompts compared to the
+GenAI writing tools. Nonetheless, paralleling the challenges of consistency experienced in the generative writing process, students
+encountered difficulties engineering suitable text prompts to ensure consistency or accurately portray their mental visual represen­
+tations. This struggle is a tension between what they perceive and what they can express - a division between the visual (images) and
+the linguistic (words) - a division of the sensible at play. Hence, visual artists might negotiate AI’s linguistic prompts differently
+because of their capacity to vividly conjure mental images, their sensitivity to emotional, sensorial, or conceptual aspects, and their
+ability to translate colours, patterns, and compositions encapsulating the quintessence of visual forms. The disparity in our students’
+attribution of authorship between GenAI writing versus image generation tools highlights the continuum of relative confidence and
+sense of proficiency students experience in using current AI tools across different creative domains. The unique, algorithmically
+randomised creation process of GenAI art and its capacity to manufacture pastiche was found by students to be more innovative and a
+more compelling source of inspiration than the generated writing. The diffusion model of image generators iteratively refines random
+noise image into a final generated image, allowing artists a higher degree of control to influence and (re)compose new images,
+5
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+showcasing the dynamic, interactive potential of AI in enhancing creative outputs. Hence, rather than just an imitative art, the bur­
+geoning user community around GenAI art indicates its social trajectory as a new art form, akin to photography’s evolution from
+mechanical reproduction to accepted art.
+While the students’ attribution of greater authorship to the GenAI might ostensibly undermine the parity of intelligence, they
+utilised these tools as springboards to assert their creativity and intellectual equality, rather than accepting the AI’s contributions
+unjudiciously. Student 7, for example, regarded his use of Midjourney much like a collaboration with a human illustrator or assistant
+and judged the degree of authorship contingent on the specificity of human instructions and where the source of inspiration originated:
+And for the illustration, actually, I would think that me and the AI are both authors… the meaning of “author” is the one who
+actually has the idea, or like, who does the creative stuff, so I would say that Midjourney is rather my helper to draw those
+pictures rather than the sole author or main author. (Student 7)
+Here, we see a binarisation of authorship into creative/ abstract thinking versus the mechanical labour involved in the production
+process. Therefore, for Student 7, greater authorship could be credited to the GenAI if the human prompts were vague, compelling
+GenAI to engage in more “creative” cognition relative to its mechanical labour:
+[A]fter using these AI [tools], I think that originality or authorship actually means those who actually have the idea or who
+generate inspiration....But then that can still be the AI tool—like, if we don’t have anything in our mind, and then we just use the
+AI tools for, like, inspiration, or they just gave us some very great new ideas. Then the AI is still the author or there’s still
+originality in AI, but … [if I use] AI as an illustrator of my creative thoughts, then I think the sole author would still be me and
+the originality still comes from me. (Student 7)
+Hence, students cultivated a nuanced perspective of authorship by engaging with varying affordances of the technology and
+directing their attention towards the complexities involved. This process stimulated their recognition of their own will and re­
+sponsibility in creating content, as well as the importance of verification within the creative process. The students’ experiences indicate
+that the technology may not necessarily deskill or stultify young authors if used appropriately.
+8. Negotiating creative conventions
+Beyond authorship, we observed acts of dissensus and critical judgement as an exercise of intellectual emancipation through the
+students’ experimentation with GenAI. Improvisational efforts to negotiate creative conventions included engineering prompts to
+generate non-clichéd outputs, deconstructing the outputs, and playing with varied genres and stylistic structures. Moreover, they
+receptively incorporated unconventional ideas offered by the GenAI, which shaped their sense of originality and creativity. Because of
+our initial workshops, students were cognisant of GenAI’s tendency to compose biased, clichéd and stereotypical materials due to its
+pre-trained origins. The GenAI writing tool’s predisposition towards the clichéd forced students to reflect and adapt the precision of
+their language and grammatical structures in text prompts for the AI to understand their intentions. The tendency towards repetition
+and clichés rooted in the pre-training process does not necessarily negate GenAI’s emancipatory potential but underscores areas for
+refinement, such as diversity of datasets, enhancing algorithms, and improved prompting to mitigate these patterns. In fact, this
+reiterative trial-and-error process made most students aware of the importance of highly descriptive text prompts.
+On the other hand, students discovered that not only highly precise text prompts but also “unconventional” linguistic and nonlinguistic strategies, including the use of misspellings, peculiar combinations of vocabulary, non-English languages, and symbols/
+emojis, helped to generate what they wanted and to push beyond clichéd outputs:
+…when we input conventional stuff in the writing tools, that usually generates cliched outputs for them. And you try to input
+seemingly irrelevant words or face symbols, it would give you something entirely different. So I feel like it’s possible to use these
+tools in rather unconventional ways to assist us in our creative writing processes. So instead of telling it to write, for example, a
+sonnet in iambic pentameter, you can ask it to do something else. Something unexpected to give you also a unique [output].
+(Student 12)
+Here, Student 12 describes their realisation of how non-linguistic inputs introduces “something else” into the conventional norms of
+the AI’s knowledge domain, yielding a process of collaboration that is oriented less toward the sort of expected result represented by
+the familiar form of the “sonnet in iambic pentameter” and more toward open-ended discovery. Similarly, student 2 prompted the AI to
+translate the text back and forth between English and Chinese, exploiting semantic gaps or lacunae from its contextual ignorance to
+generate novel responses. These examples direct to how, throughout the course of the project, both students and instructors experi­
+entially discovered that GenAI tools often make stochastic or tangential associations, or even what is popularly referred to as
+“hallucinating” or making up knowledge, if prompted in particular ways. Notably, the term “hallucinations” is a misnomer as the
+technology is not perceiving or seeing things that are not there. Instead, these aberrations are merely probabilistic outliers in the
+“learning” of the underlying patterns and structures of the training data and fall outside of what we consider “the sensible” - which can
+indicate something “creative”. This in-process, student-originating discovery offered opportunities for students to devise innovative
+practices to adapt to these inherent characteristics and develop their attentive capacities. The following dialogue between two students
+illustrates how their experimental approaches refined their understanding of creativity, emphasising the importance of striking a
+balance between the clichéd and the surreal:
+
+6
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+Student 7: For example, I try and have some problems - like an apple becoming a Superman. But then the results will be too
+unreasonable, without being, like, creative, or it’s not, like, [satisfying]…
+Student 5: No, it’s like even if you use problems like an apple becoming Superman, it still has some way to make it cliché.
+Student 7: Or it would be too unrelatable. So yeah, going to two extremes.
+Here, the students describe their discovery that what registers as “creative” threads the needle between the clichéd and the “too
+unreasonable” or “too unrelatable,” what we might say is too far outside “the sensible”.
+Student 6 speaks further about GenAI’s imaginative potential but how, like humans, it is conditioned by a habitus that acts in a
+probabilistic manner and defaults back into reproducing “the sensible” and safe:
+AI have abundant “imagination”, or they have enough materials (at least much more than any individuals in the world) to
+generate something “creative”, but they will always fall back to the organised and structured way of writing, conforming to the
+formality and rules that most people use in their daily lives. (Student 6)
+Such recognition of the mix of mundaneness, misdirection and weirdness from the GenAI nudged students towards widening their
+understanding beyond their own preconceived notions of the components of creative writing. For example, Student 1 noted that GenAI
+text tools often featured abrupt tone shifts and sudden mention of characters without proper introduction. These improprieties
+influenced the students towards heterogenesis through actively interpreting and negotiating the outputs to include a hybridisation of
+ideas, as in this observation by Student 6:
+I typed “letters” in Midjourney hoping for images containing papers with words and envelopes, but turns out, Midjourney
+provided me with four images of “letters” as in symbols. It may be disappointing, but it was actually quite funny once you have
+realised your “mistakes”, or I should say “subjectivity”. Moreover, those “disappointing results” provided me with more ideas.
+For example, what if we are really talking about symbols instead of words? Those disappointments are not only disappointment,
+but something with more potential. (Student 6)
+Much like Student 12′s discovery that she could use emoji to confound Rytr into producing “something else” than conventional
+poetic forms, Student 6 devised a way to pursue “something with more potential” via the “disappointments” of her initial attempts with
+Midjourney.
+A few students discovered they could employ multiple generative models through modality transfer. For example, vivid images
+could be input through “reverse” image-to-text GenAI applications to produce highly descriptive text. Alternatively, students requested
+GPT to formulate the text prompts by describing the desired images and then pasting them into the image generators. For instance,
+Student 3 inserted text from her co-created poem into Midjourney and discovered she needed to mitigate its deep associational biases.
+The generated images persistently included red hues due to the word “red” in her poem and depicted a woman because of references to
+flowers despite the absence of any explicit reference to a woman in the poem itself. Ultimately, she was influenced to incorporate the
+red palette more predominantly into her imagery than initially intended. AI’s tendency for visual cliché reflects its training data and
+human feedback biases but understanding these patterns can enable users to ingeniously navigate the clichés. Nonetheless, Student 3′s
+acquiescence to Midjourney’s colour suggestion underscores concerns of outsourcing our creative cognition to AI, which may result in
+skills erosion and risks of AI-led homogenisation of creativity. It underscores the salience of critical judgement in situations where
+human intervention could significantly advance the quality of creative outputs.
+As we noted in the previous section, students discovered that co-creation carried a responsibility to critically evaluate which
+outputs constrained or expanded creativity in their works. But they also recognised that GenAI could help them reflect on the paro­
+chialism of their writing process:
+The writing AI applications showed me that I can quite easily get tunnel vision when focusing on my own ideas…Because it’s not
+really about the output… It’s more like the ideas, I would say, it’s like helping you refresh your mind… I’ll ask it to generate
+maybe 10 to 20 again, and then sometimes I might find some ideas that I haven’t thought of… (Student 14)
+Though some of them can be illogical or repetitive, just by viewing such many different responses generated using the big data,
+you can be inspired to think outside the box. (Student 16)
+Here, students were exercising confidence in actively negotiating with the inputs and outputs instead of deferring or accepting this
+generative authority:
+The writing AI applications were able to provide me a more comprehensive view than what I can conceptualise by myself, but
+the ideas provided were not unique. Fully following those ideas actually made my creative process less creative in a sense, and
+lacks that individualistic flair. (Student 14)
+While these students found the sheer scale of GenAI’s “comprehensive view” to be an exhilarating expansion of their own “tunnel
+vision”, they perceived GenAI’s ideas to lack the “individualistic flair” to offer a way “out of the box” or to be a good choice to “fully
+follow.” Thus, students articulated the experience of sensing the value of their own critical judgment and relying on their own in­
+telligence. The co-creative process also developed students’ empathetic perspectives, as they used the GenAI to contemplate how
+others comprehend their works and how they might enhance their communications. In this case, we argue creative writing through
+GenAI develops capacities to not only communicate more effectively with others but also to become more resilient to the contempt of
+others:
+7
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+Student 12: Oh, well, I think regarding communication skills, it’s required for the peer review part because we can see how our
+peers…our human peers, respond to our, you know, creative writing. Since a lot of it, I guess, is like emotional response that is
+unique to humans. I guess this process is also important in, you know, in the process of creative writing.
+That [GenAI text tools] could mime different literary styles! It’s like they serve as mirrors of the other’s perspective—giving me
+a glimpse of what my craziest feelings may “look” like in others’ eyes. (Student 1)
+The produced image outputs left a notable affective impression on the students. As another example, when Midjourney produced
+“dark and ominous” images based on Student 3′s text, this startled both the student and her peers. When she included some of those
+images in her draft for peer review, one reader, Student 5, interpreted the resulting visual poem as describing a female serial killer,
+which was not the effect Student 3 had wanted. Similarly, Student 10 found the weirdness and unnaturalness of some of the generated
+images unsettling when Midjourney produced images where body parts were separated or humans had more than two hands. Through
+the gaze (Sartre, 2022) of the GenAI’s interface, a mirroring process transpired: the students’ communications were interpreted and
+(re)presented to them, either aligned with or skewing their intentions. At the same time, the process was disassociating them from their
+typical understandings of certain terms and widening these associations. Mismatches between poiesis (creation) and aesthesis
+(perception) hint at the preconditions for the materialisation of dissensus. This gaze was also described in Student 10′s reading of
+Student 7′s creative work. In exercising her will to understand the eclectic arrangement of text and images by her peer, who underwent
+the frustration of trying to combine heterogeneous outputs into a coherent composition to convey themes of fragility and friendship,
+Student 10 wrote:
+I actually like the way you organise where to locate the words. Frankly, it took me a bit of time to read the words but I don’t
+think that it posed any difficulty in understanding. They forced me to read left and right, I don’t know if you did this delib­
+erately, but it reminded me of the gaze when you feel uncomfortable with someone – you look left and right cos you feel
+awkward. (Student 10)
+For Student 15, this gaze was reassurance:
+The images generated by AI gave me more concepts to write my feelings out. I feel less alone each time I watched the images
+slowly generate out as I got to see someone, or something, understand my thoughts. And seeing my memories become art is a
+surprisingly soothing feeling. (Student 15)
+Beyond the affective influences is the self-transformation of the students’ subjectivities towards emancipation. Specifically, stu­
+dents were constantly pushing forward in search of ways to “speak” with the AI:
+I know that I’m talking to AI, right? It’s not a person. So, then the kind of approach you have to take to talk has to be very
+different.... But then there are certain things you have to keep in mind and there’s also a lot of times when you have to change, for
+example, your prompt because you think it was going to work and then it doesn’t. (Student 3) [emphasis added]
+Even though the repetitive labour in prompting seemed occasionally unproductive or “frustrating”, and the outputs were some­
+times underwhelming or mediocre, the refrain reinforced the consciousness, emotional intensity, and a drive for action in the creation
+process that was evidence of intellectual emancipation. For example, we perceive an evident sense of urgency and necessity in Student
+3′s reflections on her methodology, cognitive shift, and how she “had to” modify her interaction with the algorithm. Similarly, Student
+6 spoke about how the AI gave “a lot of negative feedback” that kept her “changing and changing all the prompts”. These iterative acts
+of translating abstract human thought into concrete instructions and converting the outputs of AI’s generative logic suggest that
+students were developing a type of logical adaptability we can think of as an emerging essential literacy. In other words, they were finetuning their comprehension of AI’s functionality and potential biases, the critical analysis of its outputs, and the conversion of abstract
+creative concepts into concrete AI-instructions, ultimately outlining what proficiency in AI’s language and logic might look like.
+9. Creativity as a specialised skill
+Our analysis of the students’ discourses painted a nuanced conception of creativity and imagination that shifts the focus away from
+a specialised skill exclusive to specific individuals, given the intermediation of an external agent in their creative production. For
+example, Student 14 debated the difference between compelling works and creative ones, questioning if genuinely creative or original
+works needed to exhibit resonant characteristics to readers or viewers. He pointed out that high-quality creations from Midjourney
+could be captivating with minimal human intervention but not be considered to meet the criteria for being creative. The student
+deemed his work creative and original because of his active intervention in infusing his “direction and flair” into the creation,
+transforming AI-generated content he considered not creative into something creative. Similarly, Student 5 discovered the need to
+constrain the “creative space” of the GenAI through specification and qualifiers in her prompting to manage the direction of its
+creativity, for example, prompting “happiness of marriage…or the time of childhood” instead of just “happiness”. Likewise, Student 11
+underscored the significance of human intervention in preserving the “unity” or coherence of the creative endeavour via well-crafted
+prompts and working through how disparate outputs relate to each other and come together. This negotiation over the generated
+output reinforces the combination of contextual awareness and judgement in the creative synthesis process.
+Student 12 reflected on conceptions of creativity, drawing connections between intertextuality, originality of AI-generated content
+and its embeddedness within the broader milieu:
+
+8
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+Personally, I think [this project] kind of challenged my preconception regarding what creativity actually means. Because if you
+think of the concept of intertextuality, like each text you create is somehow influenced by other texts, no matter if it’s inten­
+tionally or it’s unconsciously, if you have that view to AI writing or AI image tools, you will see that, hey, we consider it as nonoriginal because it kind of absorbed its content from other sources, from the Internet. Then you can also see how at least
+something “new” or something original is, you know, is generated by its collection and absorption of different sources and
+styles. (Student 12)
+This extract squares with Horner’s (1997) contention that instead of teachers treating students as original creators of unique
+meaning in creative writing, students can learn to work within and transform existing discourse, considering how meaning is produced
+socially and collectively, not individually. The students’ reflections are a reminder of the critiques of traditional and institutionalised
+perspectives of creativity as an expert skill and highlight the parallels between human and AI-driven creative processes in assimilating
+and reconfiguring existing elements. The “death” of the single author doesn’t signify a loss, but rather a transformative reimagination
+towards a collective and inclusive approach to creativity, one that even acknowledges non-human contributions. This directs to the
+possibility of a social imaginary that includes both human and non-human “imaginations”, opening up new potentials for emanci­
+pation and empowerment in the creative process. This echoes Barthes’ (1977) assertion that a “text is a [fabric] of quotations”, drawing
+from “innumerable centres of culture” (p. 146) rather than from the experience of a single individual; hence a text’s meaning is
+constructed by the reader’s interpretation, and liberated from the author’s original intent.
+The students’ reflections also spoke to the creative opportunities, obstacles, and capacities constituting creative works and sug­
+gested that creativity can come from anywhere:
+One of the most important takeaways is to never assume what can and cannot add to your creativity. Ideas can come from
+anywhere, even from AI, and it depends on you how you can use them to add to your creative output rather than take something
+away from it. (Student 3)
+The students’ exchanges and feedback served to elucidate the homeotic transformations of their personal creativity. They embraced
+the fluidity and hybridity of their creative capacities as something flexible and combinatory, made possible through this milieu of
+human-technology augmentation. For instance, students metaphorically described their approach as “borrowing” GenAI’s field of
+vision or using it as a “mid-space” to synthesise their creative expressions:
+AI can basically use everything happening in the world as their inspiration, while for we humans, our own field of vision is very
+much limited by our own experience. Making use of the AI field of vision will help me think of something that I may not usually
+notice, and thus supports my creativity. (Student 16)
+This collaborative hybridisation is further evident in the case of Student 5, who learned through peer feedback to blend existing
+excerpts from informative genres, such as news articles, with her “human writing” into Rytr. This approach proved effective for
+controlling the generated outputs she desired. Rancière’s cyclical motion of emancipation describes Student 12′s experience of
+repetitively composing, revising, and evaluating her own and her peers’ collaborative works, which she considered a practice of
+creative thinking. The iterations accentuated the constraints of GenAI in resonating with unique human experiences, simultaneously
+bestowing an appreciation towards the nuances and commonalities of collective creativity:
+This reminds me of [Student 15′s] work. I think she addresses topics like depression and traumatic experiences which we feel
+like AI currently cannot, you know, fully understand and interpret that. It seems like it’s trying its best to gather information
+regarding these experiences unique to humans. But it just can’t, you know. Again, it doesn’t express them in a compelling way
+that we can find resonance with. (Student 12)
+We can evaluate the potential and constraints of co-creativity when the algorithms of machines are designed around a consensus
+logic drawn from human cultural artefacts. Consider Student 1′s reflection: “Like humans, [the GenAI] carry their own inertia.” The
+student questions how these AI can transcend their programmed algorithms. For example, students deliberated creative works’
+emotional aspects and meanings, debating their preference for outputs produced by humans or AI. They recognised that interpretations
+can often diverge from an artist’s original intention, a phenomenon that remains true even for AI-generated art, which inherently lacks
+original intent. These discussions underscore the need for a comprehensive and inclusive examination of creative processes and
+highlight the evolving roles of both human and AI “agents” in these processes.
+10. Emancipated “Teaching”
+What are the implications for educators in expanding creativity and imagination with the rise of GenAI? Firstly, our earlier point
+concerning the authorial ignorance of GenAI in its hybrid role as the “third thing” has implications for how teachers should position
+themselves in pedagogical emancipatory practice. Our context reinforces Klerfelt’s (2007) assertion that student agencies depend on
+instructors’ willingness to provide access to new digital tools and empower them to explore its affordances in their own ways.
+Secondly, we must acknowledge that despite GenAI’s passive aspects, this technology is not neutral as a common “thing”. The
+"black box" problem of AI’s decision-making, combined with its training primarily on Western and English-language texts and human
+feedback, not only hides cultural and societal biases with implications for representation, inclusivity, and marginalisation, but can also
+lead to a tendency towards simplistic literalism. While careful and precise prompting can counter such issues, recent efforts to train on
+more globally diverse datasets promise to foster more diverse and hybridised outputs. Teachers are responsible for asking questions to
+9
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+provoke students to critically negotiate with the tool to counteract the complicity of students in subordinating their intellect to digital
+hegemony and domination. For instance, a student cited the workshop discussions about pre-trained biases as influential in shaping her
+approach to crafting text prompts and analysing the generated outputs.
+Students valued how teachers and peers also drew attention to critical values, such as originality and creativity, in written works
+and emphasised the importance of developing one’s unique and hybridised style instead of relying on AI-generated content that may
+lack individuality or simply rehashing existing positions. The students’ dedication and thoughtful engagement in the project serve as a
+counterpoint to institutional apprehensions over plagiarism through GenAI. Instead, these efforts manifest students’ intent to preserve
+their voices while leveraging technology to animate and deepen their ideas. The dynamic and circular process of acceptance, rejection,
+and refinement that unfolded shows students’ critical engagement with the technology and conscious creative decisions. This inter­
+action of catalysing creativity and learning rather than a replacement for originality suggests AI’s capacity to foster a dynamic learning
+ecosystem that encourages experimentation, critical thinking, and understanding of authorship intricacies in the digital era, including
+plagiarism. Yet, as AI progressively evolves to better infer our decision-making and preferences, we need to guard against it inad­
+vertently becoming a proxy “sage on the stage”, thereby limiting our personal agency and emancipatory potential. This revelation
+amplifies the importance of the assigned tasks and the pedagogical methodologies employed when assimilating GenAI into educational
+environments.
+Thirdly, emancipation requires cultivating environments that stimulate students’ intellectual endeavours and imaginative acts.
+Teachers can facilitate both tangible and intangible conditions for interdisciplinary and transdisciplinary experiments that may be
+difficult for students to initiate independently. For instance, Student 7 asserted that without this involvement, she believes her un­
+derstanding of the potential of GenAI in creative writing would have remained unexplored. The iterative and circular dynamics of
+learning we champion here underscore the imperative of unfettered access to GenAI tools for students. Policies that impose restrictions
+are not only counterproductive but also risk marginalising socioeconomically disadvantaged students.
+The experimentation affirmed students’ adaptive and learning capacities, illustrating the need for human agency and intervention
+in creative production. For a few students, the project interrupted their complacencies and presuppositions about the capabilities of AI.
+For Student 10, the experiments had an affective influence by growing her confidence in her capacities and her optimism about the
+future with GenAI technology - a sentiment shared by many participants. For Student 3, the takeaway was about authorship. She
+walked away valuing the power of generative art in creative storytelling but reifying that she “wanted the words to be my own.”
+Conclusion
+In exploring GenAI in creative production through the lens of Rancière’s philosophical concepts, our investigation revealed stu­
+dents’ struggles with both the predictable and unconventional generative outputs, which paradoxically spurred them to recognise their
+agency to subvert genre conventions and aesthetic norms against the passivity and authorial ignorance of the technology. Student
+improvisation and spontaneity in experimenting with different techniques to communicate with the GenAI showcased their logical
+adaptability (ability to flexibly respond to GenAI’s outputs), contextual awareness (discerning the influence of context in the creative
+process), and capacity for recombinant synthesis (combining various creative techniques and outputs to generate unique creative
+conventions). Implementing Rancière’s methodology in creative education with GenAI through an object-focused pedagogy demon­
+strated the possibilities of this co-creative process in cultivating intellectual emancipation. The study reinforces the need for educators
+to operate as “ignorant schoolmasters” by designing minimally guided experiential activities and research projects to develop students’
+autonomy, sense-making, and criticality. Our findings contest the view of creativity as a specialised skill and present the possibility of
+GenAI in promoting a more distributed and diverse conception of creativity accessible to all. Students viewed creativity as configu­
+rations of cultural and social elements, emphasising the combination of unexpectedness and intentionality in human efforts. They
+rejected the notion of creativity as a random or chance-based process, aligning more with sociological definitions in which creativity is
+realised in the result rather than the actor and is intrinsically collective, and in which not all novelty is deemed creative, but rather
+hinges on audience reception (Godart et al., 2020). Moreover, our observations indicate that GenAI tools “fold into” and obscure the
+distinctions between common characteristics of creativity such as agency, support, scaffolding, and artefacts (Bardzell, 2007). As
+GenAI takes on fundamental learning tasks and advances in complex areas like data analysis and synthesis, educators must re-think the
+environment for capacities like meaning creation and ethical judgment to flourish.
+With the global integration and advancement of AI, the task of resisting and guarding against forms of technological somnam­
+bulism, corporate regulatory capture, and technocracy becomes more urgent. These phenomena bear profound implications, including
+the potential displacement of human creativity, the reconfiguration of our agentic capacities, and the threat to democratic processes.
+Moreover, they can contribute to alienation through insidious expressions of neocolonialism and domination. Ethical debates around
+AI as anti-art, unauthorised use and storage of intellectual property, limitations of moderation and filters, AI-related labour exploi­
+tations, and the unfolding regulatory dynamics require attention amidst the proliferation of social and economic activities coalescing
+around GenAI. The risk is compounded by the growing indistinguishability between human and AI-generated content (with the rise of
+synthography, AI-generated photography), that can potentially dilute the emotional resonance that often comes from humangenerated content, leading to a sense of disconnection, breeding mistrust due to the AI-generated misinformation, and inducing
+apathy towards reality as we continuously question the authenticity of content. In the context of Rancière’s “distribution of the
+sensible”, AI might be construed as embodying “anaesthetic” creativity - a dual-edged phenomenon that both numbs traditional artistic
+sensibilities through mechanisation and antagonises them by posing as a credible author or artist. No doubt our growing reliance on its
+capabilities could profoundly reshape aesthetic norms and judgments, impacting on what is valued, questioned, or discarded.
+While our small-scale implementation of Rancière’s philosophy reveals the potential for intellectual emancipation within the
+10
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+classroom, achieving durable social change requires acting with the assumption of intellectual equality while simultaneously ques­
+tioning the broader conditions that inscribe and reproduce the material inequalities beyond it and addressing wider economic and
+opportunity disparities. Educators in higher education must acknowledge our current coexistence with AI. They bear the responsibility
+for creating conditions that enhance students’ critical awareness, aiming to reduce structural inequalities and inspire imaginative
+thinking for a better future. Human participation is crucial in directing a technology that generates “new” content by drawing upon our
+digitised past. Future research should investigate how AI can co-create with students and teachers to transform, augment, and
+empower creative pedagogy in higher education for deeper engagement and civic participation.
+Funding details
+This study was funded by the Hong Kong University Grant Committee Teaching Development and Language Enhancement Grant
+and allocated by the University of Hong Kong Vice-President and Pro-Vice-Chancellor (Teaching and Learning), ID 012530415.
+CRediT authorship contribution statement
+Jack Tsao: Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Resources,
+Supervision, Writing – original draft, Writing – review & editing, Funding acquisition. Collier Nogues: Conceptualization, Data
+curation, Formal analysis, Investigation, Project administration, Supervision, Validation, Writing – original draft, Writing – review &
+editing.
+Declaration of competing interest
+None.
+References
+Abdel-Hack, E. M., & Helwa, H. (2014). Using digital storytelling and weblogs instruction to enhance EFL narrative writing and critical thinking skills among EFL
+majors at Faculty of Education. Educational Research, 5(1), 8–41.
+Bardzell, J. (2007). Creativity in amateur multimedia: Popular culture, critical theory, and HCI. Human Technology: An Interdisciplinary Journal on Humans in ICT
+Environments.
+Barthes, R. (1977). Image, music, text (S. heath, trans.). Fontana.
+Biesta, G. (2016). The beautiful risk of education. Routledge. https://doi.org/10.4324/9781315635866
+Bingham, C., Biesta, G. J. J., & Rancière, J. (2010). Jacques Rancière: Education, Truth, Emancipation. Continuum International Publishing Group. 10.5040/
+9781472546975.
+Bumgarner, B. L. (2012). Digital storytelling in writing: A case study of student teacher attitudes toward teaching with technology. University of Missouri-Columbia [Doctoral
+Thesis].
+Burrell, J., & Fourcade, M. (2021). The society of algorithms. Annual Review of Sociology, 47(1), 213–237. https://doi.org/10.1146/annurev-soc-090820-020800
+Clark, E., Ross, A. S., Tan, C., Ji, Y., & Smith, N. A. (2018). Creative writing with a machine in the loop: Case studies on slogans and stories. In 23rd International
+Conference on Intelligent User Interfaces.
+Corcoran, S. (2010). Editor’s Introduction. In S. Corcoran (Ed.), Dissensus: On politics and aesthetics (pp. 1–24). Continuum.
+Dahlström, H. (2019). Digital writing tools from the student perspective: Access, affordances, and agency. Education and Information Technologies, 24, 1563–1581.
+Davis, O. (2010). The radical pedagogies of François Bon and Jacques Rancière. French Studies, 64(2), 178–191. https://doi.org/10.1093/fs/knq001
+Ewalt, J. P. (2016). Rhetoric, poetics, and Jacques Rancière’s The ignorant schoolmaster: Five lessons in intellectual emancipation. Philosophy & Rhetoric, 49(1),
+26–48. https://doi.org/10.5325/philrhet.49.1.0026
+Fryer, N. (2015). The ‘third thing’: Rancière, process drama and experimental performance. Research in Drama Education: The Journal of Applied Theatre and
+Performance, 20(3), 331–336.
+Galloway, S. (2012). Reconsidering emancipatory education: Staging a conversation between Paulo Freire and Jacques Rancière. Educational Theory, 62(2), 163–184.
+Godart, F., Seong, S., & Phillips, D. J. (2020). The sociology of creativity: Elements, structures, and audiences. Annual Review of Sociology, 46, 489–510.
+Hjulström, E., & Rytzler, J. (2022). Herbart with Rancière on the educational significance of the ’third thing’ in teaching. Ethics and Education, 17(4), 421–436.
+https://doi.org/10.1080/17449642.2022.2153470
+Horner, B. (1997). Students, authorship, and the work of composition. College English, 59(5), 505–529.
+Kangasharju, A., Ilomäki, L., Lakkala, M., & Toom, A. (2022). Lower secondary students’ poetry writing with the AI-based poetry machine. Computers and Education:
+Artificial Intelligence, 3, Article 100048.
+Karlsson, M. (2022). In pursuit of ignorant university teachers and intellectually emancipated students. Culture and Organization, 28(3–4), 194–215. https://doi.org/
+10.1080/14759551.2022.2026947
+Klerfelt, A. (2007). Barns multimediala berättande. En länk mellan mediakultur och pedagogisk praktik. Göteborg: Acta Universitatis Gothoburgensis.
+Kogut, M., Sørensen Thaning, M., & Birksted, N. (2021). Intellectual emancipation as minimal humanism – The relevance of Jacques Rancière in business school
+teaching. Management Learning, 52(2), 165–187. https://doi.org/10.1177/1350507620969549
+Lev-Aladgem, S. (2015). The ignorant facilitator: Education, politics and theatre in co-communities. Research in Drama Education: The Journal of Applied Theatre and
+Performance, 20(4), 511–523.
+McKinsey & Company. (2023). The economic potenial of generative AI: The next productivity frontier.
+Novak-Leonard, J. L., Skaggs, R., & Robinson, M. (2022). Innovative and artistic: Conceptions of creativity among the American public. Poetics (Amsterdam), 90,
+Article 101599. https://doi.org/10.1016/j.poetic.2021.101599
+Ouyang, F., & Jiao, P. (2021). Artificial intelligence in education: The three paradigms. Computers and Education: Artificial Intelligence, 2, Article 100020.
+Plate, D., & Hutson, J. (2022). Augmented creativity: Leveraging natural language processing for creative writing. Art and Design Review, 10(3), 376–388. https://doi.
+org/10.4236/adr.2022.103029
+Rancière, J. (1991). The ignorant schoolmaster: Five lessons in intellectual emancipation. Stanford University Press.
+Rancière, J. (2004). The politics of aesthetics: The distribution of the sensible. Continuum.
+Rancière, J. (2009). The emancipated spectator. Verso.
+Roemmele, M., & Gordon, A. (2018). Linguistic features of helpfulness in automated support for creative writing. In Proceedings of the first workshop on storytelling.
+Sartre, J.-P. (2022). Being and nothingness: An essay in phenomenological ontology (S. richmond, trans.). Taylor & Francis.
+
+11
+
+Poetics 102 (2024) 101865
+
+J. Tsao and C. Nogues
+
+Sgourev, S. V. (2021). Changing perspective: An “optical” approach to creativity. Poetics (Amsterdam), 89, Article 101581. https://doi.org/10.1016/j.
+poetic.2021.101581
+Simons, M., & Masschelein, J. (2011). Introduction: Hatred of democracy . . . and of the public role of education? (pp. 1–14) Wiley. https://doi.org/10.1002/
+9781444393866.ch1. In.
+Simpson, P. W. (2021). The art of making up things: Jacques Rancière and intellectual emancipation in the primary creative writing classroom. Auckland, New Zealand:
+Auckland University of Technology [Doctoral Thesis].
+Sinner, A. (2015). Against the grain: An intervention of mastery learning and intellectual emancipation in art education. Educational Philosophy and Theory, 47(5),
+502–514. https://doi.org/10.1080/00131857.2014.883962
+Trafí-Prats, L. (2012). Urban children and intellectual emancipation: Video narratives of self and place in the city of Milwaukee. Studies in Art Education, 53(2),
+125–138. https://doi.org/10.1080/00393541.2012.11518857
+Vlieghe, J. (2018). Rethinking emancipation with Freire and Rancière: A plea for a thing-centred pedagogy. Educational Philosophy and Theory, 50(10), 917–927.
+https://doi.org/10.1080/00131857.2016.1200002
+Williams, R. (1977). Marxism and literature. Oxford University Press.
+Dr. Jack Tsao is the Associate Director and Senior Lecturer of the Common Core, the undergraduate transdisciplinarity curriculum at the University of Hong Kong. As a
+Senior Fellow of Higher Education Advance, he is interested in exploring projects around gaming, storytelling, and digital and artificial intelligence technologies. Jack
+earned his PhD in Education from the University of Queensland and specialises in comparative and international education, youth studies, and the sociology of education
+through an interdisciplinary perspective.
+Dr. Collier Nogues is Assistant Professor of Creative Writing at the Chinese University of Hong Kong. Her poetry collections include the hybrid print/interactive volume
+The Ground I Stand On Is Not My Ground (Drunken Boat, 2015) and On the Other Side, Blue (Four Way, 2011). Her creative and scholarly work has been supported by
+fellowships from the MacDowell Colony, the Ucross Foundation, Vermont Studio Center, and the Hong Kong Research Grants Council, and her writing has appeared in
+Jacket2, The Volta, At Length, Pleiades, jubilat, Tupelo Quarterly, the Academy of American Poets’ Poem-A-Day Project, and elsewhere.
+

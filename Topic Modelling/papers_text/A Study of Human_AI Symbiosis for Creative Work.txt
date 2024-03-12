@@ -1,0 +1,746 @@
+
+Recent advances in Artificial Intelligence (AI), particularly deep learning, are having an enormous impact on
+our society today. Record numbers of jobs previously held by people have been automated, from manufacturing to transportation to customer services. The concerns of AI replacing humans by taking over people’s
+jobs need to be urgently addressed. This article investigates some promising different directions of AI development: Instead of using AI to replace people, we should use AI to team up with people so that both
+can work better and smarter. Human–AI symbiosis refers to people and AI working together to jointly solve
+problems and perform specific tasks. The recent developments in deep learning models and frameworks have
+significantly improved the efficiency and performance of human and AI collaborations. In this article, some
+research work on human–AI collaborative environments has been extensively studied and analyzed to reveal
+the progress in this field. Although the teaming of humans and machines includes many complex tasks, the
+development has been very promising. One of the main goals in this field is to develop additional capabilities
+in machines capable of being successful teammates with a human partner. The correctness of the outcomes is
+often determined by the underlying technology and how performance and human satisfaction are measured
+through the collaborative nature of the system. We conclude that the teaming of humans and AI, particularly
+deep learning, has the advantage of combining the power of AI with the human domain expertise to improve
+performance and create value. Human–AI symbiosis could be a promising future direction for AI’s continuing
+integration into the world.
+CCS Concepts: • Human-centered computing → Collaborative and social computing systems and
+tools;
+Additional Key Words and Phrases: Human–AI collaboration, human–AI teaming, artificial intelligence,
+collaborative concept development
+ACM Reference format:
+Bahar Mahmud, Guan Hong, and Bernard Fong. 2023. A Study of Human–AI Symbiosis for Creative Work:
+Recent Developments and Future Directions in Deep Learning. ACM Trans. Multimedia Comput. Commun.
+Appl. 20, 2, Article 47 (September 2023), 21 pages.
+https://doi.org/10.1145/3542698
+
+1 INTRODUCTION
+The development of artificial intelligence, which includes the study of machine learning, particularly deep learning and neural networks, brings rapid changes in our human lives. Automation
+Authors’ addresses: B. Mahmud and G. Hong, Western Michigan University,1903 W Michigan Ave, Kalamazoo, MI 49008,
+USA; emails: {baharuddin.mahmud, guanyue.hong}@wmich.edu; B. Fong, Providence University, Shalu District, Taichung
+City, Taiwan 433; email: bfong1@pu.edu.tw.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee
+provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and
+the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored.
+Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires
+prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+© 2023 Association for Computing Machinery.
+1551-6857/2023/09-ART47 $15.00
+https://doi.org/10.1145/3542698
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:2
+
+B. Mahmud et al.
+
+enabled by the rapid advancement in Artificial Intelligence (AI) has been replacing record
+amounts of jobs previously held by people, from manufacturing to transportation to customer
+services. As AI is continuing to integrate into our society, the concerns of AI competing or replacing humans need to be urgently addressed. This article investigates some promising different
+directions of AI development where humans and AI can team up together to work smarter and better. We investigated recent research work aiming at creating a team of machines and people that
+can make intelligent judgments, understand, and react intelligently to their teammates’ actions.
+Human–AI symbiosis thus refers to people and AI working together to jointly solve problems and
+perform specific tasks. The development of AI also makes possible the concept of smart living
+with smart devices [1–4]. Deep learning techniques play a significant role in easing humans from
+painstakingly tedious tasks [5]. At present, there are many commercially available intelligent devices serving users smartly and helping humans for multiple purposes. However, most of these
+intelligent devices are still either highly dependent on humans for performing tasks or lack selfcommunicative and cognitive abilities [6]. Some recent research also focuses on how to establish a
+reliable and trustworthy collaborative environment between humans and machines. Our research
+focuses on analyzing the latest developments in the human–AI collaborative environment, as well
+as the technologies that underpin them.
+The recent developments in team collaboration, simulations, audio-visual assistance, interactive
+gaming, multi-sensory settings for gathering temporal inter-dynamic log-data, and other technologies have enabled us to deliver learning opportunities in a remarkably effective and efficient
+manner [7]. AI-powered intelligent support through various rules and AI techniques showed improvements in the collaborative learning experience for both students and instructors in a webbased collaborative environment [8]. Although the advancement of AI systems has contributed
+much to boosting the production management of a business, when the human-in-the-loop methodology was applied, it improves productivity and efficiency as human creativity, and flexibility are
+not always replaceable by machines [9]. There is evidence that shows machines perform better
+when they work collaboratively with humans. Much research work has been done, and more is
+ongoing to evaluate the human–AI system in a collaborative environment [10, 11].
+In this article, we focus on several significant human–AI collaborative works to understand the
+field more deeply. There are strong debates on whether intelligent machines can make effective
+decisions or are prone to misguidance or making mistakes. For example, a major problem with
+AI automation is its inability to team with humans and its failure to understand human intention.
+AI-powered autonomous systems have been widely criticized for social media misguidance, car
+accidents, and increased polarization. Researchers are hopeful of avoiding all these barriers by
+combining the system with both human and machine efforts. Considering human decisions in the
+loop is important for the successful development of a collaborative environment, the performance
+of both humans and machines in a collaborative environment depends on several factors, including
+the understanding of physical and internal structure. Moreover, the design concept of human–AI
+collaboration is more complex as it involves many factors, including the machine’s understanding
+of human behaviors, intentions, cognitive characteristics, and vice versa [12].
+The primary objective of this research is to assess the current state of research in the field of
+human–machine teaming. Intelligent devices have historically served as tools rather than collaborators. We have built increasingly sophisticated remote-control technologies, but these devices
+require a human user’s entire attention [13]. From human personal assistants to search and rescue operations, robotic assistants have been developed in a variety of disciplines and applications
+[14–16]. Recent developments in AI, like self-driving cars, technical assistance chatbots, and virtual
+assistants like Siri and Alexa, are useful tools for extending human capabilities, but their communicative and cognitive capacities are insufficient to be productive and trusted teammates. As we
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:3
+
+Fig. 1. Workflow of human–AI symbiosis.
+
+know, machines have numerous capabilities such as doing repetitive work, solving complex computations with a higher level of vigilance that humans can hardly perform. The development of
+autonomous machines that use these capabilities to work with human partners has the potential
+to revolutionize a wide range of commercial and military applications [17].
+As an individual’s skills and expertise can be used by a team to achieve goals that would be
+impossible for a single person to achieve on their own, human–AI symbiosis could utilize a human member’s unique skills and abilities. Our goal is to give potential researchers a solid overview
+of human–machine teaming development through the discussion of possible collaboration of humans and machines. Section 1.1 of this article introduces the human–AI collaborative environment, while Section 1.2 describes the importance of a collaborative system. Section 2 explains the
+review methodology. Subsequently, Sections 3–6 describe the extensive review and analysis of recent developments in human–AI teaming for creative and collaborative work, like text generation,
+creative drawing, and augmented reality. Section 7 discusses the results of the analysis, with some
+key findings and future directions, and, finally, Sections 8 and 9 conclude the article with more
+detailed discussions on the future directions of this field.
+1.1 A Review of Human–AI Symbiosis
+Human interaction with intelligent machines is quite a common technology nowadays. For instance, an intelligent system like a chatbot or a virtual assistant increases human capabilities with
+interaction. However, there are some disagreements about how interactive these kinds of systems
+are. Are they considered true teammates of humans? To develop a true human–AI collaborative
+environment, some key factors need to be addressed very rigorously. First, understanding human
+cognitive capabilities is very crucial for this field. Second, the improvement of machine capabilities is also important for the collaborative system. Moreover, the development of human–machine
+collaboration broadly depends on our understanding of human cognitive development. Figure 1
+shows the development process of human–AI collaboration. For example, during disaster response,
+human–machine teams can work collaboratively to save more lives and restore more material.
+There are numerous autonomous systems that work along with humans to search for survivors,
+move rubble, and deliver medical treatment. Intelligence-enhanced systems in such teams would
+be able to respond to new in the environment and learn from their interactions with human collaborators through experience. Once human capabilities are addressed properly, it will lead to the
+improvement of machine capabilities. Once these factors are addressed properly, then the improvement of the machine model and human model will come, and so it continues. The challenging part
+of the human–AI symbiosis is the integration of several factors such as cognition, understandings,
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:4
+
+B. Mahmud et al.
+
+Fig. 2. Decision-making process with a predictive model using historical data.
+
+team desires, objectives, and trust among team members [18]. Communication between team members is one of the key factors for successful teaming. Communication means not only dealing with
+words but also with other factors like understanding, emotions, expressions, gestures, and so on.
+Progress in this area is still limited, but it is considered one of the active areas of research [19]. Robust machine learning techniques are crucial to developing a machine’s capabilities to cope with a
+human’s cognitive capabilities. Unsupervised learning could be a viable alternative to supervised
+learning to accelerate the learning process of machines in a collaborative environment [20].
+1.2 Why Collaboration?
+Human–AI teaming is a combined concept of interactions between humans and intelligent agents.
+Different research shows that human–AI teaming has diverse applications in the fields of defense,
+healthcare, disaster response, and so on [21]. Many intelligent tools have been invented so far,
+but they are not capable of becoming teammates for humans. To become true teammates, they
+must make some contributions in a critical problem-solving process, such as making decisions,
+choosing options intelligently, using past memory to make decisions, identifying problems, and
+so on [22]. Automation enhanced by the advancement in deep learning has diverse applications in
+improving productivity and making our daily life easier. Image recognition, traffic prediction, autonomous driving, natural language processing, and many others are well documented and proven
+applications of machine learning techniques [23–26]. Although machine learning has significant
+impacts on decision-making, it still has several limitations. One of the most common pitfalls of
+machine learning models is its inability to balance decisions between humans and machines. Automation using machine learning techniques is blamed for many failures, including fake news,
+traffic accidents, misleading social media, and so on. The main reasons behind these failures are
+the autonomous decision making by AI, the imbalanced inputs of humans and AI, the lack of collaboration, no human in the loop, and failure to perceive human cognitive capabilities, and so on.
+These are valid reasons that demonstrate the importance of human–AI collaboration.
+Taking human decisions into consideration and establishing feedback processes in the loop of
+human–machine decisions are the focus for the researchers to deal with the shortcomings of machine learning automation alone. Many intelligent tools have been invented so far, but they are not
+capable of becoming teammates for humans. Teaming of humans and AI involves interactions and
+collaborations between humans and intelligent agents in decision making. To become true teammates, they must contribute to the critical problem-solving process, e.g., by identifying problems,
+choosing options intelligently, and making optimal decisions using past experience [15]. Various
+research works show that human–AI symbiosis has diverse applications in defense, healthcare,
+disaster response, and so on.
+The above expression in Figure 2 describes the general setup for decision making with decision
+rules that are informed by a machine learning predictive model. Here, decision(a), a ∼ P(a), where
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:5
+
+a is a feature, π (decision | a) denotes a set of decision rules, b is the feature from historical data, and
+Y = {0,1} is the prediction. P(b|a) denotes the prediction model. So, the decision depends on the set
+of rules and historical data combined. For instance, whether a person gets a loan or not depends on
+both historical data and bank policy according to the above predictive model. The main objective
+is to maximize the benefits that the decision-maker ensures by applying decision policies. CorbettDavies et al. [27] explained that deterministic threshold rules are optimal decisions under certain
+specific constraints.
+So, according to the above expression, the decision is perfect as the predictive model P(b|a) is
+perfect, features and policies are independent factors, and individuals cannot influence the decision. But this ideal situation rarely occurs; most of the time the constraints are violated. The
+most frequent problem is with datasets, as the model trained with historical data is more likely to
+be imperfect and suffer from limitations [28]. According to Kilbertus et al. [29] exploring a new
+set of rules can achieve the optimal solution by creating feedback loop between human decisions
+and system decisions. In that case, the ground truth distribution combined with historical data assists in getting new exploring policies for decision making. According to De et al. [30], optimizing
+the machine learning model during training by distributing the fraction of policymaking between
+machine and human could be a solution with optimal results.
+2 REVIEW METHODOLOGY AND LITERATURE SELECTION
+To continue the discussion on specific fields that demonstrate significant contributions in the context of a collaborative platform, we focus on presenting and analyzing some practical and recent
+developments in human–AI collaboration. It is very crucial to analyze the existing work to understand the future development in a particular field. By the end of this review, our understanding
+would have been solidified in the context of having diverse knowledge of human–AI development.
+This article tries to answer the following questions to better understand the platforms:
+(1) Why is a collaborative environment significant?
+(2) How far has it reached and how much is left to achieve?
+(3) Which fields show significant development in collaboration?
+(4) What are the main factors that need to be satisfied to be considered as a collaborative
+platform?
+Literature selection criteria are a crucial part of any research work. There are several literature
+selection methods available, including traditional literature review, integrative literature review,
+systematic literature review, and so on [31]. Among them, we have used a systematic literature
+review method for our selection process. A systematic review is a study that examines a clearly
+defined subject using systematic and explicit procedures to find, select, and critically appraise
+relevant literature, as well as gather and analyze data from the studies included in the review [32].
+The following steps are used in selecting the literature.
+Selection of keywords: This depends on the area of research and the questions authors want to
+address. In our case, some examples of keywords we have tried for literature finding are human–AI
+collaboration, creative work and AI, collaborative work, human–AI interaction, and so on.
+Selection of search strings: Search strings are generated with the combination of the keywords and their synonyms [33], for instance (collaborative work AND AI), human-AI interaction
+OR human-AI collaboration), (human-AI AND collaboration).
+We have set up some inclusion and exclusion criteria for our review that includes for inclusion
+practical implementation of our selected topic, closely related to our keywords, must have been
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:6
+
+B. Mahmud et al.
+
+Fig. 3. Demonstration of keyword search and string formation in ACM digital library.
+
+published within the last 5 years. For exclusion, older than 5 years, do not have any experimental
+explanation, and published in a language other than English.
+Search databases: We have considered multiple databases for our literature selection process.
+The following is the list of databases we consider:
+(1) ACM Digital Library (https://dl.acm.org/).
+(2) Scopus (www.scopus.com).
+(3) Google Scholar (https://scholar.google.com/).
+(4) IEE Explore (ieeexplore.ieee.org).
+(5) ScienceDirect (www.sciencedirect.com).
+(6) Arxiv (https://arxiv.org/).
+Figure 3 illustrates the search criteria formation in one of the databases mentioned above.
+The different fields are selected to review extensively including human–AI collaboration in text
+generation, human–AI collaboration in artistic design, creative AI using Generative Adversarial
+Networks, and augmented reality.
+We searched a sizable number of papers related to this research topic, and a total of 120 papers
+were selected initially. Then, we applied several parameters considering the relevancy of the work
+and date of publication. As a result, 80 articles have been selected for final review and used in this
+work. Table 1 describes the breakdown of article selection in the above four focus areas in the final
+review.
+3 HUMAN–AI COLLABORATION IN TEXT GENERATION
+3.1 Wordcraft: A Human–AI Collaborative Editor for Story Writing
+This is an AI-powered text editor that creates a human–AI collaborative environment to draft
+stories more interactively. Neural language models are gaining more popularity in the field of
+natural language processing. The Wordcraft editor offers a user-friendly environment to draft a
+story with several options like rewriting, elaboration, continuation, synonyms, and so on. So the
+main idea of this work is to draft a story in a human–AI collaborative environment where the
+underlined language model will help to shape the story more logically.
+The authors [34] here used the few-short learning technique for building their story assistant
+tools with Meena, a popular language model for dialog generation. Meena is a neural conversational model that learns to reply appropriately to a particular conversational situation from beginning to end. The goal of training is to reduce perplexity or the risk of incorrect anticipation
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:7
+
+Table 1. Study Breakdown of the Review
+
+Study Breakdown
+Field of study
+No. of paper studied
+Human–AI collaboration in text generation
+10
+Human–AI collaboration in artistic design
+8
+Creative AI using Generative Adversarial
+8
+Networks
+Augmented Reality
+14
+
+Publication year
+Between 2019 and 2021
+Between 2016 and 2019
+Between 2019 and 2021
+Between 2019 and 2022
+
+Fig. 4. Meena conversation: Context and response generation.
+
+of the next token. The Evolved Transformer seq2seq architecture [35] and the neural architecture
+search [36] are the main concepts behind the development of the dialog-based Meena language
+model. As shown in Figure 4, it includes a unique Evolved Transformer encoder block and 13
+Evolved Transformer decoder blocks. The encoder can interpret the discussion context and assist
+Meena in comprehending what has already been stated. The information is used in a decoder to
+create a truthful answer. We determined that a more powerful decoder was the key to greater
+conversational quality by adjusting the hyper-parameters. Few-shot learning is a popular technique that applies to several language models, and it helps models to give demonstrations with
+the help of only a few available examples rather than huge chunks of data [37]. The main idea
+of few-short learning is to find the best result within limited examples of given data [38]. A set
+of context and completion tasks given through the system is represented as K (number of examples). The value of K varies from 10 to 100 examples depending on the model’s capacity. Few-shot
+learning techniques comprise of three parts: task description, examples, and prompt (output). For
+instance, Figure 5 describes how the few-shot learning technique works to translate English to
+French. They showed the implementation of both language models Meena and General Purpose
+Language Model (GPLM), then chose Meena for its simplicity. Moreover, in terms of dialogue
+generation, Meena is more interactive in comparison to any GPLM. Meena was designed in such a
+way that it would generate the next conversation interactively based on the previous conversation
+or text. In contrast, GPLM just continued the previous passage on its own.
+Although the authors do not specifically analyze GPLM for dialogue, they claim that Meena’s
+dialog is more interpretable than GPLM’s. Meena creates discussions that are humanlike and familiar. Meena exhibited a strong response by structuring the story after providing a single new piece
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:8
+
+B. Mahmud et al.
+
+Fig. 5. Few-shot learning technique.
+
+of information or enquiry; however, GPLM’s story was unclear. Following significant research, it
+was shown that GPLM performs admirably when the task is simply to continue a text line, but
+Meena dialog performs better when extra information is provided. The authors demonstrated that
+Meena dialog outperforms the general-purpose language model in many circumstances, but they
+did not create GPLM specifically for this study. As a result of this research, it was discovered that
+Meena dialog produced relevant results in generating the proper next line of text to build a story,
+even though other GPLM would produce similar or better results if intended for conversation.
+3.2
+
+STORIUM: A Collaborative Story Generation Platform
+
+Storium [39] is a gamified storytelling platform that enables a small group of users to collaboratively draft a single story. The writing process is transformed into a turn-based game. With a rich
+database of stories with fine-grained annotations and proper evaluation methods. A fine-tuned
+language model was applied to datasets and integrated with Storium where users can search for
+new models to write up their next few lines of the story. Existing datasets lack rich enough context
+to meaningfully guide models. Existing evaluations are unreliable for assessing long-form creative
+text. The Storium dataset contains 6k lengthy stories tokens (125M) with fine-grained natural language annotations. Its evaluation metric is suitable for long-form creative text generation. In this
+story generation system, all stories are broken into discrete scenes annotated with narrative elements such as character goals or abilities. The Storium platform has two players; one is the narrator
+and multiple characters. Characters can choose cards that are available and contain several challenges. The narrator initiates the game and introduces new challenges anytime to continue the
+game.
+For topic modeling, they used a simplified version of RMN [40] that illustrates the changes
+and relationships between characters over time. The Storium model uses the idea of GPT-2 [41],
+a fine-tuned language model that has some limitations such as handling length of context and
+implementation of human judgment for huge configurations.
+Storium used a new evaluation metric named user story edit ratings (USER). User’s entry text
+is evaluated by USER metric that is based on thelongest common sub-sequence and is a variant
+of ROUGE [42]. Storium is highly interactive, and the proposed USER metric is highly correlated
+with human judgment.
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:9
+
+Fig. 6. An example of a real STORIUM game [39].
+
+3.3
+
+Meena: Humanlike Open-Domain Chatbot
+
+Meena is a more interactive chatbot than other existing chatbots. Training data for Meena is filtered
+through several processes, and they use the byte-pair-encoding [43] technique for tokenization.
+The final Meena dataset contains 40B words, which is claimed to be larger than any system data.
+Meena chatbot text generation has three parts, including training data, architecture model, and
+decoding of text. They used a blended architecture model with the help of seq2seq [35] and evolved
+transformer [36] as their main architecture. The main objective of the decoding part is generating
+text with less perplexity with more Sensibleness and Specificity Average (SSA) metrics. They
+used a simple sample-an-rank decoding strategy that showed significant results compared to many
+complex decoding strategies like variational autoencoding [44].
+4 HUMAN–AI COLLABORATION IN ARTISTIC DRAWING
+The role of AI in artistic creation is a popular discussion among researchers. There are many debates about whether the software replaces the artist or whether it is another way to help artists
+fine-tune their art. Deep Dream is a technology that helps people to draw their imaginary vision and generate new images using a trained artificial neural network. The development of this
+technique came to light and gradually became popular soon after the Google engineer Alexander
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:10
+
+B. Mahmud et al.
+Table 2. Analysis of Interactive Chatbot “MEENA”
+
+Authors
+D. Adiwardana
+et al. [34]
+
+Input
+A dataset containing
+341 GB text with 41B
+words
+
+Methodology
+Training
+Data-Architecture
+Model-Decoding
+
+Output
+Text with low perplexity,
+79% SSA that is 23% greater
+than existing chatbots
+
+Table 3. Studies and Analysis of Collaborative Drawing Research
+Authors
+Davis et al.
+2016 [47]
+
+Measurement
+Drawing Apprentice:
+a freestyle drawing
+agent that evaluates
+the user’s input and
+responds by adding
+its own artistic
+efforts to a shared
+digital canvas
+
+Underlying technology
+(1) Deep neural networks
+(2) VGG-CNNs to classify the
+artist’s drawing and predict
+the intention of the artist
+(3) Use end to end learning
+mechanisms instead of a
+bag of words to classify the
+object and predict the next
+move in drawing
+
+Karimi
+et al. 2019
+[48]
+
+(1) Implementation
+of deep learning
+technology in
+co-creative art
+design
+(2) Check the
+novelty of
+artwork by
+comparing it
+with existing
+artworks
+Collabdraw:
+collaborative
+environment for
+drawing sketch
+using RNN
+(Recurrent Neural
+Network)
+
+(1) Detecting visual and
+conceptual similarity of
+artwork
+(2) Used VGG-CNNs for the
+design of the system
+(3) CNN-LSTM is more
+accurate in classification of
+similar work than VGG-16
+
+Fan et al.
+2019 [49]
+
+Conney
+et al. 2019
+[50]
+
+Collaborative
+artwork with robot.
+Tried to incorporate
+creativity and
+emotions of artist
+that is crucial for
+novelty in art
+
+(1) Used recurrent neural
+network model
+sketch-RNN as an
+underlined model that was
+trained with predeclared
+sketches
+(2) Used popular deep learning
+technique CNN to extract
+semantic properties of
+sketches
+(1) Used deep learning
+algorithms
+(2) DC-GAN used as the
+underlying technology for
+image creation
+(3) Used sentiment analysis to
+recognize emotions for
+drawing by integrating the
+predefined databases
+
+Findings
+(1) Sketch classification is the main
+challenge in this collaborative
+environment
+(2) Used Stochastic gradient
+descent for optimization of
+training datasets
+(3) Realizing an artist’s intention is
+sometimes difficult when the
+input is not clear
+(4) So, predicting the artist’s
+creative view and adding it
+simultaneously is challenging as
+they used only a single pipeline
+of conceptual categories and
+still needs a lot of research.
+(1) Summarizing the novelty of
+computer-assisted artwork is
+not so easy
+(2) Calculating conceptual shifts is
+found difficult as concepts
+cannot be represented
+numerically.
+(3) Visual shift of two images can
+be detected easily with image
+processing technique to
+understand the novelty.
+(1) allow continuation of partial
+sketches that satisfy the
+concept of collaboration
+(2) Their experimental results
+showed that collab sketches are
+better than solo sketches
+(3) A big question arises about how
+meaningful the artwork is.
+
+(1) Try to present artistic views by
+incorporating emotions and
+interactions.
+(2) Efficiency in terms of times
+requirement to generate the
+new image is not impressive
+
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:11
+
+Fig. 7. The five functions of DuetDraw.
+
+Mordvintsev tried using neural networks [45]. So the main idea of his work was to train a Convolutional Neural Network (CNN) with chunks of images and go deeper into the layers to see
+the outcomes, which turned out to be a completely new artistic view that they called Inceptionism
+[46].
+However, the main motive behind the above discussion is to understand whether the neural
+networks collaboratively work with artists as a tool to make something more surprising than
+artists could hardly imagine. Many researchers have tried to present a cooperative environment
+where the artist and AI tool work together to generate fine-grained artworks.
+Although the development of collaborative artistic tools still has many limitations, the way it is
+progressing is impressive. Deep learning neural networks show significant promise in DuetDraw
+[51], which proposes some basic drawing tools that use the concept of recurrent neural networks to
+draw in a collaborative environment. DuetDraw has five AI functions that were built using sketchRNN [52], which is based on Google’s TensorFlow. As shown in Figure 7, the five functionalities
+of DuetDraw include drawing a similar object, drawing a matching object, filling an empty space,
+colorizing sketches, and drawing the rest of the object. Figure 8 shows some demonstrations of
+collaborative drawing using sketch-RNN.
+The above system incorporates sketch-capabilities RNN’s into a range of tools that the AI can
+use in collaborative drawing with varying degrees of initiative. It can finish the artist’s sketch,
+change the style of the sketch, and suggest blank space on the drawing canvas for the artist to
+fill. Furthermore, it applies to the style-transfer model to colorize a sketch. During the sketching
+process, the drawing agent also interacts with the artist to explain why it is performing actions.
+DuetDraw is another method that integrates existing AI drawing models into a single interface.
+However, the workspace of the above-mentioned tool is extremely limited and diversion in terms
+of drawing is very few.
+5 CREATIVE AI USING GENERATIVE ADVERSARIAL NETWORKS
+Generative Adversarial Networks (GANs) [53] have been used to produce photorealistic images that are often indistinguishable from real-world imagery. GANs can be utilized in a variety
+of fields to provide genuine experiences, such as in the retail industry, where it may be feasible to
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:12
+
+B. Mahmud et al.
+
+Fig. 8. Experimental results using DuetDraw (which was built on the idea of sketch-RNN).
+
+Fig. 9. Workflow diagram of general adversarial networks.
+
+physically view the real things that we see in stores [54]. Recently, Reuters teamed with AI company Synthesis to create the world’s first synthesized news presenter, which was created using
+GAN technology and could be useful for tailored news for individuals [55]. GAN has also demonstrated significant growth potential in the healthcare market. Instead of exchanging genuine data
+from patients and research, this technology might be used to generate fictitious data [56]. Figure 9
+describes the general workflow of generative adversarial networks.
+The primary concept is to pit a generator against a discriminator. The generator attempts to
+draw a sample from the training data, whereas the discriminator attempts to determine whether
+the sample originated from the generator or the real world. Both the generator and the discriminator are deep networks that have been trained via backpropagation.
+GAN Dissection [57] is a visualization approach for deep networks based on the GAN analytic
+methodology. To observe how the network models the world, it manipulates the neurons to turn
+them into generators. To alter photos with object-level control, the approach employs a GAN. It
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:13
+
+Fig. 10. Experimental results of GANpaint. Panels 1 and 2: with and without grass object. Panels 3 and
+4: with and without tree object. Panels 5 and 6: with and without door object. Panels 7 and 8: with and
+without dome object. Panels 9 and 10: with and without clouds.
+
+uses neurons instead of pixels to create its artwork. To locate individual units of the generator that
+match meaningful object classes, such as trees, GAN dissection employs a segmentation network
+and a dissection approach. The authors of this paper use GAN to create many images. They find
+units inside the networks that correlate with things and test them to determine if ablating those
+units (turning them to zero) removes the object from the image and adding it back (setting it to 1).
+The authors have loaded a GAN that generates lifelike images of churches with a large number of
+neural units that represent various sections of the church in this work. For example, if you want to
+decorate a church with trees, then you can accomplish it by increasing or decreasing the tree unit
+as needed. Because each neuron is particular to a single unit, ablation will not cause any disruption
+to other units. The authors show how to insert items into photos using an interactive interface.
+Internally, the procedure will activate neurons in any location that corresponds to an item.
+Figure 10 shows the experimental results of GAN Dissection using the online tool of the work
+named GANpaint. The fact that the same neurons govern the same object class in different circumstances, even though the item’s ultimate form differs dramatically, is a fascinating observation. The same neurons can activate the concept of a “door” whether a massive stone wall needs
+a large heavy door facing to the left or a little hut that necessitates a small curtain door facing to
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:14
+
+B. Mahmud et al.
+
+the right. The network can also tell when it is possible to put goods together and when it is not.
+For example, turning on neurons for a door at the proper location of a building will add a door.
+Doing the same thing in the sky or on a tree, however, usually has no effect. This structure can
+be measured. Understanding a network’s internal concepts is important for a number of reasons,
+one of which is that the insights may help the network behave better. A GAN, for example, might
+produce very unrealistic graphics on occasion, and the origin of these faults was previously unknown. According to this study, these inaccuracies can be induced by certain types of neurons that
+cause visual distortions. By identifying and suppressing specific neurons, the output quality of a
+GAN could be enhanced.
+The GAN approach holds many promises for developing collaborative AI technologies. It is
+regarded as one of the most innovative and effective methods for creating false data. For example,
+by generating movies of well-known persons appealing for aid or cash for a pioneering endeavor,
+this technology offers a lot of promise for fundraising and increasing awareness [58]. Although
+this technology is making a significant contribution to the development of interactive AI, it is
+also being misused. GAN, for example, has shown promise in the production of Deepfake videos,
+which have been exploited for nefarious reasons. Blackmailing and exploiting a specific person by
+creating a bogus video are two examples that can be readily made with GAN [59–61].
+6
+
+AUGMENTED REALITY AND CREATIVE WORK
+
+Augmented reality (AR) is a multisensory interactive experience in which real-world items are
+supplemented with computer-generated perceptual information, sometimes across many sensory
+modalities such as visual, hearing, haptic, somatosensory, and olfactory [62]. Facebook, one of the
+top frontiers in augmented reality, defines the technology as follows: “Consider a world where
+you could use a set of lightweight, attractive glasses to replace your computer or Smartphone.
+You would be able to be physically present with friends and family no matter where they were on
+the planet, and you would have contextually aware AI to help you navigate the environment, as
+well as rich three-dimensional (3D) virtual knowledge at your fingertips. Most importantly, they
+would allow you to look up and be present in the world around you instead of focusing on the
+peripheral of your palm. This technology will not force you to choose between the real and virtual
+worlds.” Chief scientist Michael Abrash from Facebook Reality Labs has called AR interaction
+“one of the hardest and most interesting multi-disciplinary problems around.” In order for allday wearable AR glasses to perform in every setting an individual encounters during a day, a new
+paradigm is needed. Human avatars have enabled augmented and virtual reality applications, such
+as telepresence, for increased communication and entertainment and have helped reconstruct and
+perceive individuals in photos [63]. However, creating photorealistic animatable full-body codec
+avatars is still difficult. Understanding of proper representation of the shape of the avatars needs
+explicit implementation of complex geometric techniques and pixel mapping [64, 65].
+Several works have been done to model the clothing of humans in avatar mode. For example, In
+references [66, 67] the authors tried to model human clothing based on mesh representation to enhance the required optimization-based registration steps, but they are prone to failure. Moreover,
+they have limited resolution and cannot explain all the policies. Implicit-based representation for
+human clothing has been explored, but most of them only model static shape and are not controllable like the NASA model [68], which poses dependent occupancy, but it cannot explain highly
+non-rigid behavior and has part-based artifacts. NEURAL-GIF [69], depicts an implicit function for
+people’s clothes. By generating a detailed 3D shape from an input posture, NEURAL-GIF can be
+trained from raw scans without registration and used to explain a variety of topologies and geometrical patterns. It has also been proposed to learn an implicit representation of the human body
+surface using SCANIMATE [70] and LEAP [71]. In NEURAL-GIF, they learned a post added implicit
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:15
+
+Fig. 11. Description of the implementation of generalized implicit function in modeling NEURAL-GIF [69].
+
+surface with generalized implicit function [72]. It is easy to determine whether a set of points lies
+inside or outside of a surface given the surface’s implicit function. There will be no implicit function between the original shape and the newly converted space if a transformation or deformation
+is applied to it. This may be done easily by inverse transformation and then querying the original
+function regarding whether it is in or out of bounds. Only in this section were rotation and translation taken into account by the authors. So long as we have a point to work with, we can recover
+the surface using a stroke and use it to explain the shape as deformation of itself in the new space.
+A continuous displacement field is also included in this transformation by the authors to widen
+the range of deformations that can be divided. On the mesh surface, it acts as a displacement field
+in reverse. Face/surface deformation will increase if a displacement field is applied inward.
+An implicit function is used to learn post-appended surfaces by adding human articulation and
+non-rigid deformation. By using a canonical mapping network and inverse scanning transform,
+the work converts the query point P into a pose known as a canonical pose, which is then mapped
+to canonical space. According to Figure 11, B is the joint transformation matrix, k is the number
+of joints, and w is the predicted blend width.
+Additionally, a post-appended displacement field is included to represent the very dynamic and
+non-rigid deformation that occurs in canonical space. The signed distance field improves the supply of the margin queue to rebuild the mesh directly in post space during inference. Pose-driven
+animation for a clothed human was tested using CAPE [73] and DFAUST [74] datasets with the
+model developed by the researchers. Separate clothing items, such as t-shirts or skirts, are said to
+be flexible with this concept.
+Although NEURAL-GIF works fine for clothing avatars that have more flexibility than templatebased avatars, it still has some limitations and artifacts. For instance, it shows better results for
+the clothing of humans in grayscale mode avatars, but it does not perform well with RGB avatars
+when in motion. Figure 12 shows the artifacts of the NEURAL-GIF that have been collected based
+on the model’s experimental results.
+However, creating photorealistic animatable full-body codec avatars is still difficult. To address
+these obstacles, an animated clothed body avatar was created using multi-view gathered videos
+[75]. They used a two-layer mesh for the body and clothing templates. To improve photometric compatibility across frames, inverse rendering of apparel geometry and texture is used. A
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+47:16
+
+B. Mahmud et al.
+
+Fig. 12. Experimental works with NEURAL-GIF: show the limitations while separate clothing present for
+avatar in RGB mode (T-shirt and skirts).
+
+two-layer codec avatar with upper clothes and inside body modeling is then trained. They used
+a temporal convolution network to predict clothing latent coding from skeletal input positions.
+They used photorealistic animation to highlight the advantage.
+7 RESULT ANALYSIS AND KEY FINDINGS
+After experimenting throughout this research field, we can say that although the human–AI collaboration is getting special attention among researchers, the amount of research is still very limited.
+Most of the research on human–AI symbiosis is still at a primary level in terms of practical implementation and contribution. In addition, we discovered that most of the reviewed papers are
+uneven in terms of in-depth insights. Most of the reviewed papers still lack proper evaluation and
+performance methodology for their work.
+Our review on human–AI collaboration in text generation summarizes the techniques and
+methodology to generate text more interactively. All the papers we reviewed that were related
+to text generation emphasized the quality of datasets. Fine-tuned datasets are crucial to generating meaningful stories or conversations. Even though all the works used evaluation methods to
+validate their systems, the fluency and relevance of generated text remain a major concern. Similarly, human–AI collaborative work in artistic drawing has proven to be doable. However, the big
+question is How acceptable is the drawing to the human collaborator? Art is a matter of an artist’s
+thoughts and creativity. Understanding the artist’s cognitive capabilities is a big challenge for computer algorithms and vice versa. In the case of generative adversarial networks, there is currently
+no core score evaluation for better model training and advanced output production. In addition, it
+is still difficult to predict the density of the correctness of the evaluated model to claim that this image is dense enough to proceed. Moreover, the training process of a generative adversarial network
+is overly complex and time-consuming. For avatar clothing, an expansion of the current two-layer
+approach is needed to handle lower-body clothes, such as short pants with moving leg boundaries,
+which provides novel issues for both registration and modeling. A skirt, another frequent item of
+apparel, could be much more challenging because of the significant amount of movement and deformation it undergoes. Clothing-body interaction models now in use may not be able to manage
+these issues. Adding extra physical limitations to registration and learning for animation could be
+an option to resolve these problems.
+8
+
+DISCUSSION AND FUTURE DIRECTION
+
+In summary, significant work has been done in developing the teaming of human–AI to do creative
+work. As demonstrated in recent literature, the human–AI symbiosis needs collaborative efforts
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+A Study of Human–AI Symbiosis for Creative Work
+
+47:17
+
+from the research of different fields. A successful collaboration could be achieved with the accumulative efforts from researchers from the fields of robotics, artificial intelligence, neuroscience,
+interaction, and so on. Moreover, the area of research is still very limited and needs extensive
+implementation. In general, researchers should focus on achieving more efficient and effective
+collaboration between humans and AI and making their systems adaptable among a larger number of people. Again, more research is needed to understand the human’s cognitive capability and
+adaptability to an intelligence system.
+Some characteristics are required for an ideal collaborative system. For instance, user-level experience is very crucial for a system to be robust and effective. The goal of a human–AI collaborative
+system must be clear and aligned with the human user. Output analysis is also an effective way to
+measure the success of the collaboration. For example, calculating the potential advantages, disadvantages, impacts, and consequences is crucial for the system’s robustness. A level of trust and
+privacy is also a major future concern for a human–AI collaborative system. Gaining users’ trust
+and protecting their privacy would be crucial for the future success of the system.
+For collaborative writing systems, continuous contributions from both machines and humans
+are important. For instance, to write a successful and meaningful story, the user’s initial inputs are
+very important and lead the story to the subsequent stages. However, real-time storytelling systems are not easy tasks considering the quality of datasets and users’ inputs. In artistic drawing
+systems, both machines and human users work concurrently. The human users’ inputs are essential in determining what the machine will draw in the next step. To draw realistic artwork, the
+user’s artistic knowledge and cognitive capabilities play a crucial role. human–AI collaboration
+for creative drawing has great potential in helping kids to learn how to draw from scratch.
+Currently, the most common problems of generative adversarial networks are vanishing gradients, mode collapse, failure to converge, and so on. All these problems of GAN technologies are
+active research areas. Generator training can fail due to vanishing gradients if your discriminator is too good [76]. As a consequence, an ideal discriminator cannot provide the generator with
+enough information to proceed. Some major GAN issues, such as mode collapse, may be mitigated
+by a finely tuned learning rate. One solution to avoid this problem is when mode collapse occurs,
+lower the learning rate, and restart the training.
+Autonomous machines can be performed more effectively if they work in a team with humans.
+The main hurdle behind the collaboration is understanding the teammates’ communication and
+cognitive capabilities [77]. One of the major roadblocks to the development of human–AI collaborative systems is sequential decision making [78]. To construct a trustworthy and secure system,
+parallel development of human–AI collaboration and sequential decision making is critical [79].
+Existing research in human–machine collaboration is restricted in terms of its focus on long-term
+engagement and system stability. The two most important criteria in facilitating human–AI symbiosis are effective communication and coordination. To design an efficient human–AI collaborative system, trustworthiness, robustness, and adaptation must all be addressed simultaneously
+[80].
+9
+
+CONCLUSION
+
+In summary, we deduce that some significant work has been done in developing the concept of
+human–AI symbiosis. As we discussed above, the human–AI teaming concept involves the complex tasks of understanding human nature, cognitive capacities, behaviors, and so on, which requires multi-disciplinary work in artificial intelligence, robotics, neuroscience, communications,
+and so on. Every disciplinary field has its own research regulations. Combining all of these into
+one can be a challenging task for researchers. To get more effective results from the teaming concept, challenges and opportunities should be studied first. Furthermore, practical implementation
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 2, Article 47. Publication date: September 2023.
+
+

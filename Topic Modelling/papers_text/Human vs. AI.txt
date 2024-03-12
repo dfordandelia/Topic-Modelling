@@ -1,0 +1,1557 @@
+A B S T R A C T
+
+Keywords:
+Generative AI
+AI-Assisted design
+Schema theory
+Authenticity
+AI customization
+
+Generative Artificial Intelligence (AI) empowers the AI design process. Then, how do consumers respond to AIdesigned fashion products? Building on schema theory, this research investigated the extent to which AIdesigned clothing is perceived as authentic through three online experiments. Study 1 (n = 121) and Study 2
+(n = 161) showed consumers generally respond more favorably to human-designed (vs. AI-designed) clothing,
+which is driven by perceived authenticity and expected product quality. Study 3 (n = 156) confirmed that
+negative responses toward AI-designed clothing can be mitigated when consumers have the option to provide
+input to customize the design because it enhances perceived authenticity. Study findings offer a theoretical
+understanding of how and why consumers respond to AI-designed products and practical guidelines for retailers.
+
+1. Introduction
+The retail industry is experiencing unparalleled transformation
+accelerated by the development of Artificial Intelligence (AI) and
+computing efficiency. A promising area of AI applications is fashion
+design. In the AI-assisted design process, designers can develop new
+designs inspired by the future fashion trends predicted by AI-powered
+search engines (Harreis et al., 2023). Furthermore, the recent growth
+of generative AI powered by advanced machine learning and easier
+access to big data opened the door for companies for AI-driven fashion
+design. Generative AI refers to the AI techniques and models that learn a
+representation of objects in input data and generate new, original output
+that keeps the identity of the original data (Murphy, 2022). Leveraging
+the power of generative AI to create thousands of renderings, companies
+have recently started to use AI to understand customer needs and design
+better-suited apparel items with increased efficiency (Figoli et al., 2022;
+Lee, 2022). For example, Acne Studio showcased AI-assisted fashion
+designs for its ready-to-wear collection in Paris Fashion Week 2020. Levi
+Strauss & Co. used AI algorithms to create new design alternatives for
+denim jackets as well as to optimize their production and manufacturing
+processes.
+While AI in the fashion design process is becoming more prevalent,
+not many studies have been conducted focusing on the way AI in the
+design process affects consumers’ perception of the product and the
+
+subsequent evaluation. While a few studies investigated consumer re­
+sponses to AI versus human design, a consensual agreement building on
+theoretical knowledge of how people evaluate AI-designed fashion
+products has not been sufficiently made. Furthermore, because con­
+sumer responses to AI design technology are yet underresearched from
+various perspectives, plenty of room remains to investigate how and
+why generative AI in the fashion design process impacts consumers’
+product and brand evaluation.
+To fill the research gap, this study aims to advance the understanding
+of how people evaluate AI-designed fashion products. Specifically,
+under the framework of schema theory and the authenticity literature,
+three online experiments examined consumer responses to fashion
+products designed by AI by comparing those designed by a human
+designer. In addition, the mediation of perceived authenticity and ex­
+pected product quality was tested to see if they explain the effect of
+design entity (AI vs. human) on consumer responses. Lastly, the role of
+AI customization that changes consumer responses to fashion products
+designed by AI is examined.
+Investigating consumer evaluation of AI-designed fashion products is
+timely and crucial. The recent interest in generative AI (e.g., GPT-X,
+Midjourney, DALL⋅E) is incredibly surging due to technological prog­
+ress, and empirical findings on consumer responses to generative AI in
+fashion design are essential to help establish the direction of the relevant
+business strategies. From the schema theory perspective, the findings of
+
+* Corresponding author.
+E-mail addresses: garilee@iu.edu (G. Lee), hykim@umn.edu (H.-Y. Kim).
+https://doi.org/10.1016/j.jretconser.2023.103690
+Received 22 September 2023; Received in revised form 12 November 2023; Accepted 15 December 2023
+Available online 22 December 2023
+0969-6989/© 2023 Elsevier Ltd. All rights reserved.
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+the three online experiments provide important theoretical and practical
+implications by enlightening why and how consumers form particular
+responses to fashion products designed by AI, compared to humandesigned (Study 1, Study 2) and AI customization (Study 3). Conse­
+quently, the study findings offer implications for practitioners seeking
+strategies to interact with consumers about generative AI usage in their
+design process.
+
+consumers are willing to pay more for AI-designed (vs. human-designed)
+products because of curiosity. More recently, Pieconka (2023) found
+that consumers are less willing to pay for AI-designed products because
+of little personal benefits from already finalized AI-designed products.
+
+2. Literature review & hypotheses development
+
+This study draws from schema theory to conceptualize the effect of
+design entity (AI vs. human) on consumer responses. Schema theory
+explains that people categorize information in schemata, which are
+memory-stored cognitive frameworks that represent the organization of
+their background knowledge or experience for specific domains (Fiske,
+1982). Schemata facilitate people’s decision-making processes as newly
+incoming information is processed in an individual’s perception based
+on existing schema (Bem, 1981). That is, people retrieve information
+and categorize new input based on their expectations about a particular
+domain (Davvetas and Diamantopoulos, 2016; Sujan and Bettman,
+1989). People may have schemata of AI that has a low ability to possess
+artistic intention and create artwork, which may affect their responses to
+AI-created artwork (Chamberlain et al., 2018; Hong and Curran, 2019).
+Consumers’ perceptions of products and brands are significantly
+affected by schemata (Davvetas and Diamantopoulos, 2016; Lee and
+Kim, 2022; Meyers-Levy and Tybout, 1989). When consumers view
+product information from retailers or brands, they use previously
+accumulated relevant knowledge to interpret the information. The
+activated schemata settle the initial configuration of defining or evalu­
+ating the products or brands. When new product information is consis­
+tent with an individual’s preexisting schema, the information is easily
+processed and often leads to a basic sense of liking without evoking
+fluctuating responses toward the product (Halkias and Kokkinaki,
+2014). Similarly, an individual may assimilate or accommodate the in­
+formation which moderately diverges from the previous knowledge and
+modify existing schemata (Mandler, 1981), and such experiences can
+positively influence the evaluation of the stimuli (Meyers-Levy and
+Tybout, 1989). In contrast, new product or brand information that
+highly conflicts with one’s schema prevents the individual from being
+willing to accommodate and thus evokes reactance and negative eval­
+uation (Boush and Loken, 1991; Halkias and Kokkinaki, 2014; Mandler,
+1981).
+Using the schema theory as the theoretical base, the next sections
+describe consumers’ perceptions of AI as a design entity, which repre­
+sents discrepant information from people’s existing schemata. Specif­
+ically, the subsequent evaluations of the AI-designed clothing are
+
+2.2. Schema theory
+
+2.1. AI in fashion design process
+AI allows companies to collect and analyze massive amounts of sales
+and consumer data. By leveraging such capabilities, companies utilize
+various AI-powered techniques including virtual agents and personal­
+ized services to offer better customer experience (Alimamy and Kuhail,
+2023; Kim et al., 2023; Li et al., 2023; Yu et al., 2023). Furthermore,
+generative AI creates new image-based outputs contingent on input data
+or prompts, bringing about innovations in fashion design. GAN-based
+models such as a Deep Convolutional GAN (DCGAN) can synthesize
+design sketches, garment patterns, and texture information to generate
+realistic design alternatives (Guo et al., 2023; Xian et al., 2018; Yan
+et al., 2022). After input data, such as previous company designs,
+budget, materials, and design features, is entered, algorithms generate,
+evaluate, refine, and optimize design alternatives. The design outputs
+can then be evaluated and regenerated by modifying the input data or
+fine-tuning the algorithm models. Fig. 1 illustrates the AI-assisted design
+process. Fashion brands can use AI to produce new profitable designs
+with enhanced time and labor efficiency while identifying market trends
+and patterns (Figoli et al., 2022; Harreis et al., 2023; Lee, 2022).
+While the studies on people’s perceptions of AI-generated creative
+works mainly focused on text-based or non-commercial arts (see Ap­
+pendix A for review), only a few studies have investigated how con­
+sumers respond to AI-designed fashion products. Some focused on
+consumer evaluation and attitude toward the products. In a seminal
+work, Lee (2022) confirmed that human-generated fashion design is
+more favorably evaluated than AI-generated design. Similarly, Xu and
+Mehta (2022) demonstrated that consumers form more negative brand
+attitudes toward AI-designed (vs. human-designed) luxury products due
+to perceived brand essence, especially for fashion. Others focused more
+on willingness to pay, resulting in mixed findings. Sohn et al. (2020)
+confirmed that young consumers are more willing to pay for
+GAN-generated fashion design. Zhang et al. (2022) found that
+
+Fig. 1. Illustration of AI-assisted design process.
+2
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+quality judgments about the product (Rao and Monroe, 1989). Impor­
+tantly, research has found that consumers’ authenticity attribution
+positively affects the quality perception of stimuli (Cinelli and LeBoeuf,
+2020; Moulard et al., 2016). For example, Cinelli and LeBoeuf (2020)
+confirmed that the intrinsic motivation of a firm for producing products
+increases anticipated product quality via perceived authenticity. Such a
+relationship between perceived authenticity and product quality is
+attributed to the perception of quality commitment, which is one of the
+dimensions of perceived authenticity (Gilmore and Pine, 2007; Napoli
+et al., 2014). Consumers are likely to perceive higher authenticity from a
+product as they believe a quality commitment has been made to the
+product. Consequently, perceived quality of the product is enhanced,
+ultimately increasing positive consumer responses.
+Extending such reasoning based on the literature to AI-designed
+clothing, perceived authenticity and expected product quality are
+likely to explain the negative responses to AI-designed fashion. The
+product designed by genuine and passionate human designers compared
+to AI will be deemed to be of quality commitment in overall product
+design and thus more authentic. Given that the perceptions of dedication
+to design are the critical determinant for assessing designed product
+quality (Zhu et al., 2009), the clothing with a higher expected quality
+commitment will be considered to be high quality.
+
+proposed to be explained by perceived authenticity and expected
+product quality.
+2.3. Perceived authenticity and consumer responses toward AI-designed
+clothing
+This study proposes that information about design entity, either AI or
+humans, serves as the critical determinant that affects perceived product
+authenticity. Authenticity is defined as what is genuine, real, true, and
+unique (Beverland and Farrelly, 2010; Moulard et al., 2014). Consumers
+perceive specific levels of authenticity from products along various di­
+mensions, including product information, influencer characteristics,
+advertising messages, production methods, materials, origins, and con­
+nections to firm value (Audrezet et al., 2020; Campagna et al., 2023;
+Newman and Dhar, 2014). When authenticity is perceived based on
+whether a product is made with the appropriate techniques and pro­
+cesses or whether a passionate creator makes a product, they are also
+known as craft authenticity and artist authenticity (Littrell et al., 1993;
+Moulard et al., 2014), respectively. For example, a souvenir product is
+perceived to be highly authentic if it is associated with uniqueness,
+workmanship, artistry, aesthetics, and cultural and historical integrity.
+Perceived authenticity has been found to positively affect consumer
+responses, such as overall product valuation (Newman and Dhar, 2014)
+and attitudes toward the products or brands and purchase intention
+(Carsana and Jolibert, 2018; Moulard et al., 2014; Napoli et al., 2014).
+It is expected that the discrepancy between people’s preexisting
+fashion design schema and AI (vs. humans) is large that perceived
+authenticity is lowered from AI-designed fashion products than humandesigned ones. Fashion design has been conventionally considered a
+human-dominant area. People expect fashion design elements to
+encompass designers’ intentions, knowhows, personal characteristics,
+and sophisticated skills (Lamb and Kallal, 1992). This implies that
+fashion design schemata are associated with human work and charac­
+teristics. In contrast, AI as a design entity in fashion represents the in­
+formation that highly conflicts with the existing schemata, considering
+the long history of intersection between humans and fashion design
+works and the relevant schemata. Generative AI is developed to create
+original content, but it is true that many people question the reliability
+and authenticity of the output from AI (Bang et al., 2023; Harper, 2023),
+which potentially indicates low perceived authenticity. Because gener­
+ative AI is trained on data lakes and question snippets to create content
+responding to prompts, the originality of the content creation is often
+doubted (Appel et al., 2023). While no research empirically tested the
+authenticity perception of AI-generated design, Jago (2019) showed
+that algorithm-made decisions across domains are perceived to be low in
+authenticity and sincerity and thus less favored, compared to human
+decisions. Such a pattern is predicted to be amplified for fashion design
+because fashion is especially considered to be the domain where the
+importance of the human touch cannot be overlooked. Thus, consumers
+will perceive higher authenticity from human-designed clothing
+compared to AI-designed clothing, which enhance consumers’ favorable
+responses.
+
+H3. Perceived authenticity and expected product quality will serially
+explain the negative responses to AI-designed (vs. human-designed)
+clothing.
+2.5. The role of AI customization
+
+H1. Consumers will form more favorable responses (i.e., attitude and
+purchase intention) toward human-designed clothing than AI-designed
+clothing.
+
+How can consumers’ negative responses to AI-designed clothing be
+mitigated? This study proposes that real-time customization in AI design
+process will change the extent to which consumers perceive authenticity
+from AI-designed clothing, and in turn, reduce negative responses. Based
+on the existing literature and available technologies (Aggarwal et al.,
+2020; Harreis et al., 2023; Yan et al., 2022), AI customization is
+conceptualized as the process through which consumers provide input to
+personalize their products in real-time based on particular design com­
+ponents and AI generates designs to actualize customization accord­
+ingly. Mass customization in product design utilizes flexible
+computer-aided systems. The benefits of mass customization have
+been well documented. Key market performance metrics such as sales
+revenues and gross margin, as well as consumer evaluations, outperform
+when product design pipelines encompass customer involvement
+(Moreau and Herd, 2010; Nishikawa et al., 2013; Stevens et al., 2017).
+Furthermore, a positive connection between personalization and
+authenticity is speculated in that both draw favorable consumer atti­
+tudes and intentions toward AI, as implied in the literature (Alimamy
+and Kuhail, 2023; Chu et al., 2022). For example, Alimamy and Kuhail
+(2023) found that both perceived authenticity and personalization of a
+virtual assistant predict consumer commitment and trust. When it comes
+to AI design process, AI customization is likely to increase perceived
+authenticity by inducing the values of mass customization and enhanced
+benefits of real-time personalization. Therefore, it is expected that the
+negative effect of AI as a design entity on perceived authenticity will be
+alleviated by AI customization, consequently mitigating the negative
+responses to AI-designed clothing.
+
+H2. Perceived authenticity will explain the negative responses to AIdesigned (vs. human-designed) clothing.
+
+H4. AI customization will mitigate the negative effect of AI as design
+entity on consumer responses (i.e., attitude and purchase intention).
+
+2.4. Perceived authenticity and expected product quality
+
+3. Research model & overview of the studies
+
+If perceived authenticity on the basis of one’s schemata of AI explains
+why consumers would respond differently to human-designed versus AIdesigned clothing, consumer expectations of product quality will likely
+serve as the second serial mediator. Consumers rely on extrinsic signals
+such as product information, warranty, or brand reputation to make
+
+Fig. 2 presents the research model along with an overview of the
+studies and the variables tested. This study adopted a quantitative
+approach, and three online experiments were conducted to test the hy­
+potheses. As a scenario-based experiment using real brand names, Study
+1 examined the main assumptions of this research by testing whether
+3
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+Fig. 2. Research model and overview of the studies.
+
+design entity (AI vs. human) affects product attitude and purchase
+intention (H1) and whether perceived authenticity mediates such an
+effect (H2). Study 2 replicated Study 1 using stimuli of a product image
+and a fictitious brand name. Further, Study 2 examined whether
+perceived authenticity and expected product quality serially explain the
+effects of design entity (H3). Lastly, Study 3 explored the role of AI
+customization by testing whether AI design process with versus without
+customization features affects product attitude, brand attitude, and
+purchase intention (H4). The mediations of perceived authenticity (H2)
+and the authenticity–product quality chain (H3) explaining the miti­
+gating effect of AI customization were also tested in Study 3. The study
+design, data analysis, results, and discussion of each study are described
+below.
+
+4. Study 1
+4.1. Methods
+4.1.1. Study design and procedure
+A scenario-based online experiment was conducted where design
+entity (AI vs. human) and two brand replicates were entered as betweensubject factors. One hundred and forty-two U.S. participants were
+recruited from Amazon Mturk. After deleting those who failed multiple
+qualification and attention check questions, 121 participants remained
+for further analysis (Mage = 38.84, SDage = 11.59; 66.9% male; see
+Appendix B and C for details). Once participants agreed to participate in
+the study, they were randomly given one of the four shopping scenarios
+
+Table 1
+Measurement items.
+Item Content
+
+Study 1
+
+Study 2
+
+M (SD)
+Perceived Authenticity
+Ingenuine–Genuine
+Not authentic–Authentic
+Not original–Original
+Unfaithful–Faithful
+Not natural–Natural
+Expected Product Quality
+This sweater would be reliable.
+This sweater would be dependable.
+This sweater would be durable.
+The workmanship on this sweater would be good.
+Product Attitude
+Dislikable–Likable1
+Bad–Good123
+Negative–Positive123
+Unfavorable–Favorable23
+Undesirable–Desirable23
+Purchase Intention
+The likelihood of purchasing this sweater is high.1
+The probability that I would consider buying the sweater is high.1
+My willingness to buy the sweater is high.1
+I would consider buying the sweater.123
+It is likely that I will purchase this sweater.23
+It is probable that I will purchase this sweater.23
+Brand Attitude
+Bad–Good
+Dislike very much–Like very much*
+Unpleasant–Pleasant
+
+Loadings
+
+α = .91
+
+M (SD)
+
+Study 3
+Loadings
+
+α = .90
+
+5.64 (1.52)
+5.74 (1.45)
+5.62 (1.41)
+5.51 (1.40)
+5.00 (1.83)
+
+.90
+.94
+.83
+.78
+.71
+
+-
+
+5.51 (1.28)
+5.50 (1.30)
+5.30 (1.64)
+5.34 (1.25)
+5.30 (1.41)
+
+-
+
+5.69 (1.02)
+5.58 (1.08)
+5.60 (1.05)
+5.66 (1.13)
+
+.89
+.89
+.96
+-
+
+5.30 (1.46)
+5.24 (1.48)
+5.17 (1.56)
+5.10 (1.55)
+
+.93
+.91
+.94
+.88
+-
+
+5.31 (1.64)
+5.07 (1.73)
+5.09 (1.67)
+
+α = .94
+
+α = .95
+
+-
+
+4.67 (1.28)
+4.62 (1.27)
+4.64 (1.25)
+4.41 (1.35)
+
+.91
+.92
+.88
+.88
+
+4.41 (1.74)
+4.38 (1.72)
+4.26 (1.77)
+4.04 (1.72)
+
+.90
+.93
+.95
+
+3.52 (1.94)
+3.01 (1.80)
+3.08 (1.86)
+
+-
+
+Note. 1Study 1; 2Study 2; 3Study 3; *reversed and deleted in Study 2 due to low factor loading.
+All factor loadings were significant at 0.001 level.
+4
+
+5.12 (1.58)
+2.89 (1.57)
+5.06 (1.67)
+
+.94
+.94
+.91
+.91
+
+α = .97
+.95
+.93
+.95
+.92
+
+α = .97
+
+α = .92
+
+-
+
+.90
+.90
+.69
+.70
+.67
+
+α = .96
+
+α = .95
+
+5.22 (1.66)
+5.44 (1.65)
+5.37 (1.62)
+5.60 (1.48)
+-
+
+4.26 (1.59)
+4.26 (1.66)
+3.35 (1.75)
+4.44 (1.30)
+4.29 (1.47)
+
+.86
+.67
+.79
+.90
+
+α = .94
+
+5.95 (1.25)
+5.92 (1.31)
+5.93 (1.33)
+-
+
+Loadings
+
+α = .88
+.78
+.81
+.83
+.76
+.80
+
+α = .85
+
+-
+
+M (SD)
+
+.91
+.98
+.99
+
+α = .97
+.92
+.38*
+.92
+
+4.34 (1.49)
+4.45 (1.46)
+4.27 (1.49)
+
+.96
+.94
+.97
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+and completed the questionnaire. The questionnaire including the
+shopping scenarios in an online repository and a diagrammatic repre­
+sentation of study procedure are available in Appendix D.
+Shopping scenarios manipulated the design entity (AI vs. human). In
+addition, two different brand types were used in the scenarios as brand
+replicates to see if the effect of design entity holds across the brands.
+Based on the previous literature on brand type (Mitchell and Balabanis,
+2021), Louis Vuitton and H&M were used to represent different brand
+types. Design entity and brand replicates were manipulated using a
+brand sweater scenario. A sweater was used in the scenario to rule out
+potential confounding effects, as past literature indicates that the
+conceptualization of a sweater is well-defined, consistent among various
+people, and stable over time (DeLong et al., 1986).
+
+replicates.
+MANCOVA was performed with design entity and brand replicates as
+independent variables and perceived authenticity, product attitude, and
+purchase intention as dependent variables. Both brand familiarity and
+brand attitude showed significant correlations with the dependent var­
+iables, showing suitability as potential covariates. Next, while brand
+familiarity did not significantly affect dependent variables (p = .076),
+brand attitude showed a significant effect (p < .001) and thus was
+entered as a covariate. The statistical assumptions were checked, and the
+results showed the appropriateness of the methods used (see Appendix
+F). The main effect of design entity on the dependent variables was
+significant (Pillai’s Λ = 0.16, Wilks’ λ = 0.84, p < .001, partial η2 =
+0.16) whereas brand replicates did not show a significant effect (p =
+.151). The design entity × brand replicate interaction effect was not
+significant (p = .415). The results remained the same sans the covariate
+in that nonsignificant and significant effects hold with and without the
+covariate, which supports the robustness of the findings (see Appendix G
+for the results without covariates). The subsequent ANCOVA showed
+participants perceived higher authenticity from human-designed (vs. AIdesigned) sweater (MAI = 5.06 vs. Mhuman = 5.97; F = 18.81, p < .001,
+η2 = 0.14). Participants in the human condition showed more favorable
+attitudes (MAI = 5.72 vs. Mhuman = 6.17; F = 5.18, p = .025, η2 = 0.04)
+and marginally higher purchase intention (MAI = 5.17 vs. Mhuman =
+5.67; F = 3.67, p = .058, η2 = 0.03). Thus, H1 was supported.
+
+4.1.2. Measurements
+The multi-item scales were drawn from the existing literature and
+modified to fit the context. The measurement items for the main vari­
+ables, item wise descriptive, and Cronbach’s alpha scores are presented
+in Table 1. Participants’ responses to multi-item scales for a construct
+were averaged to calculate an index score. Perceived authenticity was
+measured using five items derived from Beverland and Farrelly’s (2010)
+study. Product attitude was measured using three items from Chae and
+Hoegg’s (2013) study and purchase intention was measured with four
+items developed by Dodds et al. (1991). Brand luxuriousness (main­
+stream–luxury; Moreau et al., 2020) and reputation (bad reputation–good
+reputation; Chaudhuri, 2002) were measured on 7-point semantic scale
+items from the literature to ensure whether the two brands represent
+different types. Harman’s one-factor test was used to test common
+method bias. The total variance extracted by one factor using the 32
+items was 38.68%. As the threshold indicating common method bias is
+50% (Podsakoff and Organ, 1986), common method bias was not a
+major concern.
+
+4.2.3. Mediation
+PROCESS macro version 4.2 in SPSS was used for mediation analysis.
+The evidence of a significant indirect effect is provided if the 95%
+bootstrap confidence intervals do not contain zero. Model 4 (5000
+bootstrapped samples) was performed to test the mediation of perceived
+authenticity between design entity and the dependent variables while
+controlling brand attitude. As hypothesized, the indirect effects of
+design entity on product attitude (b = 0.57, 95% bootstrap CI = [0.2483,
+0.9334]) and purchase intention (b = 0.81, CI = [0.4382, 1.2041])
+through perceived authenticity were significant. The direct effect of
+design entity on product attitude (p = .448) and purchase intention (p =
+.139) became insignificant when perceived authenticity was entered as a
+mediator, suggesting the full mediation of perceived authenticity on the
+effect of design entity and the two dependent variables. Thus, H2 was
+supported.
+
+4.1.3. Covariates
+Potential covariates were selected a priori based on the literature
+review and the study design. Given that real brands were used in Study
+1, brand attitude (negative–positive) and familiarity (unfamiliar–familiar)
+were measured on 7-point semantic scale items as potential covariates.
+This was because the literature suggested neutralizing the confounding
+effects of existing brands by controlling for familiarity or previous
+experience with and general attitude toward existing brands (Geuens
+and De Pelsmacker, 2017; Ha et al., 2019).
+
+4.3. Discussion
+Study 1 confirmed that consumers more favorably respond to and are
+slightly more willing to purchase clothing designed by humans than by
+AI (H1). Such an effect was significant across the brand replicates in
+Study 1. Also, Study 1 provided initial evidence for the mediating effect
+of perceived authenticity (H2). Compared to human-designed clothing,
+AI-designed clothing was perceived to be less authentic, which led to
+lowered product attitude and purchase intention. As a scenario-based
+study using real brands was conducted in Study 1, Study 2 utilizes
+product image stimuli and a fictitious brand.
+
+4.2. Results
+4.2.1. Measurement testing
+The validity and reliability of the measurement were tested by
+confirmatory factor analysis (CFA) with maximum-likelihood estimation
+using SPSS AMOS. The measurement model fit was adequate (χ2 =
+78.86, df = 49; χ2/df = 1.61; CFI = 0.98; NNFI = 0.97; RMSEA = 0.07;
+SRMR = 0.03). Construct validity was confirmed as all standardized
+factor loadings were high and significant at a p-value of .001 (see
+Table 1). Discriminant validity was achieved as all average variance
+extracted (AVE) of the constructs were larger than the squared corre­
+lations. Cronbach’s alpha (α>0.91) and composite reliability (CR>0.92)
+were larger than the general threshold of 0.70, supporting reliability.
+The results of measurement model testing are in Appendix E.
+
+5. Study 2
+5.1. Methods
+5.1.1. Study design and procedure
+A single-factor (design entity: AI vs. human) between-subject online
+experiment was conducted. One hundred and eighty U.S. participants
+were recruited from Amazon Mturk. After deleting those who failed the
+multiple attention check questions, 161 participants remained for
+further analysis (Mage = 36.88, SDage = 10.69; 67.7% male; see Ap­
+pendix B and C). Similar to Study 1, shopping scenarios manipulated the
+design entity. Participants were randomly given one of the two shopping
+scenarios, viewed a product image, and completed the questionnaire.
+
+4.2.2. Effect of design entity
+SPSS version 29.0 was used for statistical analysis throughout the
+research. A p-value at the level of 0.05 was considered to be significant.
+Participants perceived Louis Vuitton as more luxurious (M = 6.52 vs.
+4.34; t = 7.07, p < .001) and more reputational (M = 6.23 vs. 5.61; t =
+2.95, p = .004) than H&M. No differences were found in brand attitude
+(p = .126) and brand familiarity (p = .575) between the two brands.
+Thus, the two real brands were appropriate to be used for brand
+5
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+The scenario asked them to imagine that they found a sweater designed
+by either Artificial Intelligence (AI) or fashion designers online. Again, a
+sweater was used in the study based on the suggestions of the past
+literature and the results of pretest (DeLong et al., 1986; see 4.1.1
+above). The questionnaire and a diagrammatic representation of study
+procedure are available in Appendix D.
+
+5.2. Results
+5.2.1. Measurement testing
+The measurement model fit was adequate (χ2 = 212.61, df = 125; χ2/
+df = 1.701; CFI = 0.97; NNFI = 0.96; RMSEA = 0.07; SRMR = 0.05; see
+Appendix E). Construct validity was confirmed as the factor loadings
+were high and significant at a p-value of .001 (see Table 1). Discriminant
+validity was achieved as all AVE values of the constructs were larger
+than the squared correlations. Cronbach’s alpha (α>0.85) and com­
+posite reliability (CR>0.88) supported measurement reliability.
+
+5.1.2. Stimuli
+An identical product image was given to participants across the study
+conditions to ensure testing of the causal effect of design entity. A pretest
+(n = 72; Mage = 33.75, SDage = 10.38; 65.3% male; see Appendix C) was
+conducted on Amazon Mturk to select appropriate product image stimuli
+and fictitious brand name. The pretest questionnaire is available in
+Appendix D. The pretest consisted of two parts. Participants were told
+they would see multiple brand names and products and give their
+opinions about them. First, participants were given a list of six fictitious
+brand names which were created using an online fake brand name
+generator. For each brand name, brand attitude and brand familiarity
+were measured using single-item scales: “To what extent do you feel
+positive or negative about these fashion brand names?” (1 = Extremely
+negative–7 = Extremely positive) and “To what extent are you familiar
+with the following fashion brand names?” (1 = Extremely unfamiliar–7 =
+Extremely familiar). Next, participants viewed four clothing images in
+random order: pique shirt, sweater, shirt, and jacket. For each product
+image, product attitude was measured using three-item semantic dif­
+ferential scales: negative–positive, dislikable–likable, and bad–good
+(0.85<α<0.90).
+A fictitious brand name ‘Camource’ were chosen because partici­
+pants showed relatively neutral attitudes toward the brand name (M =
+4.56, SD = 1.45) and low brand familiarity (M = 4.26, SD = 1.88),
+compared to other brand names. Next, a sweater image was selected as
+final because participants showed neutral attitudes toward the sweater
+compared to other products (M = 4.92, SD = 1.47).
+
+5.2.2. Effect of design entity
+MANCOVA was performed with brand familiarity, perceived threats
+from AI, and product involvement as covariates. All three covariates
+showed significant correlations with at least one dependent variable and
+showed a significant effect (brand familiarity, product involvement: p <
+.001; perceived threats: p = .040). The statistical assumptions of the
+methods used were met (see Appendix F). The main effect of design
+entity was significant (Pillai’s Λ = 0.09, Wilks’ λ = 0.90, p = .012, η2 =
+0.09). The results were generally sustained sans covariates, showing
+minimal changes in statistics values1 (see Appendix G). Participants
+perceived higher authenticity from the human-designed (vs. AIdesigned) sweater (MAI = 5.19 vs. Mhuman = 5.60; F = 8.80, p = .003,
+η2 = 0.06), consistent with Study 1 results. Compared to the AI-designed
+sweater, the human-designed sweater was perceived to be of marginally
+significantly higher quality (MAI = 5.52 vs. Mhuman = 5.75; F = 3.49, p =
+.064, η2 = 0.02). Participants in the human-designed condition formed
+more favorable attitudes toward the sweater (MAI = 5.02 vs. Mhuman =
+5.39; F = 4.94, p = .028, η2 = 0.03) and the brand (MAI = 4.93 vs.
+Mhuman = 5.27; F = 4.20, p = .042, η2 = 0.03). No significant difference
+was found in purchase intention between the human-designed and the
+AI-designed conditions (p = .837). Thus, H1 was partially supported for
+product attitude and brand attitude, but not for purchase intention.
+
+5.1.3. Measurements
+The multi-item scales were drawn from the literature and modified
+(see Table 1). Perceived authenticity was measured using the same items
+used in Study 1. Expected product quality was measured using Sweeney
+et al.’s (1999) items which represent participants’ evaluation of quality
+value of the product. Product attitude (Rajagopal and Montgomery,
+2012) and purchase intention (Singh and Cole, 1993) were measured
+using other sets of well-established scales. Because Study 2 used ficti­
+tious brands, brand attitude was measured using the two items (Mitch­
+ell, 1986) and used as a dependent variable. Harman’s one-factor test
+confirmed the absence of common method bias (total variance extrac­
+ted: 39.76%).
+
+5.2.3. Mediation
+PROCESS Model 4 was performed with brand familiarity, perceived
+threats from AI, and product involvement as covariates. The approach of
+performing model 4 first was to test the mediation of perceived
+authenticity and examine H2 thoroughly in a different study context.
+Consistent with Study 1, the indirect effects of design entity through
+perceived authenticity were significant on product attitude (b = 0.28, CI
+= [0.0853, 0.5131]), purchase intention (b = 0.31, CI = [0.0984,
+0.5508]), and brand attitude (b = 0.19, CI = [0.0481, 0.3909]). Thus,
+H2 was again supported.
+Next, Model 6 tested the serial mediation of perceived authenticity
+and expected quality simultaneously to answer H3. Fig. 3 and Table 2
+shows the results of the serial mediation analysis on the effect of design
+entity. The indirect effects of design entity serially through perceived
+authenticity and expected product quality were significant on product
+attitude (b = 0.09, CI = [0.0242, 0.1898]), purchase intention (b = 0.13,
+CI = [0.0326, 0.2758]), and brand attitude (b = 0.10, CI = [0.0283,
+0.2080]). The sole mediation of perceived authenticity remained sig­
+nificant for product attitude and purchase intention, indicating that both
+perceived authenticity and the authenticity–product quality chain
+mediate the effect of design entity on the two. Thus, H3 was supported.
+
+5.1.4. Covariates
+Brand attitude was not considered a covariate in Study 2 because
+Study 2 used a fictitious brand name, and the pre-existing attitude was
+not a major concern (Schneider and Cornwell, 2005). Rather, brand
+attitude was entered as a dependent variable to examine if design entity
+affects brand attitude. Brand familiarity (Batra et al., 2000; α = 0.98)
+was still measured as a potential covariate to control potential influence
+of the feeling of knowing the brand. Next, perceived threats from AI
+(White et al., 2012; α = 0.96) were measured because the literature
+suggested the feeling of being threatened by novel technology can make
+people negatively respond to outcomes produced by the technology
+(Khasawneh, 2018). Lastly, product involvement (Zaichkowsky, 1985;
+α = 0.96) was measured as a potential covariate. This was because a
+sweater image was used as a stimulus, and one’s interest levels in
+sweaters might provoke confounding effects on the evaluation of the
+products (Richins and Bloch, 1986).
+
+5.3. Discussion
+Study 2 aimed to replicate Study 1 using a fictitious brand and a
+product image. Study 2 showed consistent results with Study 1 such that
+1
+The differences in perceived quality between AI-designed versus humandesigned sweaters were marginally significant when including covariates (p
+= .064) but significant excluding covariates (p = .044). The authors interpret
+the results controlling for covariates to rule out the effects of covariates.
+
+6
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+Fig. 3. Study 2 serial mediation analysis
+Note. Dashed line shows non-significant path. *<0.05, **<0.01, ***<0.001.
+
+6. Study 3
+
+Table 2
+Study 2 indirect effects.
+Paths
+Product Attitude
+Direct effect
+Design entity→authenticity→product attitude
+Design entity→product quality→product
+attitude
+Design entity→authenticity→product
+quality→product attitude
+Purchase Intention
+Direct effect
+Design entity→authenticity→purchase
+intention
+Design entity→product quality→purchase
+intention
+Design entity→authenticity→product
+quality→purchase intention
+Brand Attitude
+Direct effect
+Design entity→authenticity→brand attitude
+Design entity→product quality→brand
+attitude
+Design entity→authenticity→product
+quality→brand attitude
+
+b
+
+95% bootstrap CI
+
+0.08 (p =
+.540)
+0.19*
+0.00
+
+-0.1862
+
+0.3541
+
+0.0549
+-0.0817
+
+0.3749
+0.0808
+
+0.09*
+
+0.0242
+
+0.1898
+
+-0.28 (p =
+.072)
+0.18*
+
+-0.5878
+
+0.0253
+
+0.0379
+
+0.3776
+
+0.01
+
+-0.1076
+
+0.1252
+
+0.13*
+
+0.0326
+
+0.2758
+
+0.15 (p =
+.324)
+0.08
+0.01
+
+-0.1483
+
+0.4454
+
+-0.0040
+-0.0868
+
+0.2058
+0.0975
+
+0.10*
+
+0.0283
+
+0.2080
+
+6.1. Methods
+6.1.1. Study design and procedure
+A single-factor (AI design process: AI vs. AI customization) betweensubject online experiment was conducted to test the effect of providing
+real-time customization options in the AI design process. One hundred
+and sixty U.S. participants fluent in English were recruited from Prolific,
+and 156 participants remained for data analysis (Mage = 37.50, SDage =
+13.26; 38.5% male; see Appendix B and C). The AI design process was
+manipulated through shopping scenarios and customization tasks. Par­
+ticipants were randomly assigned to one of the two conditions. Those in
+the AI condition read a scenario and viewed a product image. The sce­
+nario told them AI designed a sweater. Participants in the AI custom­
+ization condition read a scenario telling them AI would design a sweater
+based on their input. They were given options to select the sweater’s
+color and pattern, and a product image based on their input was then
+provided to them. This approach was adopted to ensure internal validity
+by minimizing the potential differences between diverse stimuli caused
+by user-typed prompts. The questionnaire and a diagrammatic repre­
+sentation of study procedure are available in Appendix D.
+6.1.2. Stimuli
+The sweater image used in Study 2 was used in Study 3. Sixteen
+variations of the sweater image were developed to reflect the design
+options in the AI customization condition: four colors (light gray, gray,
+light blue, and blue) and four patterns (no pattern; plain, argyle, stipe,
+and dot). To avoid potential confounding effects of sweater design be­
+tween study conditions and increase internal validity, the same set of
+sweater images available in the AI customization condition was used in
+the AI condition to show a randomly selected image.
+
+Note. Asterisk (*) indicates significant effect.
+
+participants formed more favorable attitudes toward human-designed
+(vs. AI-designed) clothing because of perceived authenticity (H1, H2).
+The effect was also significant on brand attitude, but not on purchase
+intention or expected product quality. In contrast to the scenario-based
+experiment in Study 1, the insignificant differences in purchase inten­
+tion between the study conditions may be due to the product image
+stimuli used in Study 2. Additionally, Study 2 confirmed the serial
+mediation of perceived authenticity and expected product quality be­
+tween design entity (AI vs. human) and the three consumer responses
+(H3). Although the perceived authenticity–product quality chain
+explained the effect of design entity, the mediation of perceived
+authenticity still remained significant. Next, Study 3 examines the role
+of AI customization in alleviating consumers’ negative responses to AIdesigned clothing by testing the effect of AI design process.
+
+6.1.3. Measurements
+The scales used in Study 2 were used to measure perceived authen­
+ticity, expected product quality, product attitude, purchase intention,
+and brand attitude (see Table 1). Additionally, perceived automation
+and customization in design were measured to check similar perceived
+automation and different perceived customization between the study
+conditions. Participants indicated perceived automation in design by
+specifying the extent to which the design process seemed more like (1 =
+mostly by computer—10 = mostly by humans). Perceived customization
+was measured by employing the items from Srinivasan et al.’s (2002)
+study on a 7-point Likert scale (α = 0.93): “This sweater design was
+customized to my needs,” “I believe that this sweater design was
+customized to my characteristics,” and “This sweater was designed
+based on my input.” Harman’s one-factor test confirmed the absence of
+7
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+common method bias (total variance extracted: 34.70%).
+
+indicating that the effects of AI design process are partially mediated by
+perceived authenticity and the authenticity–product quality chain.
+Thus, H3 is supported in the context of AI design process.
+
+6.1.4. Covariates
+Similar to Study 2, brand familiarity (α = 0.98), perceived threats
+from AI (α = 0.92), and product involvement (α = 0.95) were measured
+as the potential covariates using the same measurements.
+
+6.3. Discussion
+Study 3 confirmed the role of AI customization in mitigating the
+negative effect of AI as design entity by comparing AI versus AI cus­
+tomization (H4). Participants’ negative attitudes and purchase in­
+tentions toward AI-designed clothing were mitigated when they
+provided their input to customize the product design. While expected
+product quality did not differ, Study 3 confirmed the mediation of
+perceived authenticity (H2) and the serial mediation of perceived
+authenticity and expected product quality (H3) when comparing AI
+versus AI customization. In line with Study 2, the mediation of perceived
+authenticity remained significant when the perceived authenticity–­
+product quality chain was entered. Unexpectedly, the direct effect of AI
+design process on the responses was found to be significant, suggesting
+that a third factor may explain such a relationship. The following sec­
+tions present a general discussion of the study findings along with
+theoretical and practical implications.
+
+6.2. Results
+6.2.1. Measurement testing
+The measurement model fit was adequate (χ2 = 264.01, df = 141; χ2/
+df = 1.872; CFI = 0.97; NNFI = 0.96; RMSEA = 0.07; SRMR = 0.05; see
+Appendix E). Construct validity was confirmed as the factor loadings
+were high and significant at a p-value of .001 (see Table 1). Discriminant
+validity was achieved as all AVE values of the constructs were larger
+than the squared correlations. Cronbach’s alpha (α>0.88) and com­
+posite reliability (CR>0.88) supported measurement reliability.
+6.2.2. Effect of AI design process
+There were no differences in perceived automation between the two
+study conditions (p = .487). Compared to those in the AI condition,
+participants in the AI customization condition believed more that the
+sweater was designed with customization (M = 2.62 vs. 5.13; t = -11.31,
+p < .001). Thus, the manipulation of AI design process was successful.
+MANCOVA was performed with brand familiarity, perceived threats
+from AI, and product involvement as covariates. The three covariates
+showed significant correlations with at least one dependent variable and
+showed a significant effect (perceived threats, product involvement: p <
+.001; brand familiarity: p = .003). The statistical assumptions were met
+(see Appendix F). The main effect of the AI design process was signifi­
+cant (Pillai’s Λ = 0.18, Wilks’ λ = 0.82, p < .001, η2 = 0.18). The results
+were generally sustained sans covariates, showing minimal changes in
+statistics values2 (see Appendix G). Participants in the AI customization
+(vs. AI) condition perceived higher authenticity (MAI = 3.91 vs. MAI­
+2
+custom = 4.32; F = 4.81, p = .030, η = 0.03). Also, participants in the AI
+customization (vs. AI) condition formed higher product attitude (MAI =
+3.84 vs. MAIcustom = 4.70; F = 12.65, p < .001, η2 = 0.08), purchase
+intention (MAI = 2.52 vs. MAIcustom = 3.87; F = 29.79, p < .001, η2 =
+0.17), and brand attitude (MAI = 4.05 vs. MAIcustom = 4.65; F = 9.18, p =
+.003, η2 = 0.06). Expected product quality between the two conditions
+did not differ (p = .353). Thus, H4 was supported for all variables except
+for expected quality.
+
+7. General discussion
+The huge progress in generative AI, an algorithm-based computer
+system that enables new content creation, is clearly bringing revolutions
+to retail and consumer environment. Companies adopt AI-assisted
+product design processes to optimize overall operations and improve
+efficiency while better meeting market demand. To provide a theorybased understanding of AI-designed clothing from the consumer psy­
+chology perspective, this study investigated how consumers respond to
+AI-designed fashion products, focusing on clothing.
+The findings indicate that consumers generally form negative re­
+sponses to AI-designed (vs. human-designed) clothing. This pattern is
+attributed to low perceived authenticity from AI, which is based on the
+large discrepancy between consumers’ preexisting fashion design
+schema and AI. Further, the authenticity–product quality chain also
+explains consumer responses to fashion products designed by AI versus
+humans. AI versus humans as design entity does not always lead to
+significantly different expected product quality. Still, they serially
+explain the effect on consumer responses because perceived authenticity
+positively affects expected product quality. Finally, the findings confirm
+the role of AI customization. Although consumers form negative bias
+regarding the authenticity of AI-designed clothing, such bias against AIassisted design processes can be attenuated through the option to
+customize their own product design. Consequently, consumers’ attitudes
+and purchase intentions toward clothing designed through AI custom­
+ization become more positive compared to non-AI-customization.
+Perceived authenticity increased through AI customization in turn im­
+proves expected product quality, making them serially explain the effect
+of AI customization.
+
+6.2.3. Mediation
+PROCESS Model 4 was performed with brand familiarity, perceived
+threats from AI, and product involvement as covariates. The indirect
+effects of the AI design process through perceived authenticity were
+significant on product attitude (b = 0.32, CI = [0.0362, 0.6244]), pur­
+chase intention (b = 0.28, CI = [0.0334, 0.5444]), and brand attitude (b
+= 0.28, CI = [0.0261, 0.5465]). Thus, the mediation of perceived
+authenticity was confirmed in the context of AI design process.
+Model 6 was performed to test the serial mediation. Fig. 4 and
+Table 3 shows the results of the serial mediation analysis. The indirect
+effects of AI design process through perceived authenticity and expected
+quality were significant on product attitude (b = 0.06, CI = [0.0015,
+0.1445]), purchase intention (b = 0.06, CI = [0.0032, 0.1488]), and
+brand attitude (b = 0.07, CI = [0.0067, 0.1639]). The sole mediation of
+perceived authenticity still remained large and significant for all three
+dependent variables. In addition, the direct effects of AI design process
+on the responses were significant after specifying the serial mediations,
+
+7.1. Implications
+This study contributes to the literature by providing theoretical im­
+plications on consumer responses to fashion products designed through
+the AI-assisted process. First, this study helps advance the knowledge of
+AI-assisted design processes in the consumer environment by demon­
+strating consumers’ negative biases against to AI-designed (humandesigned) clothing. These findings align with the studies that humangenerated (vs. AI-generated) fashion design is more favorably evalu­
+ated (Lee, 2022; Xu and Mehta, 2022). Furthermore, extending the
+findings to marketing outcomes, the current study found that the
+negative responses to AI-designed clothing may or may not impact sales
+revenue by lowering purchase intention. These findings have the po­
+tential to describe the discrepancy in the literature that consumers form
+
+2
+The differences in perceived authenticity of the sweater designed by AI
+versus AI customization were significant when including covariates (p = .030)
+but marginal excluding covariates (p = .073). The authors interpret the results
+controlling for covariates to rule out the effects of covariates.
+
+8
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+Fig. 4. Study 3 serial mediation analysis
+Note. Dashed line shows non-significant path. *<0.05, **<0.01, ***<0.001.
+
+authenticity and expected product quality also explain the benefits of AI
+customization.
+Third, this study contributes to the question of how negative bias
+against AI-designed clothing can be attenuated. The findings empirically
+reveal that AI customization, the process where AI generates designs
+based on consumers’ real-time personalization of their product design, is
+effective in raising perceived authenticity and thus drawing more pos­
+itive consumer attitudes and intentions. These findings extend the pre­
+vious research on the benefits of mass customization or customer
+involvement (Moreau and Herd, 2010; Nishikawa et al., 2013; Stevens
+et al., 2017) to AI design process. Notably, the relationship between
+personalization and perceived authenticity is proven in the context of AI
+customization.
+The findings have important implications for practitioners who
+adopt generative AI in the product design process. First, practitioners
+can have insights into how and why consumers would negatively eval­
+uate AI-designed clothing compared to human-designed clothing.
+Considering that fashion design schema is established based on previ­
+ously accumulated information revolving around fashion design, it may
+be beneficial to first target the young generations who are deemed
+digital natives and more familiar with advanced technology when pro­
+moting AI-assisted design. Rather than pursuing a short-term increase in
+sales through AI-assisted design processes, the long-term business goal
+of helping consumers become more familiar with AI as a design entity
+will be needed. More importantly, as perceived authenticity and ex­
+pected product quality explain the negative evaluations, practitioners
+can focus on enhancing and emphasizing the uniqueness of fashion
+design generated through AI-assisted design processes.
+Second, this study offers practitioners valuable insights regarding the
+benefits of AI customization for making consumers more favorably
+respond to fashion products designed with AI-assisted processes. AI
+customization is suggested as a customer-centric way to better align
+with the consumers’ ever-growing and changing needs while sustaining
+the fashion design innovation driven by generative AI. Practitioners can
+maintain computer-aided customization systems that are available to
+individual consumers to compensate for the decreased perceived
+authenticity and mitigate negative responses to AI-designed clothing.
+For example, brands can produce designated product lines exploiting a
+range of design options that consumers can use for their AI custom­
+ization and increase the perceived authenticity of the AI-customized
+product. Nevertheless, further efforts will be inevitable to overcome
+the challenges in adapting the AI customization as the production dif­
+ficulty increases with customization (Aggarwal et al., 2020).
+Some implications for policymakers regarding AI design can be
+considered based on the findings and the topic of this research, although
+the study findings provide meaningful implications mainly for re­
+searchers and practitioners. First, a guideline that companies utilizing AI
+
+Table 3
+Study 3 indirect effects.
+Paths
+Product Attitude
+Direct effect
+AI design process→authenticity→product
+attitude
+AI design process→product quality→product
+attitude
+AI design process→authenticity→product
+quality→product attitude
+Purchase Intention
+Direct effect
+AI design process→authenticity→purchase
+intention
+AI design process→product quality→purchase
+intention
+AI design process→authenticity→product
+quality→purchase intention
+Brand Attitude
+Direct effect
+AI design process→authenticity→brand
+attitude
+AI design process→product quality→brand
+attitude
+AI design process→authenticity→product
+quality→brand attitude
+
+b
+
+95% bootstrap CI
+
+0.54* (p
+= .005)
+0.27*
+
+0.1668
+
+0.9128
+
+0.0236
+
+0.5272
+
+-0.01
+
+-0.1005
+
+0.0876
+
+0.06*
+
+0.0015
+
+0.1445
+
+1.09* (p
+< .001)
+0.22*
+
+0.6650
+
+1.5054
+
+0.0278
+
+0.4582
+
+-0.01
+
+-0.1076
+
+0.0939
+
+0.06*
+
+0.0032
+
+0.1488
+
+0.34* (p
+= .023)
+0.21*
+
+0.0469
+
+0.4454
+
+0.0267
+
+0.3992
+
+-0.01
+
+-0.1196
+
+0.1055
+
+0.07*
+
+0.0067
+
+0.1639
+
+Note. Asterisk (*) indicates significant effect.
+
+negative responses but may be willing to pay more due to its novelty for
+AI-designed products. While it is beyond the current study’s scope, it
+will be interesting if future research explores which design aspects of AI
+versus human-designed clothing differentially affects purchase intention
+and willingness to pay more.
+Second, this study unveils the mechanisms under the negative re­
+sponses to AI-designed clothing building on the schema theory. Because
+consumers’ schemata about fashion design are mainly associated with
+human work and traits, clothing designed by AI that uses existing data is
+perceived as less genuine or authentic. Consequently, perceived
+authenticity formed by the information about design entity shapes ex­
+pected product quality and thus explains negative attitudes and pur­
+chase intentions. Extending the previous findings on schema,
+authenticity, and product quality perception to AI-assisted design pro­
+cesses (e.g., Bem, 1981; Cinelli and LeBoeuf, 2020; Halkias and Kokki­
+naki, 2014; Meyers-Levy and Tybout, 1989; Rao and Monroe, 1989), the
+current study shows that fashion design schemata explain how and why
+consumers evaluate AI-designed clothing. Furthermore, perceived
+9
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+
+G. Lee and H.-Y. Kim
+
+design clearly disclose the use of AI is deemed to be important. Since
+consumers do not see AI-designed clothing as sincere and authentic as
+human-designed clothing, not sharing information about AI usage in the
+product design process can lead to a potential discussion about con­
+sumer deception. Second, as AI customization options become more
+accessible to consumers, a policy to monitor consumers’ unethical AI
+usage for product design can be discussed. Nevertheless, future research
+is needed to dig into the policy implications as the objective of the
+current study is not to provide a full, detailed picture for policy
+implications.
+
+CRC Press, pp. 129–141. https://doi-org.ezp2.lib.umn.edu/10.1201/97810030
+32410.
+Alimamy, S., Kuhail, M.A., 2023. I will be with you Alexa! The impact of intelligent
+virtual assistant’s authenticity and personalization on user reusage intentions.
+Comput. Hum. Behav. 143, 107711 https://doi.org/10.1016/j.chb.2023.107711.
+Appel, G., Neelbauer, J., Schweidel, D.A., 2023. Generative AI has an intellectual
+property problem. Harvard Business Review. https://hbr.org/2023/04/generativeai-has-an-intellectual-property-problem.
+Audrezet, A., De Kerviler, G., Moulard, J.G., 2020. Authenticity under threat: when social
+media influencers need to go beyond self-presentation. J. Bus. Res. 117, 557–569.
+https://doi.org/10.1016/j.jbusres.2018.07.008.
+Bang, Y., Cahyawijaya, S., Lee, N., Dai, W., Su, D., Wilie, B., et al., 2023. A multitask,
+multilingual, multimodal evaluation of ChatGPT on reasoning, hallucination, and
+interactivity. arXiv preprint arXiv:2302.04023. https://doi.org/10.48550/
+arXiv.2302.04023.
+Batra, R., Ramaswamy, V., Alden, D.L., Steenkamp, J.B.E., Ramachander, S., 2000.
+Effects of brand local and nonlocal origin on consumer attitudes in developing
+countries. J. Consum. Psychol. 9 (2), 83–95. https://doi.org/10.1207/
+S15327663JCP0902_3.
+Bem, S.L., 1981. Gender schema theory: a cognitive account of sex typing. Psychol. Rev.
+88 (4), 354–364. https://doi.org/10.1037/0033-295X.88.4.354.
+Beverland, M.B., Farrelly, F.J., 2010. The quest for authenticity in consumption:
+consumers’ purposive choice of authentic cues to shape experienced outcomes.
+J. Consum. Res. 36 (5), 838–856. https://doi.org/10.1086/615047.
+Boush, D.M., Loken, B., 1991. A process-tracing study of brand extension evaluation.
+J. Market. Res. 28 (1), 16–28. https://doi.org/10.2307/3172723.
+Campagna, C.L., Donthu, N., Yoo, B., 2023. Brand authenticity: literature review,
+comprehensive definition, and an amalgamated scale. J. Market. Theor. Pract. 31
+(2), 129–145. https://doi.org/10.1080/10696679.2021.2018937.
+Carsana, L., Jolibert, A., 2018. Influence of iconic, indexical cues, and brand schematicity
+on perceived authenticity dimensions of private-label brands. J. Retailing Consum.
+Serv. 40, 213–220. https://doi.org/10.1016/j.jretconser.2017.10.006.
+Chae, B., Hoegg, J., 2013. The future looks “right”: effects of the horizontal location of
+advertising images on product attitude. J. Consum. Res. 40 (2), 223–238. https://
+doi.org/10.1086/669476.
+Chamberlain, R., Mullin, C., Scheerlinck, B., Wagemans, J., 2018. Putting the art in
+artificial: aesthetic responses to computer-generated art. Psychology of Aesthetics,
+Creativity, and the Arts 12 (2), 177–192. https://doi.org/10.1037/aca0000136.
+Chaudhuri, A., 2002. How brand reputation affects the advertising-brand equity link.
+J. Advert. Res. 42 (3), 33–43. https://doi.org/10.2501/JAR-42-3-33-43.
+Chu, S.C., Deng, T., Mundel, J., 2022. The impact of personalization on viral behavior
+intentions on TikTok: the role of perceived creativity, authenticity, and need for
+uniqueness. J. Market. Commun. 1–20. https://doi.org/10.1080/
+13527266.2022.2098364.
+Cinelli, M.D., LeBoeuf, R.A., 2020. Keeping it real: how perceived brand authenticity
+affects product perceptions. J. Consum. Psychol. 30 (1), 40–59. https://doi.org/
+10.1002/jcpy.1123.
+Davvetas, V., Diamantopoulos, A., 2016. How product category shapes preferences
+toward global and local brands: a schema theory perspective. J. Int. Market. 24 (4),
+61–81. https://doi.org/10.1509/jim.15.0110.
+DeLong, M.R., Minshall, B., Larntz, K., 1986. Use of schema for evaluating consumer
+response to an apparel product. Cloth. Text. Res. J. 5 (1), 17–26. https://doi.org/
+10.1177/0887302X8600500103.
+Dodds, W.B., Monroe, K.B., Grewal, D., 1991. Effects of price, brand, and store
+information on buyers’ product evaluations. J. Market. Res. 28 (3), 307–319.
+https://doi.org/10.2307/3172866.
+Figoli, F.A., Rampino, L., Mattioli, F., 2022. AI in design idea development: a workshop
+on creativity and human-AI collaboration. In: Proceedings of the DRS2022
+Conference. https://doi.org/10.21606/drs.2022.414.
+Fiske, S.T., 1982. Schema-triggered affect: applications to social perception. In: Affect
+and Cognition: 17th Annual Carnegie Mellon Symposium on Cognition. Lawrence
+Erlbaum, Hillsdale, pp. 55–78.
+Geuens, M., De Pelsmacker, P., 2017. Planning and conducting experimental advertising
+research and questionnaire design. J. Advert. 46 (1), 83–100. https://doi.org/
+10.1080/00913367.2016.1225233.
+Gilmore, J.H., Pine, B.J., 2007. Authenticity: what Consumers Really Want. Harvard
+Business School Press, Cambridge, MA.
+Guo, Z., Zhu, Z., Li, Y., Cao, S., Chen, H., Wang, G., 2023. AI Assisted Fashion Design: A
+Review. IEEE Access. https://10.1109/ACCESS.2023.3306235.
+Ha, S., Huang, R., Park, J.S., 2019. Persuasive brand messages in social media: a mental
+imagery processing perspective. J. Retailing Consum. Serv. 48, 41–49. https://doi.
+org/10.1016/j.jretconser.2019.01.006.
+Halkias, G., Kokkinaki, F., 2014. The degree of ad–brand incongruity and the distinction
+between schema-driven and stimulus-driven attitudes. J. Advert. 43 (4), 397–409.
+https://doi.org/10.1080/00913367.2014.891087.
+Harper, S., 2023. ChatGPT Threatens Authenticity of DEI Communications from Leaders.
+Forbes. https://www.forbes.com/sites/shaunharper/2023/02/19/chatgpt-will-wea
+ken-authenticity-of-executive-communication-about-dei/?sh=2a06f8974d85.
+Harreis, H., Koullias, T., Roberts, R., Te, K., 2023. Generative AI: Unlocking the Future of
+Fashion. McKinsey & Company. https://www.mckinsey.com/industries/retail/our
+-insights/generative-ai-unlocking-the-future-of-fashion.
+Hong, J.W., Curran, N.M., 2019. Artificial intelligence, artists, and art: attitudes toward
+artwork produced by humans vs. artificial intelligence. ACM Trans. Multimed
+Comput. Commun. Appl 15 (2s), 1–16. https://doi.org/10.1145/3326337.
+Jago, A.S., 2019. Algorithms and authenticity. Acad. Manag. Discov. 5 (1), 38–56.
+https://doi.org/10.5465/amd.2017.0002.
+
+7.2. Limitations and future research
+The current study is among the first to conduct a theory-based study
+exploring consumer responses to AI-designed fashion products. Still,
+several study limitations remain, which can be considered in future
+research. First, AI customization design process can be operationalized
+in different ways other than customizing colors and patterns for
+sweaters. Arising platforms for product customization using generative
+AI provide diverse customization options to incorporate customers’
+input, including selecting or typing in not only certain design compo­
+nents (e.g., colors or patterns) but also materials (e.g., cotton or linen),
+trims (e.g., buttons), features (e.g., pockets), or adjectives (e.g., fash­
+ionable). Further, this study used a sweater image to control product
+category effects. It will be interesting to test how perceptions of AIdesigned clothing vary depending on product categories (e.g., coat,
+dress, leggings).
+Second, the current study developed the hypotheses building upon
+schema theory, focusing on the influence of schemata on product per­
+ceptions (i.e., perceived authenticity and product quality). Given that
+this study did not directly examine how AI is perceived as a design entity
+from schema perspectives because it was out of scope, future research
+can explore factors resulting from one’s schemata that may affect per­
+ceptions of AI itself working for clothing design. It will be valuable to
+test whether consumers’ particular AI schemata affect how they respond
+to AI as a design entity.
+Lastly, Study 3 yielded interesting findings that the effects of AI
+design process are partially mediated by perceived authenticity and the
+authenticity–product quality chain and that the direct effect of AI design
+process on consumer responses still remains. While this study does not
+entirely unveil which factor explains different responses to clothing
+designed by AI versus AI customization, these findings call for future
+studies employing diverse perspectives.
+Funding
+This work was supported by College of Design, University of
+Minnesota.
+Declaration of competing interest
+None.
+Data availability
+Data will be made available on request.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.jretconser.2023.103690.
+References
+Aggarwal, S., Bhardwaj, P., Arora, J., 2020. AI in fashion: present and future
+applications. In: Transforming Management Using Artificial Intelligence Techniques.
+
+10
+
+G. Lee and H.-Y. Kim
+
+Journal of Retailing and Consumer Services 77 (2024) 103690
+Rajagopal, P., Montgomery, N., 2012. Remembering better or remembering worse: age
+effects on false memory. In: Gürhan-Canli, Zeynep, Otnes, Cele, Zhu, Rui (Juliet)
+(Eds.), Advances in Consumer Research, 40. Association for Consumer Research,
+Duluth, MN, 928-928.
+Rao, A.R., Monroe, K.B., 1989. The effect of price, brand name, and store name on
+buyers’ perceptions of product quality: an integrative review. J. Market. Res. 26 (3),
+351–357. https://doi.org/10.2307/3172907.
+Richins, M.L., Bloch, P.H., 1986. After the new wears off: the temporal context of product
+involvement. J. Consum. Res. 13 (2), 280–285. https://doi.org/10.1086/209067.
+Schneider, L.P., Cornwell, T.B., 2005. Cashing in on crashes via brand placement in
+computer games: the effects of experience and flow on memory. Int. J. Advert. 24
+(3), 321–343. https://doi.org/10.1080/02650487.2005.11072928.
+Singh, S.N., Cole, C.A., 1993. The effects of length, content, and repetition on television
+commercial effectiveness. J. Market. Res. 30 (1), 91–104. https://doi.org/10.2307/
+3172516.
+Sohn, K., Sung, C.E., Koo, G., Kwon, O., 2020. Artificial intelligence in the fashion
+industry: consumer responses to generative adversarial network (GAN) technology.
+Int. J. Retail Distrib. Manag. 49 (1), 61–80. https://doi.org/10.1108/IJRDM-032020-0091.
+Srinivasan, S.S., Anderson, R., Ponnavolu, K., 2002. Customer loyalty in e-commerce: an
+exploration of its antecedents and consequences. J. Retailing 78 (1), 41–50. https://
+doi.org/10.1016/S0022-4359(01)00065-3.
+Stevens, J., Esmark, C.L., Noble, S.M., Lee, N.Y., 2017. Co-producing with consumers:
+how varying levels of control and co-production impact affect. Market. Lett. 28,
+171–187. https://doi.org/10.1007/s11002-016-9413-2.
+Sujan, M., Bettman, J.R., 1989. The effects of brand positioning strategies on consumers’
+brand and category perceptions: some insights from schema research. J. Market. Res.
+26 (4), 454–467. https://doi.org/10.2307/3172765.
+Sweeney, J.C., Soutar, G.N., Johnson, L.W., 1999. The role of perceived risk in the
+quality-value relationship: a study in a retail environment. J. Retailing 75 (1),
+77–105. https://doi.org/10.1016/S0022-4359(99)80005-0.
+White, K., Argo, J.J., Sengupta, J., 2012. Dissociative versus associative responses to
+social identity threat: the role of consumer self-construal. J. Consum. Res. 39 (4),
+704–719. https://doi.org/10.1086/664977.
+Xian, W., Sangkloy, P., Agrawal, V., Raj, A., Lu, J., Fang, C., et al., 2018. Texturegan:
+controlling deep image synthesis with texture patches. In: Proceedings of the IEEE
+Conference on Computer Vision and Pattern Recognition, pp. 8456–8465. https://
+doi.org/10.48550/arXiv.1706.02823.
+Xu, L., Mehta, R., 2022. Technology devalues luxury? Exploring consumer responses to
+AI-designed luxury products. J. Acad. Market. Sci. 50, 1135–1152. https://doi.org/
+10.1007/s11747-022-00854-x.
+Yan, H., Zhang, H., Liu, L., Zhou, D., Xu, X., Zhang, Z., Yan, S., 2022. Toward intelligent
+design: an AI-based fashion designer using generative adversarial networks aided by
+sketch and rendering generators. IEEE Trans. Multimed. https://doi.org/10.1109/
+TMM.2022.3146010.
+Yu, J., Dickinger, A., So, K.K.F., Egger, R., 2023. Artificial intelligence-generated virtual
+influencer: examining the effects of emotional display on user engagement.
+J. Retailing Consum. Serv. 76, 103560 https://doi.org/10.1016/j.
+jretconser.2023.103560.
+Zaichkowsky, J.L., 1985. Measuring the involvement construct. J. Consum. Res. 12 (3),
+341–352. https://doi.org/10.1086/208520.
+Zhang, H., Bai, X., Ma, Z., 2022. Consumer reactions to AI design: exploring consumer
+willingness to pay for AI-designed products. Psychol. Market. 39 (11), 2171–2183.
+https://doi.org/10.1002/mar.21721.
+Zhu, Y., You, J., Alard, R., Schönsleben, P., 2009. Design quality: a key to improve
+product quality in international production network. Prod. Plann. Control 20 (2),
+168–177. https://doi.org/10.1080/09537280802705062.
+
+Khasawneh, O.Y., 2018. Technophobia: examining its hidden factors and defining it.
+Technol. Soc. 54, 93–100. https://doi.org/10.1016/j.techsoc.2018.03.008.
+Kim, J., Kim, J.H., Kim, C., Park, J., 2023. Decisions with ChatGPT: reexamining choice
+overload in ChatGPT recommendations. J. Retailing Consum. Serv. 75, 103494
+https://doi.org/10.1016/j.jretconser.2023.103494.
+Lamb, J.M., Kallal, M.J., 1992. A conceptual framework for apparel design. Cloth. Text.
+Res. J. 10 (2), 42–47. https://doi.org/10.1177/0887302X9201000207.
+Lee, J., Kim, H., 2022. How to survive in advertisement flooding: the effects of
+schema–product congruity and attribute relevance on advertisement attitude.
+J. Consum. Behav. 21 (2), 214–230. https://doi.org/10.1002/cb.1991.
+Lee, Y.K., 2022. How complex systems get engaged in fashion design creation: using
+artificial intelligence. Think. Skills Creativ. 46, 101137 https://doi.org/10.1016/j.
+tsc.2022.101137.
+Li, H., Lei, Y., Zhou, Q., Yuan, H., 2023. Can you sense without being human? Comparing
+virtual and human influencers endorsement effectiveness. J. Retailing Consum. Serv.
+75, 103456 https://doi.org/10.1016/j.jretconser.2023.103456.
+Littrell, M., Anderson, L.F., Brown, P., 1993. What makes a craft souvenir authentic?
+Ann. Tourism Res. 20 (1), 197–215. https://doi.org/10.1016/0160-7383(93)90118M.
+Mandler, G., 1981. The Structure of Value: Accounting for Taste. Center for Human
+Information Processing, Department of Psychology, University of California, San
+Diego, pp. 3–36.
+Meyers-Levy, J., Tybout, A.M., 1989. Schema congruity as a basis for product evaluation.
+J. Consum. Res. 16 (1), 39–54. https://doi.org/10.1086/209192.
+Mitchell, A.A., 1986. The effect of verbal and visual components of advertisements on
+brand attitudes and attitude toward the advertisement. J. Consum. Res. 13 (1),
+12–24. https://doi.org/10.1086/209044.
+Mitchell, V.W., Balabanis, G., 2021. The role of brand strength, type, image and productcategory fit in retail brand collaborations. J. Retailing Consum. Serv. 60, 102445
+https://doi.org/10.1016/j.jretconser.2021.102445.
+Moreau, C.P., Herd, K.B., 2010. To each his own? How comparisons with others
+influence consumers’ evaluations of their self-designed products. J. Consum. Res. 36
+(5), 806–819. https://doi.org/10.1086/644612.
+Moreau, C.P., Prandelli, E., Schreier, M., Hieke, S., 2020. Customization in luxury
+brands: can Valentino get personal? J. Market. Res. 57 (5), 937–947. https://doi.
+org/10.1177/0022243720943191.
+Moulard, J.G., Raggio, R.D., Folse, J.A.G., 2016. Brand authenticity: testing the
+antecedents and outcomes of brand management’s passion for its products. Psychol.
+Market. 33 (6), 421–436. https://doi.org/10.1002/mar.20888.
+Moulard, J.G., Rice, D.H., Garrity, C.P., Mangus, S.M., 2014. Artist authenticity: how
+artists’ passion and commitment shape consumers’ perceptions and behavioral
+intentions across genders. Psychol. Market. 31 (8), 576–590. https://doi.org/
+10.1002/mar.20719.
+Murphy, K.P., 2022. Probabilistic Machine Learning: an Introduction. MIT press.
+Napoli, J., Dickinson, S.J., Beverland, M.B., Farrelly, F., 2014. Measuring consumerbased brand authenticity. J. Bus. Res. 67 (6), 1090–1098. https://doi.org/10.1016/j.
+jbusres.2013.06.001.
+Newman, G.E., Dhar, R., 2014. Authenticity is contagious: brand essence and the original
+source of production. J. Market. Res. 51 (3), 371–386. https://doi.org/10.1509/
+jmr.11.0022.
+Nishikawa, H., Schreier, M., Ogawa, S., 2013. User-generated versus designer-generated
+products: a performance assessment at Muji. Int. J. Res. Market. 30 (2), 160–167.
+https://doi.org/10.1016/j.ijresmar.2012.09.002.
+Pieconka, J., 2023. Creative Machines-Consumers’ Perception Of AI Designed Products
+(Doctoral Dissertation, Leopold-Franzens-Universität Innsbruck).
+Podsakoff, P.M., Organ, D.W., 1986. Self-reports in organizational research: problems
+and prospects. J. Manag. 12 (4), 531–544. https://doi.org/10.1177/
+014920638601200408.
+
+

@@ -1,0 +1,447 @@
+A B S T R A C T
+
+Keywords:
+Artificial intelligence technology
+Traditional Chinese opera
+Stage engineering
+Bivariate t-value check
+Chinese opera
+
+To combine traditional Chinese opera with modern intelligent technology, we use Artificial In­
+telligence (AI) technology to conduct innovative research on traditional stage design. In this
+paper, we mainly focused on the production of scientific and technological equipment for stage
+design, the cooperation between intelligent technology and opera culture creation, and the stage
+design effect and the overall stage effect after the introduction of AI technology. We elaborate on
+the background of AI in traditional opera art creation space and associate it with the internet
+collaborative creation from multiple angles through the survey as satisfaction, staff salary dif­
+ference, calculation comparison, etc. The performance analysis study reveals that combining
+traditional Chinese opera with AI resulted in significant performance efficiency compared to
+conventional techniques.
+
+1. Introduction
+Each scene in traditional Chinese opera art contains the five components of "gold, wood, water, fire, and earth" cooperating, among
+which the stage of the earth system acts as the carrier, the gold soldier Ge, fire pottery, water system apparel, and wood furnishings.
+According to Mei Chen [1], the clothes and items directly connected to the performers were the first to appear in the performance
+before the set progressively arose. Every scene on stage, props, costumes, and even the curtain are carefully studied; each opera has its
+place, perhaps a table, sometimes a cup; even such small details, like the performers on stage, are indispensable, are closely related,
+and together staged a gorgeous visual feast for the audience; this is the charm of traditional opera.
+Randolph [2] revealed that traditional opera art is more than just props and sets; it is used to foil the performer’s green leaves, a sad
+are hidden in it, and sometimes it changed, becoming the focus of the normal stage, such as according to Mr. Lao She novel of the same
+name, the camel Xiang Zi in the set design, the old Beijing city gate and city walls, metaphor the old China will collapse, the deep
+connotation of the audience deeply as
+Tallón Ballesteros [3] stated that in the early traditional opera stage engineering, pure handwork was generally used to create
+various props, and the materials were greatly consumed, time-consuming, and laborious, resulting in the expensive price of props and
+the rare quantity, and the production is difficult to supply large-scale commercial performances, which is also the reason for the
+high-ticket price of song-and-dance duet popular in the Northeast [3].
+The biggest difference between the song-and-dance duet popular in the Northeast and the adaptation is to pull scene requirements
+with a full set of opera stage facilities, and the play can use more modern stage elements, such as Light Emitting Diode (LED) display
+
+This paper is for special section VSI-sacs Reviews were processed by Guest Editor Dr. Antonio Zuorro and recommended for publication.
+E-mail address: mohayasr6819@gmail.com.
+https://doi.org/10.1016/j.compeleceng.2022.108395
+Received 23 June 2022; Received in revised form 7 September 2022; Accepted 12 September 2022
+Available online 24 September 2022
+0045-7906/© 2022 Elsevier Ltd. All rights reserved.
+
+Computers and Electrical Engineering 103 (2022) 108395
+
+Z. Yang
+
+instead of cloth embroidery background, even with modern clothing instead of traditional Peking Opera costumes, etc. Section 2
+discusses Artificial Intelligence (AI) technology for the opera art environment. Section 3 discusses multi-entity collaboration in the
+formation of theatrical culture in the Internet era. Section 4 discusses the stage design effect and the overall stage effect following the
+implementation of AI technology. The conclusion is presented in Section 5.
+2. AI Equipment of opera art space
+2.1. Existing AI equipment for opera stage choreography
+Three Dimensional (3D) Printer: Ding and Ng [4] said that 3D printing is a type of fast-forming technology, also known as additive
+manufacturing, that is based on digital model files and uses adhesive materials such as powder metal or plastic to produce products
+layer-by-layer printing. Potter Phillip [5] revealed that 3D printing is typically implemented using a digital technology material
+printer, which works on a similar principle to a standard printer but with a few differences. Standard printer print material is paper and
+toner, whereas 3D printer print material is a variety of metals, ceramics, plastics, and so on. And, unlike a regular printer, which prints
+two-dimensional planes on paper, a 3D printer prints three-dimensional objects. This technique was sometimes referred to as 3D stereo
+printing technology. According to Najarian [6], 3D printers were frequently employed in the manufacture of models in mold
+manufacturing and industrial design and were subsequently gradually utilized in the direct fabrication of various items, with parts
+produced using this technology. Jewelry, footwear, industrial design, architecture, engineering and construction, automotive, aero­
+space, dentistry, and medical sectors all use the technology. Faraz [7] was aware that Charles Hull, an American scientist, invented the
+first commercial 3D printing process in 1986. Over the next four decades, experts from around the country dedicated themselves to
+inventing 3D printers for use in a variety of areas. 3D printers are not unique in today’s science and technology, since they can be found
+in all aspects of life.
+Six-axis processing lathe (processing center): Tallón Ballesteros [3] stated that clothe processing is part of machining and that there
+are primarily two types of processing: one is to fix the blade and process the unformed workpiece in the rotation; the other is to fix the
+piece through high-speed rotation, horizontal and longitudinal movement of the blade (frame). Drill head, hole expansion drill, hinge
+knife, silk cone, plate teeth, and rolling tools on the lathe is the most often used type of machine tools in mechanical production and
+repair industries, and it is mostly used for processing shafts, discs, covers, and other workpieces with rotational surfaces.
+Sewing machine with Computer Numerical Control (CNC) embroidery: According to Mei Chen [1], an embroidery machine is a special
+sewing machine that can be directly through the Internet embroidery design, construct the pattern, and then let the machine auto­
+matically work for embroidery, abandoning the complicated steps of manual operation, and the embroidery machine can be operated
+by only one person through electronic modeling, convenient method, and easy operation. And the design generated is delicate and
+silky, much like hand embroidery weaved.
+Fig. 1 Shows the path of AI set in the stage design space. It consists of the below components.
+• Computer 3D modeling: A 3D model made using a computer;
+• Graphic Artist Designer: Art designs a 3D model;
+• 3D printing: Printing was performed using the 3D model designed to produce;
+• 3D cutting:Cut off the printed items;
+• 3D clipping:The cleaved 3D model was trimmed;
+• Wax mold:Wax xed items that have been 3D printed;
+• Replace wax:Remove the wax particles from the item;
+• Computer embroidery:Texture analysis is used to import the embroidery into an embroidery sewing machine for AI embroidery;
+
+Fig. 1. Application path of AI set in the stage design space.
+2
+
+Computers and Electrical Engineering 103 (2022) 108395
+
+Z. Yang
+
+• NC sewing:Do the embroidery sewing machine for the embroidery processing;
+• NC sewing:Ironing of the obtained embroidery products;
+• Fine grinding: The resulting products will be finely processed;
+• Coloring/assembly: Color the products already obtained and;
+• Forming:Get the product for use.
+Fig. 1 depicts the combination of conventional opera stage engineering with AI via computer plane design and 3D stereo modeling.
+Such enormous objects may be detailed and polished by using a 3D printer and 3D cutting. The coloring may then be completed, and
+minor props can be cut. The CNC embroidery machine is used to process iron-on cloth art goods. The six-axis processing center will
+handle the whole operation.
+2.2. Use of AI to reproduce traditional props
+Tilt photography in three dimensions, based on a revolving platform. Slant photogrammetry was employed by Ahirwal [8]. Slant
+photogrammetry is a novel technique developed in recent years, allowing for simultaneous photography from numerous angles using
+several sensors on the same aircraft platform. Tilt photography means that he can capture measurements at a 45˚angle at a low height,
+allowing for higher-resolution aerial photos. Unlike standard projections, they can not only shoot from a vertical viewpoint but also
+five or more angles, considerably improving data collecting efficiency. In this work, reference photos were used for stage photography
+and 3D stereo modeling.
+Randolph [2] demonstrated texture analysis by acquiring images and extracting processing techniques to extract texture feature
+parameters. By integrating technology with an embroidered sewing machine, you may learn the directional quantitative description of
+the texture. Stage props can have the same texture as handcrafted props.
+Fig. 2 shows the traditional prop engraving scheme of AI. It consists of below components.
+• Tilt camera PTZ: Use the tilt photography cloud platform for photography;
+• Smart 3D synthesis: The collected images were subjected to 3D synthesis;
+• 3D prop model: The resultant 3D image model was processed specifically;
+• Cutting drive code: The resulting model was cut and made;
+• Printer driver code: Part of the 3D model was printed;
+• Laser scanning: Items that require embroidery for laser scanning;
+• Texture analysis: The results of the props were scanned for texture scan analysis;
+• Pin analysis: A more detailed analysis of the texture analysis;
+• Sewing machine drive code: large areas of props were made for sewing; and
+• Embroidery machine driver code: More detailed needle embroidery for embroidery production.
+To make AI engraving props to achieve the purpose of traditional handmade props, large props using tilt photography platform for
+multi-angle shooting to collect props related data, data input into the computer, using smart3D data synthesis, and build 3D props
+model, get large props electronic mold, using 3D printer cutting and printing, finally color assembly into large props. Small props
+principle is similar, first using laser scanning, scanning its texture structure, and then use computer texture analysis, then use smart3D
+data synthesis, and build 3D props model, then use 3D printer cutting and printing, details embroidery uses needle analysis, needle
+sequence code input, can use digital embroidery sewing machine embroidery to refine details complete props.
+3. Multi-entity collaboration of drama culture creation in the internetþ Era
+The Internet+ economic model is based on the comprehensive division of labor and tight coordination of tiny business organi­
+zations, which is equally relevant in drama stage artworks. According to traditional Chinese opera art, each scene includes five
+components that collaborate: "gold, wood, water, fire, earth." The stage project is likewise produced following its five elements.
+Fig. 3 shows the Internet+ opera cluster creation system. It consists of below the components.
+
+Fig. 2. Traditional prop engraving scheme of AI.
+3
+
+Computers and Electrical Engineering 103 (2022) 108395
+
+Z. Yang
+
+• Drama dance planning: Opera stage art for the overall stage design;
+• 3D modeling: Based on the 3D model being built as required;
+• 3D design: Design and production of the 3D model were performed;
+• Wumei weapon processing: Make the weapons needed for the stage;
+• Wumei furniture processing: Make the furniture needed for the stage;
+• Dance costume processing: Make the costumes needed for the stage;
+• Wumei porcelain processing: Make the porcelain needed for the stage; and
+• Dance curtain processing: Make the curtain needed for the stage.
+Fig. 3 depicts the Internet and opera culture’s combined creation. The traditional mode’s drama stage is entirely hired by its troupe.
+The stage props will be changed after each performance, using significant personnel and material resources. And, using the opera art
+planning draught, a new AI mode connected to the Internet may develop 3D modeling, as well as stage scene furniture, weapons,
+clothes, porcelain, and curtains based on the five aspects of ancient China, as categorized by many intelligent technology businesses.
+Unified the opera stage personnel assembly and planning, resulting in cost savings and a reduction in production time.
+4. Impact analysis using AI technology
+4.1. . Bivariate t-calibration algorithm
+Elsevier [9] had told that the t-test, also known as the student t-test (Student’s t-test), was mainly used for a normal distribution
+with a small sample content (e. g., n < 30) and the overall standard deviation is unknown. The t-test is to infer the probability of the
+difference occurring by the t-distribution theory, and thus to compare whether the difference between the two averages is significant.
+The t-value formula:
+t=
+
+|X − μ0 | X − μ0
+= √̅̅̅
+SX
+s/ n
+
+(1)
+
+where, t represents Bivariate t-value test, X represents variables required for the test, μ0 represents fixed constant, SX represents the
+mean synthesis of the variables tested and n represents the number of variables tested.
+4.2. P-value
+Tinnirello [10] had used that the P-value. The P-value is the probability that results are more extreme than the resulting sample
+observations appear when the null hypothesis is true. If the P-value is small, the probability of the null hypothesis is small, and the
+smaller the P-value, the more significant the results. In this study, the setting was considered significantly significant between the two
+data groups when T < 10.000 and P < 0.01. Throw a coin 20 times with 14 frontal appearances, drawing the occurrence probability of
+the event as a normal distribution, then the one-sided P-value of the sample was calculated as follows:
+Prob(14 heads) + Prob(15 heads) + … + Prob(20 heads)
+[( ) ( )
+( )]
+1
+20
+20
+20
+60, 460
++
++…+
+=
+≈ 0.058
+20
+14
+15
+20
+1, 048, 576
+2
+
+(2)
+
+where, Prob represents get the required situation.
+4.3. Practitioner income survey
+The actors include wrist horns such as ugliness, gongs, drums, silk tube musicians, and dance actors. The backstage includes stage
+props, the director group, production group, production, and group staff [11–17]. This study was sampled in various Peking Opera
+troupes around Beijing, with some actors, backstage staff, and producers’ salaries and compared, and recorded in Table 1:
+
+Fig. 3. The Internet + opera culture creation system related to the stage choreography.
+4
+
+Computers and Electrical Engineering 103 (2022) 108395
+
+Z. Yang
+
+• Traditional mode: Salary and profit of each staff member in the traditional mode;
+• AI model: Salary and profit of each staff member in the AI mode;
+• The average price: Average fare in two different modes;
+• The average daily wage for an actor: The average salary of an actor in both modes;
+• Background daily wage: Average salary for background staff in both modes; and
+• Yield of the producer: The profits that the producers reap in both modes.
+According to the statistics in Table 1, the conventional mode’s ticket price is about six times that of the AI mode, but the daily
+compensation of actors is around the same. When combined with the high daily wage in the background and the producer’s revenue,
+the traditional mode’s ticket price income is largely utilized for the manual backdrop set and the material cost of manual production. In
+contrast, the AI model resulted in much-reduced ticket prices and lower wages for background workers [17–24].
+Fig. 4 shows below factors:
+• The average daily wage for an actor: The average salary of an actor in both modes;
+• Background daily wage: Average salary for background staff in both modes; and
+• Yield of the producer: The profits that the producers reap in both modes.
+The ratio increases the difference between the conventional and AI mode means in Table 1 and Fig. 4. The t and P are calculated
+using the results of a bivariate T-test run by the Statistical Package for Social Sciences (SPSS) analytic program on two different types of
+data. When T < 10.000 and P < 0.01, a statistically significant difference between the two data groups were considered.
+4.4. Organizational efficiency analysis
+Under the premise of the fixed script and complete rehearsal, a commercial performance of about 2 h of opera needs to conduct
+stage confirmation, market publicity, stage processing and deployment, stage test stage, and other preparatory processes in advance.
+After the performance, dismantle the stage props, restore the stage and return the rental equipment are needed. This study also
+investigated the staff of Peking Opera troupes around Beijing and sorted out in Table 2:
+The factors in Table 2 are summarized below.
+• Traditional mode: Time and preparation efficiency required in the traditional model;
+• AI model: Time and preparation efficiency required in the AI mode;
+• Performance times:Performance time required in both modes;
+• Preparation time:Preparation time required in both modes;
+• End time:End time required in both modes;
+• Salary cycle:Salary counting cycle in both modes; and
+• Preparation efficiency:Preparation efficiency in both modes.
+In Table 2, the increase calculation is the ratio of the difference between the traditional mode mean and the AI mode means. The T
+and P are obtained from the results of a bivariate T-test performed by the SPSS analysis software on two different modes of data. A
+significant statistical difference between the two data groups was considered when at T < 10.000 and P < 0.01.
+4.5. Audience and practitioner satisfaction questionnaire
+After investigating the performance efficiency and the compensation of all parties, this study investigated the satisfaction of the
+audience in the surveyed area and their practitioners with the opera performance using the AI mode, and calculated in Table 3.
+The factors in Table 2 are summarized below:
+• AI model: The satisfaction of the audience, practitioners and producers with the stage in the AI mode;
+• Audience degree of satisfaction: Audience satisfaction with the stage in both modes;
+• Audience complaint rate:Audience complaint rate about the stage in both modes;
+• Performer degree of satisfaction:Performer satisfaction with both modes;
+Table 1
+Compensation and income calculation of actors, backstage and producers (Data source: The author calculated the proceeds).
+Grouping
+
+The average price
+yuan/RMB
+
+The average daily wage for an actor
+yuan/RMB
+
+Background daily wage
+yuan/RMB
+
+Yield of the producer
+%
+
+traditional mode
+AI mode
+t
+P
+
+1827.5
+363.8
+0.136
+0.002
+
+826.5
+967.3
+8.283
+0.008
+
+1512.5
+846.9
+3.152
+0.006
+
+12.6
+18.6
+6.351
+0.007
+
+5
+
+Computers and Electrical Engineering 103 (2022) 108395
+
+Z. Yang
+
+Fig. 4. Visualization of the salary and income survey of actors, backstage, and producers.
+Table 2
+Performance organization efficiency test table (Data source: The author calculated the proceeds).
+grouping
+
+Performance times
+h
+
+Preparation time
+d
+
+End time
+d
+
+Salary cycle
+d
+
+Preparation efficiency
+%
+
+Traditional mode
+AI mode
+t
+P
+
+2
+2
+99.999
+0.000
+
+5.0
+2.1
+3.752
+0.006
+
+1.3
+1.1
+1.784
+0.004
+
+6.3
+3.2
+3.526
+0.006
+
+1.39
+2.78
+3.471
+0.006
+
+Table 3
+Satisfaction survey results table (Data source: The author calculated the proceeds).
+GROUPING
+
+audience
+degree of satisfaction
+
+complaint rate
+
+performer
+degree of satisfaction
+
+backstage
+degree of satisfaction
+
+Producer
+degree of satisfaction
+
+traditional mode
+AI model
+t
+P
+
+63.7
+70.2
+0.658
+0.003
+
+6.3
+3.8
+3.239
+0.006
+
+68.4
+75.5
+1.472
+0.004
+
+57.4
+70.8
+1.937
+0.004
+
+80.9
+94.3
+1.653
+0.004
+
+• Backstage degree of satisfaction:Background staff satisfaction with both models;
+• Producer degree of satisfaction:Investor satisfaction with both models;and
+• Traditional mode: The traditional mode satisfies the audience, practitioners and producers with the stage.
+Fig. 5 and Table 3 show the influence of the AI mode on the stage project. Both the preparation and completion times are
+significantly shorter than the typical manner of a production stage project. At the same time of performance, the AI preparation time is
+considerably less than the classic mode preparation time. In other words, AI enhances the overall efficiency of stage preparation,
+
+Fig. 5. Visual figure of the satisfaction survey.
+6
+
+Computers and Electrical Engineering 103 (2022) 108395
+
+Z. Yang
+
+allowing for more stage performances to be prepared at the same time.
+According to Table 3, the audience response to two various types of opera stage response is not different, but actor and background
+staff satisfaction differs. The classic-style stage scenario needs a large number of people and material resources, particularly in the
+background crew. And, while background staff salaries are decreased in AI mode, the cost of material resources is also significantly cut.
+Similarly, the AI model has a favorable impression among the producers. Although the ticket price has been cut, the efficiency has been
+substantially increased, as have the producers’ returns.
+5. Conclusion
+The AI system takes data from cameras, GPS, the car’s radar, and cloud services to generate control signals that allow the vehicle to
+function. AI is a broad tool that enables people to reimagine how we combine information, analyze data, and apply the resultant
+insights to make better decisions—and it is already impacting every aspect of life. We presented the AI mode of opera culture
+development mode and production process, and compare it with the traditional Chinese traditional opera development mode. We
+studied the AI mode using 3D printing technology, CNC embroidery sewing technology, tilt photography cloud platform, and other
+technology opera stage production. Different from the traditional mode of the opera production process, AI mode according to the way
+of five elements of the required props production process, make the production process clear, more convenient, and fast. Compared
+with the traditional mode of the opera stage, all walks of life also appreciate the opera stage of new AI more. Large props employed a
+tilt photography platform for multi-angle shooting to acquire props-related data to create AI engraved props that perform the same
+purpose as traditional hand-made props. After entering the data into the computer, smart3D data synthesis had utilized to create a 3D
+model of the props. Large props have then given an electronic mold cut and manufactured using a 3D printer. Small props function in
+the same way. We began by scanning its texture structure with a laser scanner. The computer had then used to examine the texture.
+Following that, we created a 3D model of the prop using smart3D data synthesis. In embroidery, needle analysis and needle sequence
+code input were employed. To improve details and complete props, we employed a digital embroidered sewing machine.
+Data availability
+The data underlying the results presented in the study are available within the manuscript.
+Funding statement
+This work was supported by Shanxi Philosophy and Social Science Foundation Project: Research on the Inheritance and Innovation
+of Shanxi Opera Helmet Making Technique in the Context of Intangible Cultural Heritage (Project No. 2019B356). The fourth batch of
+projects funded by young academic leaders of taiyuan normal University.
+Declaration of Competing Interest
+There is no potential conflict of interest in our paper, and all authors have seen the manuscript and approved to submit to your
+journal. We confirm that the content of the manuscript has not been published or submitted for publication elsewhere.
+Data availability
+No data was used for the research described in the article.
+

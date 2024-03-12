@@ -1,0 +1,1141 @@
+A B S T R A C T
+
+Keywords:
+New year prints
+Heritage preservation
+AISAS model
+Perceived value
+Cultural identity
+Sustainability
+Digitization of intangible cultural heritage
+
+The transformation of social development modes has led to profound changes in the pattern of
+intangible cultural heritage, while simultaneously posing significant challenges to its preserva­
+tion. The rapid development of artificial intelligence (AI) technology has brought new develop­
+ment opportunities in various research fields. This study intends, by constructing and evaluating a
+theoretical model, to investigate whether AI-generated cultural and creative products can pro­
+mote the sustainability of intangible cultural heritage. The central focus of this research is to
+measure the effectiveness of AI technologies in promoting the sustainability of intangible cultural
+heritage. The context of the research design is rooted in the attention, interest, search, action, and
+share (AISAS) model, incorporating theories of perceived value and cultural identity, to forecast
+the long-term viability of AI-generated cultural and creative products in the promotion of
+intangible cultural heritage. This research was conducted in Tianjin, China and carried out using
+quantitative methods, a questionnaire survey, and the accidental sampling method, taking a
+sample of 291 participants for analysis. The results show that 1) the attraction of and interest and
+participation in AI-generated Yangliuqing New Year Print cultural and creative products have a
+positive effect on perceived value; 2) the purchase and sharing of these products have a positive
+impact on cultural identity; 3) the perceived value has a positive impact on cultural identity; and
+4) cultural identity has a positive impact on the sustainability of intangible cultural heritage. This
+study contributes to the theoretical development and practical application of the AISAS model
+and offers valuable insights into the future development trajectory of intangible cultural heritage,
+thereby promoting its sustainability. The limitations of this study are its small sample size and
+geographical restrictions. In future studies, the sample size will be expanded and will include
+more regions for data analysis.
+
+* Corresponding author.
+** Corresponding author.
+E-mail addresses: zhangbolun@student.usm.my (B. Zhang), CHENGPENG@smedi.com (P. Cheng), luoguoshuai_tijmu@126.com (G. Luo),
+327479685@qq.com (T. Gao).
+https://doi.org/10.1016/j.heliyon.2023.e20477
+Received 14 April 2023; Received in revised form 25 August 2023; Accepted 26 September 2023
+Available online 27 September 2023
+2405-8440/© 2023 The Authors.
+Published by Elsevier Ltd.
+This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+1. Introduction
+Intangible cultural heritage is the embodiment of wisdom and art in the evolution of a nation and region, fully reflecting human
+emotional expression and spiritual genes [1]. Therefore, in the process of social development, we are required to protect and transmit
+intangible cultural heritage. New Year Prints, as a traditional folk art in China, are loved by all and are one of the aspects of China’s
+excellent intangible cultural heritage.
+They have huge artistic value and embody rich cultural connotations [2]. However, with the development of society and the
+process of globalization and modernization, intangible cultural heritage has also suffered certain erosion and negative effects [3], and
+many examples of intangible cultural heritage are finding it increasingly difficult to survive in modern society and are at risk of
+disappearing [4]. In particular, New Year Prints, an example of intangible cultural heritage rooted in a traditional agricultural society,
+have fallen into an embarrassing situation of imminent extinction as society develops and transforms [5]. Based on this, the Chinese
+government and many scholars are committed to saving New Year Prints and addressing the crisis. In 2002, New Year Prints were
+included in the first batch of the rescue list of the “China Folk Cultural Heritage Rescue Project” and in May 2006, the State Council of
+China approved the inclusion of New Year Prints in the first batch of the national intangible cultural heritage list [6]. From a global
+perspective, the United Nations Educational, Scientific and Cultural Organization (UNESCO) first proposed the concept of protecting
+intangible cultural heritage in 2003. After the promulgation of the “Convention on the Protection of Intangible Cultural Heritage” in
+the same year, the protection of intangible cultural heritage began to attract the attention of various countries [7]. All these studies and
+subsequent protections aimed to allow excellent and precious aspects of intangible cultural heritage to continue to develop sustainably,
+thus expressing a good cultural ecology.
+In 1987, the “Our Common Future” report by the World Commission on Environment and Development first introduced the concept
+of sustainable development. Sustainable development is defined as “development that meets the needs of the present without
+compromising the ability of future generations to meet their own needs.” [8] The initial sustainable development paradigm mainly
+included ecological, economic, and social dimensions [9]. During the United Nations Decade for Education and Development
+(1988–1997), the relationship between culture and development was discussed, and since then, the link between sustainable devel­
+opment and culture has become increasingly close [10]. Earlier, scholars around the world mainly discussed cultural sustainability as a
+social dimension, but as they became more concerned with cultural issues in the paradigm of sustainable development, cultural
+sustainability gradually moved away from the purely social dimension. In 2001, Hawkes defined cultural sustainability as the fourth
+dimension of sustainability, emphasizing the role of culture in planning [ [11,12]]. Therefore, the protection and sustainable devel­
+opment of intangible cultural heritage is of global concern.
+Since the late 1990s, many heritage studies scholars and cultural industry practitioners have proposed using digital technology to
+protect and promote cultural heritage, arguing that the application of digital technology in the field of cultural heritage can attract
+
+Fig. 1. Cultural and creative products designed and developed by researchers: (a) keychain, (b) T-shirt, (c) desk calendar, and (d) phone case.
+2
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+public attention and increase the accessibility of intangible cultural heritage. Consequently, cultural heritage digitization has become a
+hot topic of study in recent years [13–17]. Regarding New Year Prints, Chinese scholars built a database during the rescue work to
+better protect and preserve the paintings themselves. However, even with digitized storage of the New Year Prints, from production
+methods to legacy works, people’s interest in the paintings has not recovered in current times. In particular, among the younger
+generation, New Year Prints are often just a term that lingers in their minds, and most are unfamiliar with the paintings, which is
+another form of negative response to New Year Prints. Therefore, we need to address the issues facing New Year Prints and adapt their
+status by redesigning the product for the present era to better retain and develop the culture of New Year Prints.
+Based on this, multiple designers have conducted research on New Year Prints and have renovated the design of New Year Prints by
+combining different approaches. However, in the existing research on New Year Print design, the level of designers varies, making it
+difficult for the final version to meet the needs of the present era. As a result, the authors proposes to generate artificial intelligence (AI)
+New Year Print art images quickly and stably by training AI models that can be applied to New Year Prints as cultural and creative
+products (CCPs) [2]. As shown in Fig. 1(a–d), the research results show that AI-generated art can meet the current needs of New Year
+Prints and is favored by young people in the initial research. Although the product is popular, whether AI-generated art can engender
+intangible cultural heritage and lead to sustainable development still needs further exploration. This study, based on this paradigm,
+conducts follow-up research focusing on the quantitative study of Yangliuqing New Year Print AI-generated art CCPs, to explore
+whether AI-generated art can stimulate the sustainable development of intangible cultural heritage.
+Based on the above discussion, this study aims to conduct quantitative research on CCPs of New Year Prints generated using AI. By
+improving the appropriate measurement model, we can measure the relationship between AI-generated New Year Print CCPs, their
+perceived value, and attendant cultural identity to further measure their impact on the sustainability of intangible cultural heritage.
+The essence of research on AI-generated New Year Prints is to generate new forms of New Year Print art images quickly and stably
+using AI models, and users can participate in their generation. Applying it to CCPs and other applications will stimulate young people’s
+interest in the New Year Print culture to learn more about the New Year Print culture and share the experience of using AI-generated
+New Year Prints. They can directly perceive the value of AI-generated New Year pictures and CCPs and share them with others.
+Promoting the New Year Prints generated by AI can not only spread culture better and enhance cultural identity but also impact
+purchasing behavior, thereby bringing economic growth to the producers of these New Year Prints. This, in turn, can create a virtuous
+circle by reinvesting profits into the creation of new prints, thus promoting the sustainable development of New Year Print culture.
+However, the factors that affect users’ intention to continue using the product are complex and diverse, including not only personal
+factors but also social and product-related factors. Therefore, we must consider whether the proposed models can address these three
+key factors. The attention, interest, search, action, and share (AISAS) model is a new consumer behavior model developed based on
+new media advertising and is mainly used in the research context related to e-commerce [18]. The five subspects of the AISAS model
+can encompass the three key conceptual domains of the individual, and the social and product dimensions commonly considered in
+product consumer research. The AISAS model was designed to cater to the demands of the present digital era, and its interactivity with
+the internet enhances insights into consumer behavior and related activities online. Furthermore, AI-generated art is not just a
+one-time creation; it also enables users to participate in the generation process and produce their unique product images, which
+arouses their interest and triggers purchasing and sharing behaviors. Consequently, the authors have revised the third aspect of the
+research to incorporate user participation, which stimulates purchasing and sharing.
+In addition, New Year Print culture, as an aspect of intangible cultural heritage passed down from Chinese agrarian civilization,
+embodies the cultural significance and value system that people of that society assigned to it, and therefore represents a collective
+cultural identity. Unlike material cultural heritage, intangible cultural heritage absorbs cultural nutrients dynamically from different
+historical periods during the transmission process, making it a special mechanism for transmitting cultural memory, which is presented
+as a production and reproduction mechanism for recognizing social collective value [19]. The sustainability of culture essentially
+refers to the concept of restoring and protecting cultural identity, transferring cultural values to future generations by various means
+and thereby reconnecting with traditional customs [12]. Therefore, cultural identity factors can be used to measure young people’s
+recognition and acceptance of New Year Print CCPs, addressing the larger goal of sustainability of intangible cultural heritage.
+Simultaneously, a prerequisite of cultural identity is the personal experience of CCPs. A good esthetic experience and the emotional
+experience of CCPs directly impact individuals’ perception of value, and the perception of value theory can help researchers identify
+the relationship between the user experience and cultural identity in New Year Print CCPs.
+In the current context, predicting the sustainable development of New Year painting culture can help address the current challenges
+in the inheritance and development of intangible cultural heritage, particularly for items of intangible cultural heritage that today are
+facing the challenge of preserving their functionality and enhancing their esthetic appeal in a rapidly modernizing society. Therefore,
+this study adopts an empirical research design and uses survey methods to collect data. The data were analyzed using partial least
+squares (PLS) techniques, and a theoretical framework was established based on the AISAS model, perception value theory, and
+cultural identity theory to explore the user experience. The feasibility of AI-generated art in enabling the sustainable development of
+traditional culture was investigated.
+2. Literature review and theory development
+2.1. Artificial intelligence and intangible cultural heritage
+AI is a field within computer science that concentrates primarily on theoretical, methodological, technical, and practical systems
+aimed at replicating, augmenting, and enhancing human intelligence. In contrast to other disciplines, the inception of AI can be traced
+3
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+back to a significant milestone known as the Dartmouth Conference of 1956. During this influential event, the term “artificial intel­
+ligence” was coined to designate this burgeoning field of study and the fundamental objectives of AI research were also established
+[20]. John McCarthy presented a definition of AI: the science and engineering of making intelligent machines, much research has
+humans program machines to behave in a clever way, like playing chess, but, today, we emphasize machines that can learn, at least
+somewhat like human beings do [ [21,22]].
+With the development of technology and hardware and the rapid growth in the volume of data, AI is also developing rapidly,
+particularly with the emergence of deep learning. An important aspect of deep learning is its ability to learn hierarchical represen­
+tations of data. This concept was first introduced by Bengio et al. [23], who proposed using deep architectures for unsupervised feature
+learning. They showed that deep learning algorithms could automatically learn a hierarchy of features from raw data, leading to
+improved performance in various tasks. Recent advances in deep learning have also been driven by the development of new tech­
+niques, such as dropout regularization [24], batch normalization [25], and adversarial training [26]. These techniques have improved
+the robustness, generalization, and efficiency of deep learning models.
+Intangible cultural heritage consists of traditional and continuing cultural expressions and practices, including oral traditions,
+social practices, rituals, festive events, and environmental knowledge, as well as the knowledge, skills and social practices required to
+produce arts and crafts [ [7,27]]. Since the adoption of the UNESCO convention for the safeguarding of intangible heritage in 2003,
+intangible cultural heritage has grown significantly as a field of study and digital workplace [28]. The booming trends in computing
+heritage and information and communications technology applications play a vital role in safeguarding intangible cultural heritage, as
+they generate multiple resources that are also accessible to the public [29]. The combination of these new technologies with intangible
+cultural heritage has made the protection and dissemination of intangible cultural heritage through digital means increasingly widely
+accepted. In addition, with the development of technology, we also recognize that digital technology plays an important role in the
+protection and dissemination of intangible cultural heritage [30]. In particular, the application of AI in this field has brought new
+possibilities for intangible cultural heritage. For example, in Pan’s research, developing an AI model to identify hand-painted thangkas
+and machine-printed thangkas provides a powerful way to protect this precious intangible cultural heritage [31]. Tang et al. proposed
+a lightweight AI neural network model named ShuiNet-A to classify and identify Shui manuscripts accurately [32]. Cui et al. also used
+AI models to analyze and localize recorded martial arts motion images [33]. To summarize, it is feasible and advanced to apply AI
+technology to the field of intangible cultural heritage.
+2.2. Cultural and creative products
+The definition of CCPs varies, using terms such as “cultural products,” “cultural creative merchandise,” and “display derivatives.”
+[34] Essentially, it is a form of product that integrates cultural elements and modern design techniques to satisfy consumers’ spiritual
+needs through its use. In China, CCPs are commonly found in museums, such as the Palace Museum, and local-characteristic tourism
+CCPs, based on aspects of intangible cultural heritage developed by designers. These products generate significant economic impact
+[35] and cater to the public’s spiritual needs [ [36,37]].
+The design process of CCPs involves re-examination and reflection of the cultural factors inherent in the product. Through design,
+traditional cultural elements are presented in a new form that conforms to the esthetic tastes of modern people [38]. In the field of New
+Year Print culture, researchers have recently applied their findings in the extraction of cultural elements, including graphics and colors,
+to design novel CCPs and to create an artistic image of New Year Prints. For instance, the artistic image of Yangliuqing New Year Prints
+has been combined innovatively with the style of Pablo Picasso’s art [39], and the artistic graphics of fish in Yangliuqing New Year
+Prints have been extracted to design paper-cut lanterns [40]. The colors of New Year Prints have been extracted for use in the color
+design of power banks [41], and cultural symbol elements from Yangliuqing New Year Prints have been extracted to design CCPs such
+as oil-paper umbrellas and emoticons [42]. However, the quality of these cultural and creative designs is dependent on the skill level
+and the esthetics of the designer, and users are unable to participate in the production process. To address this issue, the author has
+developed an AI design model to generate New Year Print images, which produces stable and reliable results, while also allowing users
+to choose their favorite images and even participate in the production process, increasing their satisfaction.
+2.3. The AISAS model
+The AISAS model was proposed by the Japanese Dentsu Company to better depict consumer behavior in the internet era [43]. It is
+an improvement on the Attention–Interest–Desire–Memory–Action (AIDMA) model proposed by Hall [44]. The new AISAS model is
+considered more suitable for explaining consumer behavior in the internet era than the conventional AIDA model. With the emergence
+of the internet, consumers can easily search for information or services related to products and are more willing to share their ex­
+periences [45]. In this context, the marketing of products shifts from persuading consumers to information interaction, involving users
+and increasing their satisfaction.
+The AISAS model differs significantly from previous models, mainly in the way information is conveyed and interacted with. In­
+formation exchange shifts from a single product provision to information sharing between users [46]. Through users’ proactive actions
+and recommendations based on personal preferences and experiences, the impact of products or services is expanded [47]. This is
+precisely the segmentation and behavior that traditional culture urgently needs, where users can share their good experiences and
+personal feelings using traditional cultural products to expand the influence of traditional culture and diffuse it.
+4
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+2.4. Perceived value
+The theory of perceived value is a method for studying individuals’ perceptions and evaluations of goods and services. It endeavors
+to explain why certain goods or services are deemed more valuable than others by some individuals [48]. According to the theory of
+perceived value, the value of a good or service is determined by a combination of its features and factors related to the consumer’s
+specific needs and preferences. For instance, one individual may place a higher value on hi-fi speakers due to their appreciation of
+music, while another individual may not see this as important. This theory also involves psychological and environmental factors, such
+as advertising, brand image, price, and social influence, which can impact an individual’s perception of goods and services and thus,
+affect their evaluation. Research indicates that the theory of perceived value can be used effectively in market research to understand
+consumers’ values and purchasing behavior. It can also be employed to help businesses enhance the appeal and competitiveness of
+their products and services [49]. Burns (1993) considered perceived value to be a combination of functional value, emotional value,
+social value, cognitive value, and situational value. Sweeney (2001) divided perceived value into emotional value, social value, quality
+value [50], and price value, and this division was also adopted by Choi et al. in their research [51]. Deng et al. [52] categorized
+perceived value into five components: perceived functional value, perceived remembrance value, perceived emotional value,
+perceived social value, and perceived conditional value. Lin and Wang [53] maintained that perceived value is manifested in the
+aspects of reputation, quality, monetary value, and emotional response. Fu et al. posited that the perceived value of tourism souvenirs
+is embodied in memorial value, spiritual value, functional value, emotional value, and social value [54].
+In general, although scholars offer different definitions of perceived value, in general terms they include the value assessment made
+by consumers before purchase to maximize benefits or enhance their experience by weighing the benefits and costs. Based on this and
+considering the factors frequently mentioned in other literature and the characteristics of AI-themed CCPs, this paper divides perceived
+value into three dimensions: perceived esthetics, perceived innovation, and perceived emotions. Herein, users are measured by
+allocating the perceived value to these three dimensions, which are used to measure the groups statistically after seeing the CCPs of
+Yangliuqing New Year Prints generated by AI. Users then understand the value of the product and can enhance their cultural identity
+and love this type of intangible cultural heritage more.
+2.5. Cultural identity
+Cultural identity refers to how an individual identifies with a particular cultural group and the values, beliefs, and behaviors
+associated with that group. Cultural identity is shaped by a range of factors, including individual experiences, family background,
+cultural traditions, and social and historical context [55]. Recently, research on cultural identity has focused increasingly on the
+dynamic and multidimensional nature of this construct.
+Studies have shown that cultural identity can have a profound impact on an individual’s self-concept, attitudes, and behaviors.
+Individuals who have a strong cultural identity often report a greater sense of purpose, self-esteem, and related social connectedness
+[56]. Cultural identity is also a dynamic and evolving construct that can change throughout an individual’s life. For example,
+immigration, acculturation, and intermarriage can all impact an individual’s cultural identity. Additionally, global cultural exchanges
+and the spread of technology have led to increased cultural integration, blurring the lines between traditional cultural boundaries and
+often challenging traditional cultural identities [57].
+Zhou’s research in 2022 indicated that the research direction of intangible cultural heritage should shift from the “identity
+recognition” of a few inheritors to the “cultural identity” that mobilizes the enthusiasm of the majority. This is because the current
+predicament faced by intangible cultural heritage is due to the development of contemporary society, leading to the inability of
+traditional culture to maintain its vitality, and the traditional inheritance system of intangible cultural heritage cannot address this
+problem effectively. In this context, cultural identity has become the key to addressing the problem [58]. Wang and Hu’s research in
+2014 also showed that intangible cultural heritage passed down from agricultural civilization represents the efforts of several gen­
+erations to protect that culture, as well as human creation and expression of the world. For the future, it should not be a mechanical
+duplication but an active innovation and interpretation of different cultural identities, forming a culture recognized by the public, and
+preserving and developing it. They believe that cultural identity is an important core mechanism for the sustainable development of
+intangible cultural heritage [19].
+In summary, cultural identity is a complex and multidimensional construct that plays a crucial role in shaping an individual’s sense
+of self and their relationship with the world around them. Understanding cultural identity is essential for advancing our understanding
+of human development and social behavior.
+3. Research model and hypotheses
+This study is based on the AISAS model, the theory of perceived value, and cultural identity, and aims to explore the key factors for
+the sustainable development of AI-generated art and cultural products and traditional culture. We attempt to use the AISAS model to
+summarize the dimensions of factors that enable the sustainable development of intangible cultural heritage through the process of
+understanding the perceived value and cultural identity of AI-generated art and cultural products. Based on this discussion, a research
+model is developed as shown in Fig. 2, and four hypotheses are put forward.
+Hypothesis 1. The attention, interest, and active participation in the generation process of AI-generated Yangliuqing New Year Print
+CCPs have a positive impact on perceived value.
+5
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+Research suggests that factors, such as attention, interest, and active participation significantly influence perceived value. The
+users’ attention to and interest in AI-generated Yangliuqing New Year Prints are captured, increasing their perceived value.
+Furthermore, active participation in the production process allows users to customize the product, enhancing its uniqueness and
+perceived value. Schiffman et al. and Lazar et al. have demonstrated that increased attention and interest in a product contribute to a
+higher perception of its value [59,60]. Additionally, Aaker et al. demonstrated that consumers who actively engage in generating CCPs
+tend to value the customized output more than passive observers [61]. Therefore, it can be hypothesized that the combination of
+attention, interests, and active participation positively influences the perceived value of AI-generated Yangliuqing New Year Print
+CCPs.
+Hypothesis 2. Purchasing and sharing the experience of using AI-generated Yangliuqing New Year Print CCPs have a positive impact
+on cultural identity.
+Belk indicates that purchasing cultural products contributes to a personal expression and the reinforcement of cultural identity
+[62]. AI-generated Yangliuqing New Year Prints serve as a fusion of traditional and contemporary cultures, allowing younger gen­
+erations to engage with intangible cultural heritage in a more relatable and accessible manner [63].
+Furthermore, sharing the experience of using these AI-generated cultural products has strengthened cultural identity by connecting
+individuals with others who share similar cultural experiences [64]. When consumers share their experiences of using AI-generated
+Yangliuqing New Year Prints with others, they foster a stronger connection to their cultural heritage and a deeper sense of cultural
+identity.
+In summary, it can be hypothesized that both purchasing and sharing the experience of using AI-generated Yangliuqing New Year
+Print CCPs have a positive influence on cultural identity.
+Hypothesis 3. Perceived value has a positive impact on cultural identity.
+Previous research has shown that consumers who perceive CCPs to be of high value may feel a stronger sense of cultural identity
+[62]. If users perceive the value of Yangliuqing New Year Print CCPs, they will feel a stronger connection with intangible cultural
+heritage and thereby generate a cultural identity. Simultaneously, when most users perceive the same value, they form a group and
+gain a sense of belonging. Therefore, we can suppose that the perceived value of AI-generated New Year Print CCPs, will positively
+affect cultural identity.
+Hypothesis 4. Strong cultural identity has a positive impact on the sustainable development of traditional culture.
+A strong cultural identity, or a strong sense of self that is derived from one’s cultural background and experiences, can positively
+impact the sustainable development of traditional culture. Previous research has shown that individuals with a strong cultural identity
+are more likely to engage in behaviors that promote and preserve their cultural heritage [65]. It is reasonable to assume that in­
+dividuals with a strong cultural identity would be more likely to support the continued development and preservation of these cultural
+traditions. Furthermore, a consumer with a strong cultural identity may be more likely to purchase CCPs, such as the AI-generated
+Yangliuqing New Year Print CCPs, to support the continued development of these traditional cultures. Additionally, a consumer
+with a strong cultural identity may be more likely to share their experiences with others, promoting an awareness and understanding of
+intangible cultural heritage and helping to disseminate it better. In conclusion, this hypothesis suggests that a strong cultural identity is
+an important factor in the sustainable development of intangible cultural heritage and that promoting and reinforcing cultural identity
+can help to ensure the continued development and preservation of these cultural traditions.
+
+Fig. 2. Proposed research model.
+6
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+4. Method
+4.1. Questionnaire
+After establishing the model, data were collected through a survey questionnaire to examine the relationship between variables.
+The questionnaire was divided into two parts. The first part mainly aimed at collecting various types of information about the
+respondent and extant views on New Year Prints and AI art. The second part constituted the main body of the questionnaire, and this
+part was measured using the Likert 5-point scale. This is due to its suitability for capturing respondents’ perceptions and attitudes
+toward AI-generated New Year Print CCPs, perceived value, and cultural identity. One study by Sullivan and Artino discussed the
+effectiveness of Likert-type scales in measuring attitudes and opinions. The researchers argued that Likert scales provide a balanced
+range of response options, allowing individuals to express their degree of agreement or disagreement with statements effectively. The
+5-point scale, in particular, strikes a balance between granularity and simplicity, making it widely used in various research fields [66].
+The
+design
+of
+the
+questionnaire
+was
+based
+mainly
+on
+relevant
+literature
+studies.
+Attrac­
+tion–Interest–Participation–Action–Share—the questionnaire content design of these five dimensions is mainly modified and adjusted
+based on the research of Cheah et al. [67], Wei et al. [68], Javed et al. [18], and Xu et al. [69]. The measurement methods used in these
+articles are the AISAS model, and simultaneously, the model itself is discussed in depth. Perceived value theory is based on the research
+findings of Wang [50] and Guo [70], which involved optimizing the design of CCPs through perceived value theory. The measurement
+content of cultural identity theory is based on the research of Liu et al. [3], Zhou [58], and Wang et al. [63]. In their study, they
+discussed the development of cultural identity theory and its practice in current society. Finally, sustainability measurement state­
+ments for cultural heritage are based on Ma et al. [71], Vacchio et al. [72], and Wang et al. [19], particularly in Wang et al.’s study,
+which explored the relationship between cultural identity and intangible cultural heritage, and in his view, cultural identity is
+indispensable for the sustainable development of intangible cultural heritage. This provides great theoretical support for the research
+Table 1
+Statements of the questionnaire content.
+Latent Variables
+Attraction (ATT)
+
+Interest (INT)
+
+Participation (PAR)
+
+Action (ACT)
+
+Share (SHA)
+
+Perceived Value (PV)
+
+Cultural Identity (CI)
+
+Sustainability of ICH
+(SUS)
+
+Statements
+AI-generated art can catch my eye.
+AI-generated art applied to intangible cultural heritage will grab my attention.
+When I see an AI-generated New Year Prints artwork, I take some time to observe it.
+Using AI art to generate different styles of New Year Prints images can attract all my attention.
+I will be very interested when I see cultural and creative products generated by AI.
+When I see the use of AI-generated art for New Year Prints, I will be interested in related products of New Year Prints.
+The use of AI-generated art in cultural and creative products of New Year Prints makes me feel very innovative,
+evoking my interest in the cultural significance of New Year Prints.
+For AI products, I believe that I am willing to participate in the use of.
+If it is possible to interact with Ai, I am willing to try it.
+Participate in AI to generate different styles of New Year Prints images, I will be willing to learn about related New
+Year Prints products.
+After participating in AI to generate New Year Prints, I would like to learn more about culture and art related to New
+Year Prints.
+For cultural and creative products using AI to generate New Year Prints, I am willing to try to buy.
+After participating in the cultural and creative products of AI-generated New Year Prints, I am willing to buy the
+generated products at a suitable price.
+If the same product can meet my needs, I am more willing to buy my own New Year Prints generated by AI.
+After seeing the cultural and creative products of New Year Prints combined with AI, I will feel more interesting and
+would like to share them with my friends.
+After participating in the use of AI to generate New Year Prints art images, I will be willing to share the results I generated
+on social platforms.
+After purchasing and using AI-generated New Year Prints cultural and creative products, I will share my experience and
+give my comments.
+I believe that the New Year Prints cultural and creative products generated by AI have a very strong and attractive visual
+style.
+I believe that the New Year Prints cultural and creative products generated by AI are highly innovative and forwardlooking.
+I believe that the New Year Prints cultural and creative products generated by AI can give me emotional resonance, and at
+the same time can reflect the characteristics of youth.
+I believe that the cultural and creative products of AI New Year Prints have unique connotations.
+I can resonate emotionally when I use AI to generate cultural and creative products of New Year Prints.
+I think AI-generated New Year Prints have effectively promoted the intangible cultural heritage.
+I think that the cultural and creative products of New Year pictures generated by AI bridge the gap between traditional
+intangible cultural heritage and modern technology, and enable intangible cultural heritage to develop better in the
+present
+I think that the combination of AI and intangible cultural heritage can bring intangible cultural heritage back to the
+public view
+I think the combination of AI and intangible cultural heritage can reactivate intangible cultural heritage
+The integration of AI and intangible cultural heritage holds immense potential for fostering the sustainable development
+of cultural heritage in contemporary times, leading to a positive feedback loop.
+
+7
+
+Sources
+[ [67,68]]
+
+[18]
+
+[69]
+
+[[50,70]]
+
+[ [3,58,
+63]]
+
+[ [19,71,
+72]]
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+of this study. The specific questionnaire statements are shown in Table 1.
+Respondents provided ratings based on their personal feelings and experiences, with scores ranging from 1, strongly disagree, to 5,
+strongly agree. Before completing the questionnaire, AI-generated New Year Print CCPs were shown to the respondents, and the
+production process was explained so that they could clearly understand.
+To ensure the validity and reliability of the questionnaire, we conducted a pilot study. Fifty participants were selected randomly for
+this, and the internal consistency of the scale measurement was measured. Responses were collected through an online questionnaire.
+According to Thompson’s research, at least 30 participants are sufficient for a pilot study, as a sample of 30 participants is sufficient for
+testing musical instruments [73]. Additionally, other studies have suggested that a sample of 10–30 participants is sufficient for a pilot
+study [ [74,75]]. Van Belle recommended that at least 12 participants be considered for a pilot study [76]. Therefore, we used a sample
+of 50 participants in the pilot study, so the reliability of our questionnaire can be tested effectively, and this pilot study can be trusted.
+To assess the reliability of the scales, SPSS version 24 was used in this study. The internal consistency of the structure was evaluated
+using Cronbach’s alpha, which is a commonly used measure to determine the reliability of scales [77]. The relationship between the
+items and their corresponding conceptual scales was analyzed by calculating the corrected item–scale correlations and examining their
+impact on the value of Cronbach’s alpha. A maximum value of 1.0 for Cronbach’s alpha indicates the highest level of internal con­
+sistency, while values < 0.5 are generally considered poor, and values > 0.70 are favorable for ensuring data consistency [78].
+The reliability of all structures in this study has been confirmed, as indicated by the observed Cronbach’s alpha coefficients
+exceeding 0.70 and all items meeting the standard for Cronbach’s alpha. Table 2 provides a summary of the Cronbach’s alpha scores for
+the instrument scales.
+4.2. Data collection
+The population under investigation in this study is a young group aged 18–30, who have demonstrated relatively poor attention to
+traditional Chinese New Year Prints and are the group with the most serious cultural disconnection in previous studies. Simulta­
+neously, this age group is the main force and the group of most concern in terms of the consumption of CCPs [50]. Therefore, the data
+collected in this study mainly came from the audience group ages 18–30.
+Chinese New Year Prints are highly regionalized in terms of their types, which are categorized based on their places of origin.
+Currently, 19 varieties of Chinese New Year Prints in China are classified according to their production locations. Moreover, as the
+main influence of these prints is on the surrounding regions, their formation is strongly associated with the customs and traditions of
+the surrounding areas. Therefore, the geographic scope of this study is limited to Tianjin, a city located in northern China.
+The researchers deemed it appropriate to use accidental sampling method to select samples from the population of Tianjin, given its
+large population. Therefore, in this study, the accidental sampling method was employed as the method of choice. This approach is the
+simplest form of random sampling, where no distinction or restriction is placed on the survey population, ensuring equal chances for
+each potential respondent to be selected. Its most significant advantage is that it allows for the collection of sufficient data in a
+relatively short period, yields data that are representative of the general population, and allows for the generalizability of the data
+collected.
+The data collection for this study was conducted over four months from December 2020 to March 2023. The sample mainly
+consisted of young people aged 18–30 from Tianjin. To obtain authentic data, the Wenjuanxing software was set up to limit each
+respondent to only answer once, while enabling Internet Protocol Address tracking to exclude all non-Tianjin network IPs. To ensure
+data reliability, two questions were set in the questionnaire to identify the target respondents, the first being the age range, and the
+second being whether they had purchased CCPs. In the final data analysis, questionnaires that did not meet the age range and those
+who had not previously purchased CCPs were excluded. All potential respondents were promised confidentiality and anonymity.
+Herein, multiple methods were used, primarily using both online and offline methods. The online method involved the use of
+instant messaging software and social media platforms such as alumni groups of universities in Tianjin, and cooperating with selfmedia accounts in Tianjin to invite users to complete the questionnaire. The increasing popularity of online social media makes it
+suitable for building convenient sampling frameworks [79]. Instant messaging softwares including WeChat and Weibo have several
+users, while also being a network area where several target age group samples gather. By publishing an online questionnaire on
+platforms such as WeChat and Weibo using Wenjuanxing (an app for conducting surveys), the target audience can be accurately and
+quickly located. Additionally, some users may share information that will appear in aggregated content posted by other users. As a
+result, more users will be exposed to the same information [79].
+Table 2
+Cronbach’s alpha score of instrument scales.
+Variable
+
+No. of Items
+
+Cronbach’s Alpha
+
+Attraction (ATT)
+Interest (INT)
+Participation (PAR)
+Action (ACT)
+Share (SHA)
+Perceived Value (PV)
+Cultural Identity (CI)
+Sustainability of ICH (SUS)
+
+4
+3
+4
+3
+3
+3
+4
+3
+
+0.88
+0.90
+0.90
+0.89
+0.92
+0.90
+0.88
+0.95
+
+8
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+The offline questionnaire was distributed randomly in the Yangliuqing ancient town area in Tianjin and some tourist attractions.
+This method can target the intended demographics precisely, making it more efficient. Before completing the questionnaire, partic­
+ipants were introduced to the purpose of the survey.
+In the final data analysis, the questionnaires that did not meet the age range and those who had not purchased CCPs were excluded.
+Overall, 324 questionnaires were collected, and 291 questionnaires were included in the analysis after screening. The number of
+questions in this study’s questionnaire was 27, and Tinsley and Tinsley [80] suggested that the sample size should be five to ten times
+the number of questionnaire questions. Therefore, we believe that our sample size is sufficient to perform thorough analysis.
+4.3. Data analysis
+Herein, PLS analysis was performed. The PLS method is a component-based structural equation modeling technique that can be
+used to construct reflective measurement models, formative measurement models, and a combination of both, making it well suited for
+prediction and theoretical development. Hence, it is appropriate to use this technique to predict the impact of AI-generated New Year
+Print CCPs on the sustainable development of intangible cultural heritage in this study. The author used a trial version of SmartPLS 4.0
+to assess the validity and reliability of the questionnaire data and then tested the hypotheses based on a questionnaire administered to
+291 participants. Additionally, this study conducted a bootstrapping procedure with 5000 repetitions to perform a statistical signif­
+icance test of the study hypotheses.
+5. Results
+5.1. Sample characteristics
+The distribution of the samples retrieved in this study is relatively uniform, as shown in Table 3. After excluding the responses from
+individuals who have never purchased CCPs and excluding those from individuals who are younger than 18 years or older than 30
+years, there were a total of 324 questionnaires. According to Wang’s research, the age range of 18–30 years old is the main purchasing
+population and main consumer group for CCPs. Thus, this study focuses on this group [50]. Based on the level of understanding of
+traditional Chinese New Year Prints (measured on a 5-point scale), the score of 2.247 shows that the transmission of the culture of
+Chinese New Year Prints among the young population is weak, which is consistent with previous research, which has shown that the
+public’s attention to this aspect is relatively poor today. The number of individuals who have not purchased New Year Prints accounts
+for 82.8%, while 17.2% participants have bought such prints. Among those who have purchased prints, 64% participants were
+accompanied by older family members, 26% participants were purchased during travel, and 10% participants were purchased for
+festivals. It can be seen that the purchasing power of traditional Chinese New Year Prints is weak and the main purchasers are older
+individuals. The level of awareness of AI-generated art is 3.417, which indicates that most people have heard of or seen AI-generated
+art. The level of interest in AI-generated art is as high as 4.368, which reveals that the younger generation has a great interest in this
+new and fresh aspect of art, which could strongly attract the attention of young people.
+5.2. Measurement model
+The formative and reflective models were evaluated using PLS. The reliability of the measurement model was demonstrated using
+the values of Cronbach’s alpha (CA) for all items, where all values were >0.7. The convergent validity was tested using the three
+Table 3
+Participant characteristics (n = 291).
+Measure
+
+Items
+
+Frequency
+
+Percentage
+
+Gender
+
+Male
+Female
+18–24
+25–30
+High school and below
+Junior college
+Bachelor
+Masters or above
+1–3
+4–6
+>7
+2.247
+No
+Yes
+Accompanying family elders to purchase
+Purchase in travel
+Purchase during the festivals
+3.215
+4.368
+
+119
+172
+187
+104
+30
+82
+128
+51
+142
+103
+46
+
+40.9%
+59.1%
+64.3%
+35.7%
+10.3%
+28.2%
+44.0%
+17.5%
+48.8%
+35.4%
+15.8%
+
+241
+50
+32
+13
+5
+
+82.8%
+17.2%
+54%
+32%
+14%
+
+Age
+Education Level
+
+Purchase Frequency (per year)
+Level of understanding in New Year Prints
+Have you purchased New Year Prints products?
+Ways to purchase
+Level of awareness in AI art
+Level of interest in AI art
+
+9
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+methods presented by Hair et al. [81]. A composite reliability (CR) value > 0.7 reflects good item reliability; the factor loading of each
+item should be > 0.7 and be statistically significant; and average variance extracted (AVE) can be used to assess convergent validity,
+and its value should be ≥ 0.5. As shown in Table 4, all values for factor loading, CR, and AVE follow the above three principles,
+indicating acceptable convergent validity for the research construct. Furthermore, the discriminant validity of the measurement model
+was established. Table 5 demonstrates that the diagonal element represented by the square root of AVE is greater than the value of all
+correlation coefficients, indicating that all constructs have a stronger correlation with themselves than with other constructs.
+5.3. Structural model and hypothesis testing
+The hypotheses were evaluated after conducting 5000 bootstraps using SmartPLS. The explained variance of the inner structure can
+be used to assess the ability of the structural model. As shown in Fig. 3 and Table 6, the inclusion of R-squared, standardized path
+coefficients (β), and T values of inner structure supports, the validity of all hypotheses are supported. Attraction (β = 0.319; t = 5.617),
+Interest (β = 0.185; t = 3.058) and Participation (β = 0.387; t = 6.109) of AI-generated Yangliuqing New Year Print CCPs all have a
+direct positive effect on perceived value. Perceived value has a positive relationship with cultural identity (β = 0.308; t = 6.331). Both
+Purchase and Share of AI-generated Yangliuqing New Year Print CCPs are positively related to cultural identity (Purchase: β = 0.284; t
+= 8.94 and Share: β = 0.361; t = 7.487). Finally, cultural identity has a strong positive relationship with the sustainability of intangible
+cultural heritage (β = 0.781; t = 25.452). According to Chin’s research [82], the results also show that all factors can be trusted
+according to R-squared values (0.610–0.760).
+6. Discussion and conclusion
+6.1. Discussion based on the results of hypothesis testing
+Herein, through the discussion and quantitative research on the CCPs of New Year Prints generated by AI, the main purpose was to
+discuss whether it could engender the sustainability of intangible cultural heritage. Under the current social environment, most of the
+world’s intangible cultural heritage is facing a serious crisis in inheritance and protection. Many scholars discuss how to better inherit
+and protect intangible cultural heritage through various channels. For example, Tan et al. strengthened the connection between people
+and places via themed tourism to help the sustainability of intangible cultural heritage [83]; Massing proposed to change the standards
+for the protection of intangible cultural heritage, to include minority groups in the protection and to further focus on education and
+dissemination [84]. Deng et al. used AI to build a virtual reality platform for intangible cultural heritage to protect and promote it [52].
+However, they mostly proposed a solution and did not further verify the effectiveness of this solution in depth.
+This article is based on the use of AI to generate pop-art-style Yangliuqing New Year Print CCPs as proposed by Zhang et al. [2]. We
+Table 4
+Results of descriptive statistics and statistical tests.
+Construct
+
+Indicator
+
+loading
+
+CR
+
+AVE
+
+VIF
+
+Attraction
+
+ATT1
+ATT2
+ATT3
+ATT4
+INT1
+INT2
+INT3
+PAR1
+PAR2
+PAR3
+PAR4
+ACT1
+ACT2
+ACT3
+SHA1
+SHA2
+SHA3
+PV1
+PV2
+PV3
+CI1
+CI2
+CI3
+CI4
+SUS1
+SUS2
+SUS3
+
+0.796
+0.809
+0.822
+0.807
+0.823
+0.803
+0.815
+0.807
+0.774
+0.838
+0.808
+0.799
+0.835
+0.847
+0.823
+0.827
+0.83
+0.835
+0.83
+0.781
+0.803
+0.817
+0.803
+0.809
+0.842
+0.809
+0.809
+
+0.883
+
+0.654
+
+0.855
+
+0.662
+
+0.882
+
+0.652
+
+0.866
+
+0.684
+
+0.866
+
+0.683
+
+0.856
+
+0.665
+
+0.883
+
+0.653
+
+0.860
+
+0.672
+
+1.670
+1.709
+1.490
+1.783
+1.754
+1.486
+1.457
+1.513
+1.700
+1.905
+1.720
+1.493
+1.579
+1.672
+1.563
+1.552
+1.584
+1.564
+1.544
+1.412
+1.707
+1.777
+1.672
+1.732
+1.601
+1.496
+1.490
+
+Interest
+Participation
+
+Action
+Share
+Perceived Value
+Cultural Identity
+
+Sustainability of ICH
+
+Notes. N = 291; CR: composite reliability; AVE: average variance extracted.
+10
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+Table 5
+Descriptive statistics, correlations, and Cronbach’s alpha.
+INT
+SHA
+PAR
+SUS
+ATT
+PV
+CI
+ACT
+
+Mean
+
+SD
+
+CA
+
+INT
+
+SHA
+
+PAR
+
+SUS
+
+ATT
+
+PV
+
+CI
+
+ACT
+
+3.911
+3.701
+3.905
+4.022
+3.896
+3.896
+3.901
+3.943
+
+0.795
+0.629
+0.846
+0.825
+0.621
+0.607
+0.583
+0.729
+
+0.745
+0.768
+0.822
+0.756
+0.824
+0.748
+0.823
+0.769
+
+0.814
+0.772
+0.794
+0.744
+0.669
+0.738
+0.781
+0.771
+
+0.827
+0.713
+0.675
+0.574
+0.754
+0.610
+0.760
+
+0.807
+0.717
+0.719
+0.595
+0.706
+0.680
+
+0.82
+0.768
+0.772
+0.681
+0.770
+
+0.809
+0.779
+0.700
+0.690
+
+0.816
+0.792
+0.743
+
+0.808
+0.688
+
+0.827
+
+Notes. N = 291; the p value of all correlations is < 0.05. SD: standard deviation; CA: Cronbach’s alpha.
+
+Fig. 3. Results of hypotheses testing. ***p < 0.001; **p < 0.01; *p < 0.05. Numbers presented in the parentheses are the t values.
+Table 6
+Significance of direct effects-path coefficients.
+Path
+
+β Values
+
+SE
+
+T Values
+
+P Values
+
+Result
+
+ACT - > CI
+ATT - > PV
+CI - > SUS
+INT - > PV
+PAR - > PV
+SHA - > CI
+PV - > CI
+
+0.284
+0.319
+0.781
+0.185
+0.387
+0.361
+0.308
+
+0.045
+0.058
+0.031
+0.060
+0.062
+0.048
+0.046
+
+6.371
+5.526
+25.540
+3.095
+6.198
+7.495
+6.649
+
+***
+***
+***
+**
+***
+***
+***
+
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+
+Notes. N = 291; **p < 0.01, ***p < 0.001; SE: Standard Error.
+
+used the AISAS model to measure further through quantitative means to obtain more accurate data to prove its effectiveness for the
+sustainability of intangible cultural heritage. Perceived value theory and cultural identity were introduced into the framework of the
+whole model to assist in measurement. In the research of Wang and Guo, we can understand the importance of perceived value in CCPs
+[ [50,70]]. Only when users perceive their value will they purchase and share further. Therefore, this paper contends that the di­
+mensions of attraction, interest, and participation in the AISAS model have a positive impact on perceived value. The findings of this
+study indicate a positive correlation between the public’s perception of the value of AI-generated CCPs such as New Year Prints and
+their level of attraction, interest, and participation. This suggests that using AI in generating art incorporating intangible cultural
+heritage is a viable avenue for preserving and developing these cultural assets. By creating rich artistic expressions and imaginative
+presentations, intangible cultural heritage can be brought to the forefront, inspiring greater interest and involvement from the public.
+For example, with the help of innovative CCPs, the Palace Museum quickly opened up the market among young user groups through
+novel forms and fun and won the hearts of young people. Therefore, for traditional culture and intangible cultural heritage facing other
+difficulties, the results of this study can be referred to, and the corresponding methods can be used to increase attractiveness, stimulate
+user interest, let users participate in it, and let users publicize and promote it.
+Additionally, the research highlights the positive impact of users‘ purchases and shares on cultural identity. In their 2021 study,
+Wang et al. [63] pointed out that by establishing cultural identity through the fusion of intangible cultural heritage and brand values,
+the esthetic and cultural value of the products can be reflected, while also increasing recognition of and pride in intangible cultural
+11
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+heritage. By participating in the purchase and sharing of AI-generated New Year Print CCPs, individuals can strengthen their shared
+cultural identity and increase their confidence in national culture.
+Finally, the study proves that the perceived value of AI-generated CCPs, such as New Year Prints, is positively correlated with
+cultural identity, which positively impacts the sustainable development of intangible cultural heritage. This highlights the importance
+of using AI to generate CCPs that not only promote the preservation of intangible cultural heritage but also convey its cultural and
+sustainable value to users. Overall, this research represents a new and exciting direction for the study of intangible cultural heritage.
+This study provides a new research direction and an idea for interdisciplinary research on intangible cultural heritage. According to
+the previous discussion, the current interdisciplinary research on AI and intangible heritage is mainly applied to intangible cultural
+heritage through AI such as the construction of data sets [71], image restoration [85], and image style generation [ [4,85,86]].
+However, whether the final result is beneficial to intangible cultural heritage, whether it can be better inherited and promoted,
+whether it has a certain value, and whether it can stimulate the sustainable development of intangible cultural heritage have not been
+discussed previously. Therefore, this article provides a research model for these fields. The model proposed in this article can be used to
+conduct quantitative research on the application of AI to intangible cultural heritage, to evaluate the value of this project. This is
+critical to the interdisciplinary research of AI and intangible cultural heritage, and it also underpins the significance of this article.
+6.2. Conclusion and implications
+This study used the AISAS model to test the sustainable impact of AI-generated New Year Print CCPs on intangible cultural heritage,
+and the final result is acceptable. First of all, from previous research, we can understand that factors such as social change and eco­
+nomic development have caused the traditional culture to face many difficulties, and it is difficult to rejuvenate in contemporary
+society. Based on this, researchers try to stimulate intangible cultural heritage through AI-generated art. Second, the five character­
+istics of the AISAS model are associated with perceived value and cultural identity to measure the impact on sustainable cultural
+development. The results show that the attractiveness, interest, and participation of AI-generated New Year Print CCPs have a sig­
+nificant positive relationship with users’ perceived value. Users’ purchase and sharing are positively correlated with cultural identity.
+Perceived value is positively related to cultural sustainable development to cultural identity. In conclusion, this research provides
+evidence that using AI to address the challenges faced by intangible cultural heritage is feasible and could serve as a reference for the
+sustainable development of other examples of intangible cultural heritage facing similar difficulties.
+In addition, this study provides a theoretical contribution. First, this study expands the AISAS model and applies it to the field of
+CCPs of intangible cultural heritage. Although the AISAS model originated in the field of advertising marketing, its essence is a
+behavioral model [46]. The AISAS model offers unique advantages for the sustainable development of intangible cultural heritage, as
+outlined below: 1. Comprehensive Coverage: The AISAS model possesses the unique advantage of comprehensively covering the entire
+process of consumer purchase. As AI-generated New Year Print CCPs essentially function as commodities, users need to engage in
+purchase behavior to foster cultural identity and contribute to the sustainable development of intangible cultural heritage. The AISAS
+model recognizes the significance of user purchase behavior in achieving these goals. 2. Comprehensive Content Dimension: Another
+distinct advantage of the AISAS model is its comprehensive content dimension. This model enables the measurement of various factors
+associated with the use of AI-generated New Year Print CCPs, encompassing dimensions such as product, personal, and social factors.
+By considering these multiple dimensions, the AISAS model provides a holistic understanding of the factors influencing the use and
+impact of these products. 3. Exploratory Nature: The AISAS model is particularly suitable for exploring the influencing factors of
+cultural sustainable development, which have not yet been studied extensively using appropriate models. The exploratory nature of
+this approach allows researchers to delve into the unique aspects of cultural sustainable development, shedding light on previously
+unexplored factors and relationships. By employing the AISAS model, researchers can advance their understanding of how cultural
+sustainability can be promoted effectively. In summary, the AISAS model offers unique advantages for the sustainable development of
+intangible cultural heritage. Its comprehensive coverage, comprehensive content dimension, and exploratory nature contribute to a
+more comprehensive understanding of the factors that influence the use and impact of AI-generated New Year Print CCPs.
+Second, this study applies cultural identity to sustainable development research of intangible cultural heritage. Recently, research
+on cultural identity has focused more on the field of crosscultural research and relatively less on the study of intangible cultural
+heritage. Due to the common characteristics of intangible cultural heritage and cultural identity, it has developed dynamically over
+time. Therefore, intangible cultural heritage is a culture that is passed down by people for a long time and can confirm and maintain
+cultural identity. Simultaneously, it is an artistic culture or a cultured way of life that we are constantly revitalizing and actively
+inheriting to show our national cultural identity. By examining the inheritance and development of intangible cultural heritage
+through the lens of cultural identity, the study aims to ensure its sustainability. The essence is not only to make intangible cultural
+heritage represent traditional values but also to be reinvigorated today as the reproduction of the value of the current era, and continue
+to gain value in the future.
+Finally, this research provides a new perspective on the innovation of other aspects of intangible cultural heritage. Recently, the
+content of other nonmaterial cultural innovations is more that different designers innovate according to their content or symbols.
+Relatively speaking, it is narrow, personal, and unstable, and it is difficult for the public to participate in and gain new experiences.
+This is a drawback; however, AI models are advantageous in terms of stability, interactivity, and innovation. Furthermore, AI is an
+attention-grabbing topic at present, from AlphaGo to AI-generated art, to ChatGPT, these topics have hit the headlines of various media
+and attracted the attention of a large number of young people. Therefore, combining intangible cultural heritage with AI is also
+attractive to users in terms of topic. In addition, AI has already participated in all aspects of human life, and it is also one of the
+indispensable directions for future development.
+12
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+In conclusion, this research is a novel approach. First, a new structure is proposed based on the AISAS model to measure the impact
+of AI products on the sustainability of intangible cultural heritage. The final result is seen to be positive and effective. It can be used to
+prove the value of interdisciplinary research products of AI and intangible cultural heritage and provide a reference and theoretical
+support for other research in this field. Second, it is also a new research field in intangible cultural heritage. It confirms the possibility
+of AI innovation in the field of intangible cultural heritage, which is more in line with the social environment of the current era. It
+proves that the innovative application of AI contributes to the protection, revival, and sustainable value creation of intangible cultural
+heritage.
+6.3. Limitations and future research
+This study also has certain limitations. Due to limited time and resources, the sample size is small and the sample region is limited.
+Currently, 19 types of New Year Prints have been identified in China. Research on New Year Prints in different regions and samples
+from different regions may present different characteristics. In the future, it will be possible to integrate New Year Print products from
+different regions for comparison and study the cultural background and sample characteristics of different regions to explore their
+differences. Simultaneously, the scope of the research and the sample selection can be extended to areas with no New Year Print
+production, and we can observe the different results produced by samples in different areas.
+This method can also improve the credibility of the overall research. In addition, previous studies have proved that the theories of
+perceived value and cultural identity are undoubtedly suitable for the study of CCPs of intangible cultural heritage [ [19,50,58,87]]. In
+this study, the content of perceived value measurement is limited, and whether it is possible to predict the sustainable development of
+intangible cultural heritage through theories other than that of cultural identity is an additional issue that needs to be refined in further
+research. We can consider adding more detailed perceived value theory measurements and introducing other theories to test them
+further.
+In addition, the generalizability and external validity of the model may have some limitations, the reason being that the findings of
+this study may be limited in their generalizability due to factors such as the specific context and sample used. The study focuses on AIgenerated New Year Print CCPs, and the results may not be directly applicable to other forms of intangible cultural heritage combined
+with AI. In addition, the study’s findings may be influenced by the specific cultural, social, and economic contexts, in which the
+research was conducted. The results may not be directly transferable to other cultural contexts or regions. Replication studies in
+different settings would be beneficial to enhance the external validity of the findings.
+Meanwhile, in future research, the researchers will continue to explore the combination of AI-generated art and intangible cultural
+heritage and investigate more possibilities for the sustainable development of intangible cultural heritage. Examples of this are using
+AI to promote intangible cultural heritage education, create a virtual reality platform, and assist in the analysis of cultural identity
+expressions, cultural emotions, and cultural dynamics in intangible cultural heritage. Simultaneously, we must always pay attention to
+copyright issues and ethical issues related to AI in the follow-up research, and explore more possibilities for the sustainable devel­
+opment of intangible cultural heritage.
+Funding
+This research was funded by Inner Mongolia University of Science & Technology, China crosswise tasks Technical report on pilot
+run by oxygen enriched Inclined side-blown (Grant No. 205/0904051908).
+Author contribution statement
+Bolun Zhang: Conceived and designed the experiments; Performed the experiments; Analyzed and interpreted the data; Contrib­
+uted reagents, materials, analysis tools or data; Wrote the paper.
+Peng Cheng: Analyzed and interpreted the data.
+Lujie Deng: Analyzed and interpreted the data.
+Nurul Hanim Romainoor: Conceived and designed the experiments.
+Jianhong Han: Contributed reagents, materials, analysis tools or data.
+Guoshuai Luo: Contributed reagents, materials, analysis tools or data.
+Tianbo Gao: Performed the experiments.
+Data availability statement
+Data will be made available on request.
+Ethics approval
+All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional
+research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards. The ethics
+approval number is 2023–29, ethics committee is Medical Ethics Committee of Tianjin Anding Hospital (Tianjin Mental Health
+Centre).
+13
+
+Heliyon 9 (2023) e20477
+
+B. Zhang et al.
+
+Informed consent
+Informed consent was obtained from all individual participants included in the study. All participants gave informed written
+consent. The institution’s ethics committee also gave permission to conduct the research.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to
+influence the work reported in this paper.
+Acknowledgements
+We thank all those who assisted us in completing the paper.
+’This item belongs to the item group IG000079’.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.heliyon.2023.e20477.
+
+
+

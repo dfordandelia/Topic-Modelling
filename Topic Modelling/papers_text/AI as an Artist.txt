@@ -1,0 +1,1057 @@
+Artificial intelligence (AI) technologies have developed rapidly, and generative AI in particular
+challenges human creativity. Therefore, people’s perspectives about this transformative change
+involving creativity and art must be examined. We investigated attitudes toward using AI in art
+from the perspective of self-determination theory. We used data from a two-wave survey of
+Finnish respondents aged 18–80 years (n = 828) to analyze within- and between-person effects
+using hybrid multilevel regression modelling. We measured positive attitudes toward using AI in
+(a) the art and culture field in general, (b) music, (c) visual arts, (d) detecting forged art, and (e)
+creating art. The main independent variables were the basic psychological needs (perceived
+relatedness, autonomy, and competence) in using new technologies. The results showed that
+participants were less positive toward using AI in the art and culture field in general compared to
+many other fields, such as medicine and building and real estate technology. Stronger relatedness
+had within- and between-person effects on positive attitudes on using AI in the art and culture
+field in general, as well as in music, visual arts, and creating art. Stronger autonomy had withinand between-person effects on positive attitudes on using AI in detecting forged art and creating
+art. The results indicate that human needs for relatedness and autonomy are important in atti­
+tudes toward using AI in art. Hence, positive personal experiences with the use of new technology
+are likely to affect how people perceive the introduction of AI to the art field, which has been
+considered the last human frontier in the technological world.
+
+Artificial intelligence (AI) is constantly evolving and creating new opportunities across various fields, including art and culture. AI
+can be used in creative processes, analyses of artistic works, and productions of art, and to enhance artistic events and performances in
+ways that were previously impossible (Allal-Chérif, 2022; Casacuberta, 2004; Cetinic & She, 2022; Duan et al., 2021; Meany & Clark,
+2012; Starkey et al., 2020; Zohar & Shimshoni, 2021). Although the art field has long discussed AI, generative AI tools have started to
+change human perception of what AI can do. We are currently in the middle of a major AI transformation where it is increasingly more
+difficult to distinguish between human-made and AI-made art (Oksanen et al., 2023).
+AI-made art is controversial and raises questions about whether AI can be considered equal to a human artist (Browne, 2022; Hong
+& Curran, 2019). Creativity and uniqueness are often regarded as fundamental aspects of the art and culture field, with creativity
+commonly seen as an exclusively human trait (Shao et al., 2019). Some fear that AI may eventually replace human artists and that the
+art products AI produces may be of higher creativity, quality, and productivity (Hong & Curran, 2019; Tubadji et al., 2021). Analyzing
+
+* Corresponding author. MSocSci, Tampere University, Kalevantie 4, 33100 Tampere Finland
+E-mail address: rita.latikka@tuni.fi (R. Latikka).
+https://doi.org/10.1016/j.poetic.2023.101839
+Received 19 June 2023; Received in revised form 3 October 2023; Accepted 9 October 2023
+Available online 2 November 2023
+0304-422X/© 2023 The Author(s).
+Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+people’s images of AI and attitudes toward using AI in art is important because it helps understand to what extent and how AI is likely
+to affect the art and culture field.
+This is among the first longitudinal population studies to investigate perceptions of AI in art. In our analysis, we first compared
+attitudes toward AI in the art and culture field to other fields. Then, we investigated predictors of positive attitudes toward using AI in
+(a) the art and culture field in general, (b) music, (c) visual arts, (d) detecting forged art, and (e) creating art. The final part of the
+analysis focused on participants’ perceptions of AI created art through a word cloud made from open-field answers. Our study was
+grounded theoretically in self-determination theory (SDT) and its basic psychological needs of autonomy, competence, and relatedness
+(Ryan & Deci, 2017). We also consider a wide range of sociodemographic and other individual factors in our longitudinal analyses.
+1. Attitudes Toward AI in Art
+Attitudes are general assessments of attitude objects that can vary in terms of their strength and valence (Maio et al., 2018, p. 27).
+Even in cases where individuals are unfamiliar with the realistic attitude object, they tend to form attitudes, with affective information
+(i.e., how people feel about it) playing a crucial role in such instances (van Giesen et al., 2015). Attitudes toward AI are also closely
+linked to people’s acceptance and behavioral intentions regarding the use of AI in their daily lives (Kelly et al., 2023). Moreover,
+investigating attitudes toward AI in the art field enables analyzing how people feel about this phenomenon in a field that has long
+traditions.
+Attitudes toward AI tend to vary greatly and likely differ from the traditional acceptance of technologies (Park & Woo, 2022;
+Schepman & Rodway, 2020, 2022). Given that governments and large corporations play a pivotal role in deciding on the imple­
+mentation of AI, attitudes toward AI are influenced by the reduced power to discard or adopt AI compared to the greater power
+involved in deciding to adopt technologies that are more traditional (Schepman & Rodway, 2022). However, attitudes toward AI vary
+depending on the context and its specific applications (Schepman & Rodway, 2020). For example, perceptions of AI can be more
+positive regarding applications involving big data or other easily automated simple tasks compared to applications involving some
+aspect of human judgment and more complex tasks (Ingrams et al., 2022; Schepman & Rodway, 2020).
+Research has also demonstrated individual differences in attitudes toward AI. Extroverts, older individuals, and women reported
+less positive attitudes toward AI, whereas those with greater computer experience and higher use of computers reported more positive
+attitudes toward AI (Kaya et al., 2022; Neudert et al., 2020; Schepman & Rodway, 2022). Openness to experiences, higher education,
+higher income, and daily use of smart technologies have also been associated with more positive attitudes toward AI (Bergdahl et al.,
+2023). Higher income has been linked with greater access to and use of AI devices that likely influence perceptual understandings of AI
+(Park et al., 2022). Constantly evolving representations of and information about AI have also been suggested as influences on attitudes
+toward AI (Park & Woo, 2022), making it intriguing to study AI attitudes over time with data collected from the same participants at
+more than one timepoint.
+Evidence has been gathered specifically regarding perceptions of AI in the art realm. Studies have focused on the extent to which
+participants have identified AI-generated art and distinguished it from human-made art (e.g., Gangadharbatla, 2021; Schubert et al.,
+2017), whereas other studies have delved deeper into perceptions of AI-generated art and the factors that influence the perceptions of
+the AI system or the art it generates (e.g., Bellaiche et al., 2023; Hong & Curran, 2019; Hong et al., 2021, 2022; Jansen & Sklar, 2021;
+Lima et al., 2021; Tubadji et al., 2021; Wu et al., 2020). In general, evidence from these studies points toward people not always being
+able to recognize AI-generated art or to differentiate it from human-generated art and toward people tending to value human-made art
+over AI alternatives, although not in call cases. For instance, the perception of AI-generated content varies across societies (Wu et al.,
+2020). One study found that negative perceptions of AI creating art were linked with less favorable evaluations of the artwork when
+participants believed the images were AI generated (Hong & Curran, 2019). Bellaiche et al. (2023) highlighted the importance of
+labeling (AI- vs. human-created art) and found that when people learned about human engagement in the artistic process, they had
+more positive appraisals of the art.
+2. Self-Determination Theory and Attitudes Toward Technology Use
+SDT provides a valuable yet underutilized theoretical framework for analyzing attitudes toward using AI in art from the basic
+human psychological needs perspective. SDT is a theory of human development, wellness, and motivation that is grounded in decades
+of empirical research, and it was initially introduced by Deci and Ryan (1985). According to SDT, the driving force within an individual
+is an innate motivation that emerges from fulfilling three psychological needs: autonomy, competence, and relatedness (Ryan & Deci,
+2017). Autonomy pertains to an individual’s need to experience volition and willingness in their actions and behaviors. Competence
+represents the need to experience capability and effectiveness in relation to one’s choices and actions. Relatedness reflects the need to
+experience care and connection with others. These psychological needs are argued to be innate and universal, and thus, they apply
+across groups of people and their satisfaction and frustration to explain a broad variety of phenomena (Vansteenkiste et al., 2020). SDT
+postulates that when these three basic psychological needs are met, individuals experience satisfaction and their intrinsic motivation
+and well-being are enhanced (Ryan & Deci, 2017). The SDT framework has been applied in various fields, including technology.
+Other theoretical models that have previously been used to explain human acceptance and adoption of technologies generally
+support SDT principles. For instance, the theory of reasoned action (Ajzen & Fishbein, 1980) and the theory of planned behavior
+(Ajzen, 1991) assume that certain psychological factors influence an individual’s behavioral intentions and actual behavior. These
+theories have been the background for the commonly used technology acceptance model (Davis, 1989) and its extensions (e.g.,
+Venkatesh & Davis, 2000; Venkatesh et al., 2003). The model and its extensions include constructs that are similar to yet distinct from
+2
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+SDT’s basic psychological needs, such as the perceived ease of use, perceived usefulness, and perceived behavioral control.
+Researchers have also begun to integrate the basic psychological needs with the traditional technology acceptance models (e.g.,
+Alowayr & Al-Azawei, 2021; Fathali & Okada, 2018; Moradbakhti et al., 2022; Nikou & Economides, 2017; Lee et al., 2015). For
+instance, Nikou and Economides (2017) found that perceived autonomy, relatedness, and competence in technology use were asso­
+ciated with the perceived ease of using technology. Perceived autonomy and relatedness were also related to perceived usefulness of
+technology and willingness to use it. Other studies have reported similar results (e.g., Fathali & Okada, 2018; Şahin & Şahin, 2022).
+Studies within the past few years on the relationship between the basic psychological needs and attitudes toward technology can be
+found in experimental research related to AI chatbots. For example, in Moradbakhti et al. (2022) research on AI-based personal
+banking assistants, the fulfillment of autonomy, competence, and relatedness was associated with the intention to use these tech­
+nologies. Similar results were also obtained by Jiménez-Barreto et al. (2021), who observed that experienced high self-determination
+positively influenced user satisfaction, customer experience, and attitudes toward a chatbot. Furthermore, satisfaction of autonomy,
+competence, and relatedness in the use of AI has related to both directions of emotional attitudes toward AI on a correlational level
+(Park & Woo, 2022). SDT and its basic psychological needs are an appropriate framework for understanding people’s perceptions on
+using new technologies such as AI (Gagné et al., 2022; Peters et al., 2018). In a paper reporting cross-national and longitudinal studies
+investigating the attitudes toward AI and SDT dimensions, the basic psychological needs emerged as explanatory factors for positive
+and negative attitudes toward AI when considering control variables (Bergdahl et al., 2023).
+3. This Study
+Currently, there is limited longitudinal research on attitudes toward AI in art and the social psychological factors that predict the
+attitudes. Our study aims to address this research gap by examining perceptions of AI in art using a two-wave survey and applying SDT
+as a theoretical framework (Ryan & Deci, 2017) to explain positive attitudes toward using AI in art over time. We focused on the basic
+psychological needs of autonomy, competence, and relatedness via new technologies because fulfilling the needs is central for intrinsic
+motivation and well-being (Ryan & Deci, 2017). Furthermore, previous empirical studies have demonstrated a link between fulfilling
+the basic psychological needs in technology use and more positive attitudes toward AI (Bergdahl et al., 2023; Jiménez-Barreto et al.,
+2021; Park & Woo, 2022). Following these lines of theory and empirical evidence, we hypothesize that fulfilling these three basic
+psychological needs, in relation to beliefs about technology, is linked to attitudes toward using AI that are more positive, also within
+the art realm.
+Hypothesis 1: Greater perceived relatedness in the use of new technologies is connected to more positive attitudes toward using AI
+in the context of art.
+Hypothesis 2. Greater perceived autonomy in the use of new technologies is connected to more positive attitudes toward using AI in
+the context of art.
+Hypothesis 3. Greater perceived competence in the use of new technologies is connected to more positive attitudes toward using AI
+in the context of art.
+4. Materials and Methods
+4.1. Participants and Procedure
+We used data from a two-wave online AI in society survey, focusing on the topic of AI in art in the present study. The survey is part
+of a larger research project on AI in art and society. The survey asked participants about their attitudes toward AI, use of technology in
+general, cultural activities, sociodemographic factors, and several individual and psychological measures. The first measurement point
+was from May to June 2021 (Time 1 [T1]: N = 1,226) and the second wave was collected from May to June 2022 (T2: n = 828). The
+response rate at T1 was 30.81%, and 67.55% of those respondents answered the survey at T2. The mean response time for the survey
+was 16.1 min at T1 and 17.1 min at T2.
+The surveys targeted Finnish adults aged 18–80 years and Norstat Finland recruited the study participants from its online panel.
+The first sample was balanced to represent the target population regarding age and gender (Mage = 48.43, SD = 17.33; 50.08% female),
+and these distributions remained similar at T2 (Mage = 51.30, SD = 16.66; 50.36% female). The data used in this study include
+measures and observations relevant for investigating attitudes toward AI in art from participants who answered both surveys (n =
+828).
+We informed the respondents about the research aims and their right to quit the survey at any point as well as provided them with a
+link to the privacy notice and contact information for the project. In the final data set, we only included answers from respondents who
+filled out the entire survey. Before the data collection, the Academic Ethics Committee of Tampere region in Finland confirmed the
+research protocol was ethically sound. We conducted quality-check analyses (e.g., patterned responses and attention checks) for the
+data set using the protocol of the research lab before conducting the analyses.
+4.2. Measures
+We used five dependent variables in this study to measure positive attitudes toward using AI in (a) the art and culture field in
+general, (b) music, (c) visual arts, (d) detecting forged art, and (e) creating art. The study’s main independent variables were perceived
+autonomy, competence, and relatedness in the use of new technologies; weekly use of smart technologies; monthly gross income; and
+3
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+employment status. Control variables were age, gender, education, openness to experiences, extraversion, art hobbies, and owning a
+museum card.
+Positive attitudes toward using AI in the art and culture field in general were measured with a question: “How positively do you
+perceive use of AI in the following fields?” The respondents indicated their answers to the culture and art item on a scale from 1 (not at
+all positively) to 7 (very positively). For descriptive analysis, we also gathered descriptive information of other fields measured in the
+survey with the same question: medicine, care work, teaching and education, traffic, urban planning, building and real estate tech­
+nology, defense forces, information security, job recruitment, dating services, and political decision-making to compare them with the
+art and culture field first with a sum variable combining all other fields (T1 ω = .90, T2 ω = .89), and then each field separately.
+Positive attitudes toward using AI in music was measured with four questions modified from the Threats of Artificial Intelligence
+Scale, which considers four AI functionalities: recognition, prediction, recommendation, and decision-making (Kieslich et al., 2021).
+Respondents were asked: “When you think about the use of AI in music, how positively do you feel about whether AI (a) detects your
+favorite music, (b) forecasts the evolution of your preferred music, (c) recommends listening to songs and artists, and (d) selects the
+songs and artists to listen to.” The participants gave their answers on a scale from 1 (not at all positively) to 7 (very positively). We created
+sum variables with values from 1 to 7 showing ω coefficients .92 (T1) and .91 (T2).
+Positive attitudes toward using AI in visual arts was measured with four questions modified from the Threats of Artificial Intel­
+ligence Scale (Kieslich et al., 2021). The respondents were asked: “When you think about the use of AI in visual arts, how positively do
+you feel about whether AI (a) detects your favorite visual art, (b) forecasts the evolution of your preferred visual art, (c) recommends
+visual art according to your taste, and (d) selects visual art according to your taste.” The participants marked their answers on a scale
+from 1 (not at all positively) to 7 (very positively). We created sum variables with values from 1 to 7 showing ω coefficients .94 (T1) and
+.95 (T2).
+Positive attitudes toward using AI in detecting forged art was measured with statements with the following introduction: “AI can
+become part of the art field in different ways in the future. Rate how positively you perceive the following future scenarios.” The
+statements were, “AI detects copied art” and “AI detects forged art.” The participants indicated their answers on a scale from 1 (not at
+all positively) to 7 (very positively). We created two-item sum variables with values from 1 to 7 showing correlations between the items r
+= .88 (T1) and r = .86 (T2).
+Positive attitudes toward using AI in creating art was measured with statements with the following introduction: “AI can become
+part of the art field in different ways in the future. Rate how positively you perceive the following future scenarios.” The statements
+were, “AI creates art independently” and “AI creates art together with a human.” The participants indicated their answers on a scale
+from 1 (not at all positively) to 7 (very positively). We created two-item sum variables with values from 1 to 7 showing correlation
+between the items r = .69 (T1) and r = .71 (T2).
+Autonomy, competence, and relatedness in the use of new technologies were measured with three-item scales used in previous
+research (Bergdahl et al., 2023). Participants reflected their agreement with statements on a scale from 1 (totally disagree) to 7 (totally
+agree). In total, three statements measured autonomy (e.g., “I feel I have the ability to influence how I use new technologies”), three
+statements measured competence (e.g., “Other people tell me I am good at using new technologies”), and three statements measured
+relatedness (e.g., “New technologies give me more opportunities to interact with others”). We created a sum variable for each
+dimension (autonomy, competence, and relatedness) with possible values from 3 to 21. Omega coefficients were .81 (T1) and .81 (T2)
+for autonomy, .83 (T1) and .83 (T2) for competence, and .87 (T1) and .88 (T2) for relatedness.
+Weekly smart technology use was measured with a question: “How often do you use the following technologies?” The listed options
+were, “a smart home system (e.g., smart lighting); immobile smart home appliance or other appliance (e.g., smart TV); mobile robot or
+another smart device (e.g., robot vacuum cleaner, robot lawn mower, assistance robot); virtual assistant via smart speaker, computer,
+or a phone app (e.g., Siri, Alexa); and wearable smart technology (e.g., smart watch, smart ring).” Participants gave their responses on
+a scale from 0 to 4 (0 = never, 1 = less than weekly, 2 = weekly, 3 = daily, 4 = many times a day). We created dummy variables to indicate
+respondents who used at least one of the technologies weekly (0 = less than weekly or no use, 1 = at least weekly).
+Openness to experiences and extraversion personality traits were measured using items from the Big Five Inventory (Hahn et al.,
+2012). Both personality traits have been associated with positive attitudes toward AI in previous research (Bergdahl et al., 2023; Kaya
+et al., 2022; Schepman & Rodway, 2022). Participants gave their answers to the three statements for both dimensions on a scale from 1
+(does not describe me at all) to 7 (describes me completely). For the analysis, we created a sum variable for both personality traits with
+possible values from 3 to 21. Omega coefficients were .88 for extraversion and .75 for openness. Extraversion was measured at T1, and
+openness was measured at T2.
+Art hobbies were measured with four statements: “I listen to a lot of music,” “I often go to music events,” “I am interested in visual
+arts,” and “I often go to art exhibitions.” The participants indicated their agreement with statements on a scale from 1 (does not describe
+me at all) to 7 (describes me completely). We coded a sum variable with possible values from 4 to 28 showing ω coefficient .71 at T2.
+Sociodemographic variables included age in years, gender, education (0 = no college or university degree, 1 = college or university
+degree), monthly gross income on a scale from 1 to 8 (1 = below 1,000€ , 8 = at least 7,000€ ), employment status (0 = not working, 1 =
+working), and ownership of a museum card (0 = does not own museum card, 1 = owns museum card). Sociodemographic information was
+measured at T1 and owning a museum card was measured at T2.
+All five dependent variables measuring positive attitudes toward using AI in art; autonomy, competence, and relatedness in the use
+of technologies; monthly gross income; and employment status were time-variant variables, whereas the rest were time-invariant
+variables.
+A word cloud related to art AI makes was created using survey participants’ answers to the question, “Which three words would you
+use to describe art AI makes?” Participants were given three open-answer fields. We used Google Translator to translate answers to
+4
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+English. Two authors went through the list manually to guarantee the accuracy of the translations.
+4.3. Statistical Techniques
+We conducted a pairwise comparison t test to analyze descriptively the differences between the art and culture field and other
+fields. We conducted the main analyses using linear multilevel hybrid models that used the xthybrid command in Stata (Schunck &
+Perales, 2017). Hybrid models allow simultaneous estimations of within-person effects and between-person effects. Within-person
+effects reflect changes over time within individuals, and between-person effects reflect differences between individuals. We report
+regression coefficients (B), their robust standard errors (SE), and p values for statistical significance. We conducted the statistical
+analyses using Stata 17 software, and we created the word cloud with LIWC-22 software. We used the LIWC-22 software’s internal stop
+list for English language to exclude words and symbols irrelevant to meaningful interpretation. Finally, we set the emphasis on fre­
+quency differences to 4 (from options of 1–5) and included 100 words that appeared more than three times in the visualization.
+5. Results
+Table 1 reports a descriptive overview of study variables. Appendix Table A1 presents a correlation matrix of all study variables
+used in the models. According to the results of the t test, participants had significantly more positive attitudes toward using AI in other
+fields (T1: M = 4.08, SD = 1.20; T2: M = 4.15, SD = 1.14) compared to the art and culture field at T1, t(827) = − 12.80, p < .001, and at
+T2, t(827) = − 11.68, p < .001. Comparisons between the means of positive attitudes toward using AI in art and culture and other fields
+separately in both time points showed that positive attitudes toward using AI in medicine, building and real estate technology, in­
+formation security, traffic, urban planning, defense forces, teaching and education, care work, dating services, and political decisionmaking were significantly different from positive attitudes toward using AI in art and culture (p < .05), whereas no significant dif­
+ference was found between job recruitment and the art and culture field (p > .05). Political decision-making was the only one with less
+positive attitudes toward using AI compared to art and culture field.
+Table 1
+Descriptive Overview of All Study Variables.
+T1
+
+T2
+
+Continuous variables
+
+Range
+
+M
+
+SD
+
+M
+
+SD
+
+Within-person
+differences, SD
+
+Positive attitudes toward using AI in…
+culture and art field
+medicine
+building and real estate technology
+information security
+traffic
+urban planning
+defense forces
+teaching and education
+care work
+dating services
+job recruitment
+political decision-making
+music
+visual arts
+detecting forged art
+creating art
+Autonomy via new technologies
+Competence via new technologies
+Relatedness via new technologies
+Age
+Income level
+Extraversion
+Openness
+Art hobbies
+
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+1–7
+3–21
+3–21
+3–21
+19–80
+1–8
+3–21
+3–21
+4–28
+
+3.41
+5.06
+4.93
+4.61
+4.53
+4.35
+4.03
+3.98
+3.75
+3.55
+3.31
+2.75
+3.86
+3.43
+5.55
+3.55
+12.74
+11.82
+9.97
+50.30
+3.11
+13.60
+
+1.68
+1.67
+1.51
+1.78
+1.67
+1.63
+1.84
+1.74
+1.81
+1.72
+1.66
+1.66
+1.63
+1.58
+1.47
+1.52
+3.95
+4.24
+4.07
+16.66
+1.52
+4.58
+
+3.53
+4.90
+4.96
+4.64
+4.64
+4.49
+4.25
+4.03
+3.84
+3.79
+3.43
+2.72
+3.98
+3.58
+5.71
+3.79
+13.06
+11.85
+10.16
+
+1.63
+1.65
+1.46
+1.72
+1.59
+1.55
+1.82
+1.65
+1.77
+1.68
+1.61
+1.56
+1.55
+1.61
+1.36
+1.53
+3.90
+4.24
+4.06
+
+0.90
+0.78
+0.75
+0.88
+0.73
+0.82
+0.88
+0.81
+0.84
+0.88
+0.84
+0.85
+0.62
+0.69
+0.67
+0.75
+1.93
+1.37
+1.89
+
+3.24
+
+1.56
+
+0.43
+
+14.06
+14.35
+
+3.75
+4.92
+
+Categorical variables
+
+n
+
+%
+
+n
+
+%
+
+Weekly use of smart technologies
+Works
+Female
+College/university degree
+Owns a museum card
+
+533
+400
+423
+328
+
+64.37
+48.31
+51.09
+39.61
+
+594
+411
+
+71.74
+49.64
+
+139
+
+16.79
+
+Note. n = 828, except for income n = 827
+
+5
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+Table 2
+The Hybrid Model Predicting Positive Attitudes Toward Using AI in the Art and Culture Field in General.
+Within-person effects
+Autonomy
+Competence
+Relatedness
+Weekly use of smart technologies
+Income
+Works
+Between-person effects
+Autonomy
+Competence
+Relatedness
+Weekly use of smart technologies
+Income level
+Works
+Controls
+Female gender
+Age
+College/univ. degree
+Owns museum card
+Art hobbies
+Extroversion
+Openness
+
+B
+
+Robust SE
+
+p
+
+0.03
+0.01
+0.04
+0.11
+− 0.15
+0.09
+
+0.02
+0.03
+0.02
+0.12
+0.08
+0.19
+
+.142
+.633
+.020
+.366
+.056
+.650
+
+0.00
+0.02
+0.13
+0.07
+0.01
+0.03
+
+0.02
+0.02
+0.02
+0.11
+0.04
+0.12
+
+.965
+.217
+< .001
+.525
+.727
+.794
+
+0.00
+0.00
+− 0.15
+− 0.20
+0.01
+− 0.01
+− 0.02
+
+0.10
+0.00
+0.10
+0.13
+0.01
+0.01
+0.02
+
+.995
+.867
+.135
+.112
+.536
+.382
+.126
+
+Note. n = 827
+
+Table 2 presents results of the model predicting positive attitudes toward using AI in the art and culture field in general. We found
+positive within-person effects and between-person effects of relatedness in the use of new technologies on positive attitudes toward
+using AI in art and culture in general. Other variables in the model did not reach the significance at the p < .05 level.
+Table 3 presents results of the models predicting positive attitudes toward using AI in music, visual arts, detecting forged art, and
+creating art. Regarding music, we found positive within-person and between-person effects of relatedness in the use of new tech­
+nologies on positive attitudes toward using AI in music. Weekly use of smart technologies had a positive between-person effect on
+positive attitudes toward using AI in music. Older age was negatively associated with positive attitudes toward using AI in music. Other
+variables in the model did not reach significance at the p < .05 level.
+Regarding visual arts, we found positive within-person and between-person effects of relatedness in the use of new technologies on
+positive attitudes toward using AI in visual arts. Female gender was positively associated, and older age and extraversion were
+Table 3
+The Hybrid Model Predicting Positive Attitudes Toward Using AI in Music, Visual Arts, Detecting Forged Art, and Creating Art.
+Music
+Within-person effects
+Autonomy
+Competence
+Relatedness
+Weekly use of smart tech.
+Income level
+Works
+Between-person effects
+Autonomy
+Competence
+Relatedness
+Weekly use of smart tech.
+Income level
+Works
+Controls
+Female gender
+Age
+College/univ. degree
+Owns museum card
+Art hobbies
+Extroversion
+Openness
+
+Visual arts
+
+Detecting forged art
+
+Creating art
+
+B
+
+Robust SE
+
+p
+
+B
+
+Robust SE
+
+p
+
+B
+
+Robust SE
+
+p
+
+B
+
+Robust SE
+
+p
+
+0.01
+− 0.01
+0.07
+0.12
+− 0.05
+0.07
+
+0.01
+0.02
+0.01
+0.10
+0.05
+0.14
+
+.366
+.626
+< .001
+.219
+.337
+.624
+
+0.03
+0.01
+0.08
+0.09
+0.01
+− 0.11
+
+0.01
+0.02
+0.01
+0.10
+0.05
+0.16
+
+.057
+.565
+< .001
+.363
+.903
+.501
+
+0.05
+0.00
+0.01
+0.19
+0.00
+0.19
+
+0.01
+0.02
+0.01
+0.10
+0.06
+0.16
+
+< .001
+.833
+.420
+.055
+.959
+.226
+
+0.05
+0.02
+0.04
+0.21
+0.02
+− 0.27
+
+0.02
+0.02
+0.02
+0.11
+0.06
+0.16
+
+.001
+.210
+.004
+.061
+.752
+.097
+
+0.02
+0.03
+0.16
+0.42
+0.02
+− 0.01
+
+0.02
+0.02
+0.02
+0.11
+0.04
+0.11
+
+.304
+.066
+< .001
+< .001
+.608
+.946
+
+0.03
+0.02
+0.17
+0.19
+0.01
+0.00
+
+0.02
+0.02
+0.02
+0.10
+0.04
+0.11
+
+.072
+.227
+< .001
+.062
+.760
+.994
+
+0.10
+0.00
+0.02
+0.21
+0.01
+0.06
+
+0.02
+0.02
+0.02
+0.11
+0.04
+0.11
+
+< .001
+.767
+.238
+.049
+.819
+.566
+
+0.06
+0.01
+0.12
+0.23
+− 0.04
+− 0.02
+
+0.02
+0.02
+0.02
+0.11
+0.04
+0.11
+
+< .001
+.407
+< .001
+.037
+.342
+.862
+
+0.13
+− 0.01
+0.00
+− 0.07
+0.01
+− 0.01
+− 0.01
+
+0.09
+0.00
+0.09
+0.13
+0.01
+0.01
+0.01
+
+.172
+< .001
+.981
+.571
+.291
+.608
+.576
+
+0.23
+− 0.01
+0.05
+0.03
+0.02
+− 0.03
+0.00
+
+0.09
+0.00
+0.09
+0.13
+0.01
+0.01
+0.01
+
+.012
+< .001
+.543
+.792
+.123
+.013
+.870
+
+0.09
+0.01
+0.22
+0.33
+− 0.01
+0.01
+0.04
+
+0.08
+0.00
+0.08
+0.11
+0.01
+0.01
+0.01
+
+.244
+.080
+.006
+.003
+.226
+.135
+.009
+
+− 0.01
+0.00
+0.05
+− 0.01
+0.01
+− 0.02
+0.00
+
+0.09
+0.00
+0.09
+0.12
+0.01
+0.01
+0.01
+
+.950
+.597
+.578
+.955
+.282
+.053
+.804
+
+Note. n = 827
+
+6
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+Fig. 1. The Word Cloud From Participants’ Answers to the Question “Which Three Words Would You Use to Describe Art Made by AI?” Note. n
+= 828.
+
+negatively associated with positive attitudes toward using AI in visual arts. Other variables in the model did not reach significance at
+the p < .05 level.
+Regarding detecting forged art, we found positive within-person and between-person effects of autonomy in the use of new
+technologies on positive attitudes toward using AI in detecting forged art. Weekly use of smart technologies had a positive betweenperson effect on positive attitudes toward using AI in detecting forged art. Having a college or university degree, owning a museum
+card, and openness to experiences were positively associated with positive attitudes toward using AI in detecting forged art. Other
+variables in the model did not reach significance at the p < .05 level.
+Regarding creating art, we found positive within-person and between-person effects of autonomy and relatedness in the use of new
+technologies predicting positive attitudes toward using AI in creating art. Weekly use of smart technologies had a positive betweenperson effect on positive attitudes toward using AI in creating art. Other variables in the model did not reach significance at the p < .05
+level.
+The word cloud in Fig. 1 shows that participants mostly perceived the idea of AI-made art with curiosity, but apprehensive per­
+ceptions were also present. The most common positive or neutral descriptions included answers such as interesting, modern, special,
+abstract, surprising, technical, exciting, and colorful. Common negative descriptions were strange, artificial, boring, useless, cold, scary,
+unknown, false, and insensitive.
+6. Discussion
+In this study, we investigated attitudes toward using AI in art. This is among the first longitudinal population studies on a topic that
+is currently evolving and highly pressing due to the transformative development of AI and generative AI tools. Our findings provided
+important evidence on how people perceive this change within two timepoints. More specifically, we analyzed positive attitudes
+toward using AI in (a) the art and culture field in general, (b) music, (c) visual arts, (d) detecting forged art, and (e) creating art. The
+results indicate individual differences in positivity toward using AI in art and they highlight the importance of experiences of relat­
+edness and autonomy in the use of new technologies as antecedents of positive attitudes toward using AI in art.
+The results supported our first hypothesis concerning relatedness. Stronger relatedness in the use of new technologies was con­
+nected to more positive attitudes toward using AI in art in general and in three of the specific art contexts (music, visual arts, and
+creating art). This was in line with previous research suggesting that perceived relatedness in the use of new technologies relates to
+more positive attitudes toward AI (Bergdahl et al., 2023; Jiménez-Barreto et al., 2021; Park & Woo, 2022). One interpretation is that
+when the need for relatedness is satisfied in technology use, individuals perceive the technology useful (Nikou & Economides, 2017;
+7
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+Fathali & Okada, 2018) and therefore, have positive attitudes toward it. Although similar prior evidence is limited in the art realm
+specifically, one may think that feeling socially connected when using new technologies may generate positive user experiences that
+enhance the perception of AI as new technology more favorably in general as well as in the more specific context of art. Having social
+contacts that can be reached through technologies may also give individuals the impression that other people are positive about using
+technologies, forming grounds for a social environment that promotes positive attitudes toward technology.
+The results partly support our second hypothesis concerning autonomy in specific contexts. Higher perceived autonomy in the use
+of new technologies was not connected to more positive attitudes toward using AI in art in general, in music, or in visual arts, but in the
+specific contexts of detecting forged art and creating art, we found a positive connection. These are important findings because no prior
+research has demonstrated these relationships regarding detecting and creating art specifically. Having autonomy that supports user
+experiences of new technologies may enhance one’s curiosity to see what AI can do in such specific contexts. Highlighting AI as a tool
+rather than a replacement, the detection of forged art may also be something that individuals who feel autonomous consider useful,
+and therefore, they might support the idea of using it. Although AI cannot yet make art without any people’s input, some have voiced
+fears that AI may eventually replace human artists (Epstein et al., 2020; Hong & Curran, 2019; Tubadji et al., 2021). The sense that
+individuals still have control over new technology such as AI could explain the more positive attitudes toward AI as well as its role in
+creating art.
+Our results did not support our third hypothesis because perceived competence in the use of new technologies was not connected to
+more positive attitudes toward using AI in general or the examined art contexts. The result is somewhat surprising because in the
+psychological literature, competence (or self-efficacy) beliefs are well-established antecedents of human thinking and behavior
+(Bandura, 1997; Ryan & Deci, 2017) and they are an important motivator in adopting new technologies (Peters et al., 2018). One
+interpretation is that individuals’ need to feel capable and affective is not fulfilled or positively challenged when thinking of using AI in
+the context of art, which may be an abstract or unfamiliar topic to many, as the results from the word cloud suggest.
+In addition to our main findings, the additional and descriptive analyses revealed that the use of AI in art is perceived less positively
+compared to many other fields such as medicine or building and real estate technology. The descriptive visual analysis showed that
+although people viewed AI in the art field with curiosity, they also had concerns about AI in art being strange, false, cold, or even scary.
+Thus, despite finding AI in art interesting from the perspective of something new and exciting, the responses also indicated a lack of
+familiarity, authenticity, warmness, and safety. The results align with previous findings suggesting that people are more positive
+toward using AI in applications and tasks involving big data and easily automated tasks relative to tasks involving more complexity and
+human judgement (Ingrams et al., 2022; Schepman & Rodway, 2020) such as art. The word cloud shows many words describing
+participants’ feelings toward AI-made art, which generally aligns with the idea that feelings associated with the attitude object play an
+important role in forming attitudes when the attitude object is less familiar (van Giesen et al., 2015).
+6.1. Theoretical and Practical Implications
+Focusing on the case of AI in art, our study contributes to the theoretical discussions about the basic psychological needs and how
+they predict our thinking and behavior intention in technology adoption. Based on our results, social factors such as relatedness to
+others through the use of new technology have a major role in attitudes toward AI in art. Although autonomy seems to be critical in
+some specific art contexts, competence to use new technology is the least influential psychological need behind attitudes toward AI in
+art. The nonsignificant connection of competence to use new technologies with attitudes toward AI in art differs to some prior crosssectional studies suggesting an association between competence satisfaction and attitudes toward AI (Bergdahl et al., 2023; Park &
+Woo, 2022). Hence, our results provide new insight that building people’s competence to use new technologies such as AI might not
+affect their attitudes toward AI in art, but improving the sense of autonomy and especially relatedness within new technology might.
+Generally, our results contribute to social psychological research on the relationships between the basic psychological needs
+outlined in SDT (Ryan & Deci, 2017) and attitudes (e.g., Maio et al., 2018). Specifically, our results add knowledge of the relationships
+between the basic psychological needs outlined in SDT and attitudes toward AI in the art context. As our results showed, AI attitudes
+and their antecedents can be context specific, such as within a field of art, which stresses the importance of considering the context and
+individual differences when trying to understand attitudes toward AI. Although previous studies have found SDT and its basic psy­
+chological needs as an appropriate framework for understanding people’s perceptions on using new technologies such as AI (Bergdahl
+et al., 2023; Gagné et al., 2022; Jiménez-Barreto et al., 2021; Park & Woo, 2022; Peters et al., 2018), our study demonstrates that SDT
+offers a useful theoretical tool for analyzing attitudes also toward using AI in art, which is a new field in SDT research.
+Our results also have practical implications. Based on our findings, people view using AI in the art field less positively than many
+other fields where AI has already been adopted and established. Our visual analyses imply that the potential reasons for negativity
+relate to a lack of familiarity, authenticity, warmness, and safety. This is understandable because human creativity has been considered
+highly important in the art and culture field, and currently, the rapid development of generative AI challenges these prior conceptions
+of art. Our findings on social aspects of AI adoption are important when considering the use of AI in the art field. The use of AI in art has
+many aspects that do not necessarily challenge human creativity as such, but rather support it, one example being detecting forged art.
+Our results help to understand social psychological aspects of accepting the use of these tools in art. The findings reveal that negativity
+stems from, for example, unfamiliarity, unsafety, and unrelatedness. Supporting individuals’ positive user experiences with new
+technologies, particularly the senses of relatedness and autonomy, could help enhance peoples’ positive attitudes toward AI in art.
+Thus, the findings help to understand the reasons behind perceptions of AI in art that will eventually influence the societal discussions
+and decision-making regarding the topic.
+8
+
+Poetics 101 (2023) 101839
+
+R. Latikka et al.
+
+6.2. Limitations and Future Directions
+Our study has certain limitations concerning traditional self-reporting survey methods. To provide more reliability to our findings,
+our study extended from solely cross-sectional to two-wave longitudinal data examination, thus enabling us to study within- and
+between- person effects over time. Despite the initial longitudinal evidence, interpretations of causal relationships should be made
+cautiously when using data from two timepoints only. Our analyses were based only on data from Finland, a country with its own
+cultural characteristics (Purhonen et al., 2010), and therefore, the results cannot be directly generalized to other contexts. AI and robot
+acceptance can be influenced by country-level factors comprising the sociotechnological environment that likely influences in­
+dividuals’ opportunities to gain direct experience of AI devices (Turja & Oksanen, 2019; Vu & Lim, 2022). Because generative AI is
+developing rapidly, it is important that future studies continue to investigate attitudes toward AI in different contexts, including art
+and culture. This transformative change calls for new national and cross-national studies.
+7. Conclusion
+We used SDT and its three basic psychological needs to investigate attitudes toward using AI in art employing two-wave longi­
+tudinal survey data from Finnish adults. The results showed that participants were less positive toward using AI in the art and culture
+field in general compared to fields such as medicine and building and real estate technology. We detected within- and between-person
+effects of both relatedness and autonomy on positive attitudes toward using AI in art. Participants who considered that new tech­
+nologies helped them to feel related to others were generally more positive about AI in art. Based on our descriptive visual analysis,
+many participants considered AI to be interesting and modern, but also strange and even scary. The use of AI in the art field currently
+divides people. Our results highlight the importance of the human basic psychological needs and positive prior user experiences for
+understanding attitudes toward AI in art and beyond.
+CRediT authorship contribution statement
+Rita Latikka: Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Writing –
+original draft, Writing – review & editing. Jenna Bergdahl: Conceptualization, Investigation, Writing – original draft, Writing – re­
+view & editing. Nina Savela: Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology,
+Visualization, Writing – original draft, Writing – review & editing. Atte Oksanen: Conceptualization, Data curation, Funding
+acquisition, Investigation, Methodology, Project administration, Supervision, Validation, Writing – original draft, Writing – review &
+editing.
+Declaration of Competing Interest
+None.
+Funding
+This research received funding from the Kone Foundation (Urban utopias and dystopias: artificial intelligence in art and society
+[UrbanAI] project 2021–2024, Grant 202011325, PI: Atte Oksanen). The data that support the findings of this study will be made
+available in the Finnish Social Science Data Archive after the UrbanAI-project.
+Supplementary materials
+Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.poetic.2023.101839.
+
+
+
+

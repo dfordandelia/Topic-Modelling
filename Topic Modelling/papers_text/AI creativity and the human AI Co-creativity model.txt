@@ -1,0 +1,594 @@
+Abstract. Artificial intelligence (AI) is bringing new possibilities to numerous
+fields. There have been a lot of discussions about the development of AI technologies and the challenges caused by AI such as job replacement and ethical issues.
+However, it’s far from enough to systematically discuss how to use AI creatively
+and how AI can enhance human creativity. After studying over 1,600 application
+cases across more than 45 areas, and analyzing related academic publications, we
+believe that focusing on the collaboration with AI will benefit us far more than
+dwelling on the competing against AI. “AI Creativity” is the concept we want to
+introduce here: the ability for human and AI to co-live and co-create by playing to
+each other’s strengths to achieve more. AI is a complement to human intelligence,
+and it consolidates wisdom from all achievements of mankind, making collaboration across time and space possible. AI empowers us throughout the entire creative
+process, and makes creativity more accessible and more inclusive than ever. The
+corresponding Human-AI Co-Creation Model we proposed explains the creative
+process in the era of AI, with new possibilities brought by AI in each phase. In
+addition, this model allows any “meaning-making” action to be enhanced by AI
+and delivered in a more efficient way. The emphasis on collaboration is not only
+an echo to the importance of teamwork, but is also a push for co-creation between
+human and AI. The study of application cases shows that AI Creativity has been
+making significant impact in various fields, bringing new possibilities to human
+society and individuals, as well as new opportunities and challenges in technology,
+society and education.
+Keywords: Creativity · Artificial intelligence · Design methods and techniques ·
+Design process management · HCI theories and methods · Education
+
+1 Introduction
+In recent years, Artificial intelligence (AI) is bringing new possibilities to numerous
+fields from everyday life, industry application to scientific research. There have been a
+© Springer Nature Switzerland AG 2021
+M. Kurosu (Ed.): HCII 2021, LNCS 12762, pp. 171–190, 2021.
+https://doi.org/10.1007/978-3-030-78462-1_13
+
+172
+
+Z. Wu et al.
+
+lot of discussions about the development of AI technologies and the challenges caused
+by AI such as job replacement and ethical issues. However, it’s far from enough to systematically discuss how to use AI creatively and how AI can enhance human creativity.
+After studying over 1,600 application cases across more than 45 areas, and analyzing
+related academic publications, we believe that focusing on the collaboration with AI will
+benefit us far more than dwelling on the competing against AI [1, 2]. Among the human
+dominant abilities, creativity is one of the most im-portant yet the least understood of
+all intellectual abilities until today. It is a popular topic yet remains underdiscussing. It
+is being refocused in the era of AI as the debate arose whether AI has creativity.
+The purpose of this paper is to introduce the preliminary definition of “AI Creativity”
+and the corresponding Human-AI Co-Creation Model. AI Creativity refers to the ability
+for human and AI to co-live and co-create by playing to each other’s strengths to achieve
+more. AI is a complement to human intelligence, and it consolidates wisdom from
+all achievements of mankind, making collaboration across time and space possible. AI
+empowers us throughout the entire creative process, and makes creativity more accessible
+and more inclusive than ever. The corresponding Human-AI Co-Creation Model we
+proposed explains the creative process in the era of AI, with new possibilities brought
+by AI in each phase. In addition, this model allows any “meaning-making” action to be
+enhanced by AI and delivered in a more efficient way. The emphasis on collaboration
+is not only an echo to the importance of teamwork, but is also a push for co-creation
+between human and AI.
+By illustrating the application cases in various areas, this paper explains that AI
+Creativity is a new philosophy to collaborate with all achievements of mankind across
+time and space, a new strategy to boost productivity and to inspire innovation, and a new
+force to empower human to access creativity inclusively more than ever.
+
+2 Related Work
+2.1 The Rise of AI and Potential Impacts
+The application of AI has already made significant impacts in businesses around the
+world. Between 34% and 44% of global companies surveyed are using AI in their IT
+departments mainly in information technology, marketing, finance and accounting, and
+customer service, monitoring huge volumes of machine-to-machine activities [3].
+AI Industries is becoming the new engine of economic development. According to
+recent reports, the potential contribution of AI to the global economy will reach $15.7
+trillion, bringing a GDP boost of up to 26% to local economies [4]. 29–62% of annual
+growth rate of GVA (gross value added) comes from AI by 2035 across 16 industries in
+12 economies, which could lead to an economic boost of US$14 trillion [5].
+In these circumstances, people are concerned that AI is on the verge of reaching and
+challenging “human-level intelligence,” with recent evidences suggesting that workforce
+transitions from human to AI has been triggered. A report by McKinsey [6] says, “50% of
+the time spent on work activities in the global economy could theoretically be automated
+by adapting currently demonstrated technologies”. The most quoted study of occupations
+likely to be automated in the next decade by Oxford University [7] also predicted up to
+47% replacement of the workforce in US. A following study by Asian Development Bank
+
+AI Creativity and the Human-AI Co-creation Model
+
+173
+
+[8] concluded that routine, cognitive and manual work would be the most vulnerable,
+and the time spent on different activities which can be replaced ranges from 9% to 78%.
+2.2 Collaboration Between Humans and AI
+AI is relatively strong when it comes to repetitive and predictable workflow, and super
+good at dealing with complexity and multi-tasking; while humans are flexible and creative, and adept at knowledge understanding and strategic thinking, as is summarized in
+the figure below. Collaboration between humans and AI varies across domains [9, 10].
+Human leads where tasks are more about creative or strategy and compassion is needed,
+while AI leads where tasks are more about routine or optimization and compassion is
+not needed (Fig. 1).
+
+Fig. 1. (a) Human-AI complement each other, (b) Blueprint of Human-AI collaboration [10]
+
+2.3 AI and Creativity
+Creativity Research is Mainly About People, Methods and Tools Before the Era of AI.
+Creativity is often considered as an “intuition” and can’t be easily interpreted in a rational way. The creative industries often refer to graphic design, film, music, video game,
+fashion, advertising, media, or entertainment industries [11], related to the extraordinary
+thinking by supreme creative individuals [12]. However, creativity actually lies in all
+creating activities, from art to science, from everyday life to industry production. And
+the thinking behind creativity and all those great creations can be acquired by ordinary
+people with deliberate practice [12]. Some recent studies summarized creativity as a
+“multifaceted phenomenon to form value and produce innovation entailing the generation of new intangible or physical item” [13, 14]. In discussing how to define, measure,
+and enhance the impact of creativity, scholars have proposed three dichotomies: firstly,
+whether creativity orginates within individual or comes from social; secondly, whether
+creative artifacts should be of novelty or value; and thirdly, whether creative activity is
+a thought or an action [15].
+In recent decades, great progress has been made by an increasing number of scholars
+and researcher with different backgrounds, including cognitive science, psychology,
+
+174
+
+Z. Wu et al.
+
+philosophy, computer science, logic, mathematics, sociology, architecture, design and
+etc. The emerging concepts such as digital creativity [16] and computational creativity1
+[17] also shed some light on the concept of AI Creativity. With the new possibilities AI
+bringing in, the research on AI Creativity will help us use AI creatively and enhance
+human creativity efficiently and effectively.
+The Creativity of AI is Inseparable from Human’s. From AlphaGo to AlphaFold
+[18, 19], AI created something which have never existed before, although researchers
+still hold different viewpoints on whether AI has creativity [20–23]. Theories and algorithms were invented to imitate and go beyond human’s ways of thinking, using the past
+achievements of mankind, such as internet data, as training data for AI. Furthermore, as
+lack of understanding causality of the real world, AI has to be designed for interactive
+use by humans and enhance human creativity [20, 24]. No matter how far AI can go
+on creativity in the future, human judgment should always be kept essential through the
+creative process, so to make sure AI Creativity serves humanity. The creativity of AI
+can be considered as a new tool but also beyond a tool.
+Human Creativity is to be Enhanced by AI. More and more scholars are studying the
+AI-powered, AI-enhanced or AI-assisted human creativity [24, 25], reporting the application of AI in the creativity industry [26] and Art industries [27]. Designers and design
+researchers also discussed and practiced design with data [28, 29]. Most of the existing
+reports categorize application cases by disciplines or technologies [1, 30], while the
+report we made, CREO AI Creativity Report 2021, presents the typical cases in the creative process of our Human-AI Co-Creation Model. Our study shows that AI can work
+far more than a black box, but can assists humans throughout the entire creative process.
+Human input serves as the framework of this process.
+
+2.4 The Study of Creativity
+The Theories of Creativity. One major opinion in early creativity research argued
+whether creativity is “unconscious thinking” or “unconscious processing” [31, 32], a
+sudden appearance of an idea [33] or leaps of insight [34, 35]. These theories undoubtedly demonstrated the mysterious nature of creativity or the extraordinary thinking of
+some creative individuals, which makes ordinary people think that creativity is far away
+from them.
+Measurement psychology suggested that every individual has creativity, with “divergent thinking” and “convergent thinking” involved [36]. Their study identified the main
+components in creative thinking, but lacked the analyzing of the functional mechanisms
+of creative process. Guilford [37] further construed creativity as a form of problemsolving and argues that the creator’s sensitivity to the problem is the key to initiating
+creation. In the era of AI, various sensors and big data gives humans expanded views in
+both perceptual and rational perspectives.
+1 Computational creativity also known as artificial creativity, mechanical creativity, creative
+
+computing or creative computation.
+
+AI Creativity and the Human-AI Co-creation Model
+
+175
+
+Evolutionary theories of creativity [38] suggested that the creative process is similar
+to Darwinian evolution: Innovative ideas are generated based on early ones and tested
+with the latest conditions [35]. The Human-AI Co-Creation Model is consistent with this
+theory: Upon input, AI can generate a myriad of explorations and present the preliminary
+selections for humans to choose for further “evolving”.
+Cognitive theories of creativity believed that the processes of creative thinking and
+thinking involved in solving ordinary problems are basically the same [39], and creative
+products come through the process of ordinary thinking [12]. This view brings creativity
+and ordinary people closer together. With AI empowering in all phases of the creative
+process, people can access creativity inclusively more than ever.
+In recent years, new theoretical frameworks proposed from the perspective of brain
+science have systematically elaborated the interaction between knowledge and creative
+thinking [40]. The studies of creative cognition through medical imaging have opened
+up new possibilities for the measurement of creativity [41]. It also provides valuable
+references for the development of AI.
+The Methods of Creativity. These methods encourage creative actions and have
+demonstrated their usefulness in both arts and sciences [42], usually covering information acquisition, idea generation, problem reframing, prototyping, testing, iterating
+and etc. [43].
+Some of them are for guiding the creative process, such as TRIZ [44] (and its modifications and derivatives such as SIT and USIT), CPS (Creative Problem Solving) [45],
+Design Thinking [46], Double Diamond Model [47], First Principles [48]. Others provide different thinking principles and toolkits, such as Six Thinking Hats [49], Herrmann Brain Dominance Instrument [50], Lateral Thinking, Brainstorming, Brainwriting, Think Outside the Box, SWOT Analysis, Thought Experience, and Five Ws. As
+internet technology advanced, new methods came in such as Data-Driven Design [28],
+HEART & GSM [51], Agile Development [52], Design Sprint [53].
+Most of the methods listed above are in the context of problem solving. However,
+meaning making including painting and music composing, is not necessarily only about
+problem solving.
+The Abilities of Creativity. Creativity tests summarized the abilities of creativity.
+Structure of Intellect theory (SOI) [54] by Guilford organizes intellectual abilities in
+three categories: operations, content and products. Operations dimension included six
+general intellectual processes. Built on SOI, Torrance Tests of Creative Thinking (TTCT)
+[55] involves simple tests of divergent thinking and other problem-solving skills. Several controversial creativity tests, such as Getzels and Jackson’s exploration [56] and
+Wallach and Kogan’s study [57] had significant impact in the research area (Table 1).
+Future-oriented creativity requires people to learn and create in a constantly evolving technological landscape. ISTE (International Society for Technology in Education)
+provided a well-recognized standard for student to become a transformative learner [58].
+AIK12 [59] provided a list of criteria of competencies for young people to have in the
+era of AI.
+From the current study of creativity, some characteristics were found: The classical
+creativity theories have less discussion on the discovery strategies before the problem
+
+176
+
+Z. Wu et al.
+
+emerges. The existing creativity methods are mainly for problem solving or product
+innovation, but not for other meaning-making activities; Besides, these methods lay
+no emphasis on collaboration. The Human-AI Co-Creation Model we proposed introduces new possibilities brought by AI throughout the creative process, allows any
+“meaning-making” action to be enhanced by AI and delivered in a more efficient way,
+and emphasizes on collaboration no mater it’s interpersonally or between hu-man and AI.
+This model also well supports the creativity abilities reflected in the ex-isting creativity
+assessment standards such as ISTE and aik12.
+
+Table 1. Main process/components in current study of creativity
+Theories/methods/abilities
+
+Main process/components
+
+Psychometrics
+
+Divergent thinking, Convergent thinking
+
+Evolutionary Theories
+
+Randomness, Conditions, Selection
+
+Cognitive Perspective
+
+Remembering, Imagining, Planning, Deciding
+
+Brain Research
+
+Knowledge Domain: Emotional, Cognitive
+Processing Model: Deliberate, Spontaneous
+
+TRIZ (ARIZ)
+
+Abstraction, Solution, Concretization
+
+CPS (Creative Problem Solving)
+
+Clarify, Ideate, Develop, Implement
+
+Design Thinking
+
+Empathize, Define, Ideate, Prototype, Test
+
+Double Diamond
+
+Challenge, Discover, Define, Develop, Deliver, Outcome
+
+First Principles Thinking
+
+Identify problems and define assumptions, Breakdown the problem into its fundamental
+principles, Create new solutions based on the deductions of those principles
+
+Six Thinking Hats
+
+White Hat – Facts and Information. Red Hat – Feeling and Intuition. Black Hat – Caution and
+Problems. Yellow Hat – Benefits and Advantages. Blue Hat – Managing Thinking. Green Hat
+– Creativity and Solution.
+
+The Whole Brain Thinking Model
+
+Analytical Thinking, Structural Thinking, Relational Thinking, Experimental Thinking
+
+Data-Driven Design
+
+Goal, Problem/Opportunity Area, Hypothesis, Test, Result
+
+HEART & GSM
+
+Happiness, Engagement, Adoption, Retention, Task Success; Goals, Signals and Metrics
+
+Agile Development
+
+Requirements, Design, Development, Testing, Deployment, Review
+
+Design Sprint
+
+Map, Sketch, Decide, Prototype, Test
+
+SOI’s (Structure of Intelligence)
+Operations Dimension
+
+Cognition, Memory recording, Memory retention, Divergent production, Convergent
+production, Evaluation
+
+TTCT (Torrance Tests of Creative Thinking)
+
+Fluency, Flexibility, Originality, Elaboration
+
+5C Core Competences
+
+Cultural Competence, Creativity, Collaboration, Critical Thinking, Communication
+
+ISTE
+
+Empowered learner, Digital citizen, Knowledge constructor, Innovative Designer,
+Computational Thinker, Creative communicator, Global Collaborator
+
+Human-AI Co-Creation Model
+
+Perceive, Think, Express, Collaborate, Build, Test
+
+3 The “AI Creativity”
+3.1 Preliminary Definition of AI Creativity
+Combining the above points of view, we make our own preliminary definition: AI creativity is the ability for human and AI to live and create together by playing to each
+other’s strengths. It is a new philosophy, a new strategy, and a new force.
+AI Creativity can be perceived as a new philosophy. Through AI, people can collaborate with all achievements of mankind across time and space. It’s well demonstrated
+
+AI Creativity and the Human-AI Co-creation Model
+
+177
+
+in the making of Portrait of Edmond Belamy: the original algorithm by Americans, the
+implementation by Frenchmen, and the AI trained with 15,000 human paintings from
+between the 14th and 20th centuries.
+AI Creativity can be conceived as a new strategy. Human and AI can play to each
+other’s strengths and embrace more possibilities efficiently. Thus human and AI can
+complement each other throughout the entire creative process, boosting productivity
+and inspiring innovation.
+AI Creativity can be regared as a new force. Empowered by AI, human can access
+creativity inclusively more than ever. AI creativity can lower the bar to enter an area and
+enable human to focus on the most creative part, leaving the complex or time-consuming
+tasks to AI.
+3.2 AI Creativity Reshapes Creative Process
+The “Human-AI Co-Creation Model” is a circular process model including 6 major
+phases: perceiving, thinking, expressing, collaborating, building and testing (Fig. 2).
+
+Fig. 2. The Human-AI co-creation model
+
+The first phase is to persive, where human perception can be enhanced by big data
+and sensors with AI. Beyond the Senses that humans normally perceive the world with,
+AI can turn big data into meaningful information and knowledge using all kinds of
+sensors and networks, giving human expanded views in both perceptual and rational
+perspectives. The second phase is to think, where humans can think deeper and wider with
+AI. Inspiration and exploration that AI brings can go far more than human considerations.
+This will break the limits of resource and help human think deeper, wider, in a more
+thorough but also efficient way, potentially leading to unexpected accomplishments.
+The third phase is to express, where humans can explore more and rapidly with AI.
+Various ideas and diverse people need their optimal ways to present, such as painting,
+designing, composing, writing, performing, coding, prototyping… Empowered by AI
+tools, people won’t be stopped for lack of talent or training. Creativity matters more
+than skills. The fourth phase is to collaborate, where human and AI play to each other’s
+
+178
+
+Z. Wu et al.
+
+strengths. Whether working alone or with others, people can always team up with AI.
+Just fully understand the strengths and limitations of both human and AI, and give each
+side the best assignment. The fifth phase and the sixth are to build and test, where
+production can achieve higher quality and lower cost by simulating and analyzing with
+AI. Rehearsing gives people a chance to predict how things will go and to prepare
+ourselves for real-world events. With detailed simulation and calculation offered by AI,
+the process and result of building and testing can be handled effectively and efficiently.
+During this creative process, human and AI can complement each other and unleash the
+great potential of both sides.
+
+4 The Application of “AI Creativity”
+4.1 AI Creativity Prospering Across Industries
+We analyzed over 1,600 AI Creativity cases across more than 45 areas from 2017 to
+2020. An AI application is only qualified as an AI Creativity case when AI is used
+creatively or AI enhances human creativity. Culture and entertainment contributes the
+most cases until now, mainly in the format of digital media, which is easier to go with
+AI; Cases in industry and lifestyle are trying to bridge the virtual world and the physical
+world, which has a great potential to grow; The big percentage in science suggests that
+it’s still the early phase of exploration overall; A lot more subcategories will rise from
+the misc. as AI moves forward (Fig. 3).
+4.2 Examples Throughout the Human-AI Co-creation Model
+Perceive. The sound of cellphone-recorded coughs can be used to detect asymptomatic
+Covid-19 infections (Fig. 4a). Only AI could achieve high accuracy and efficiency for
+this purpose because neither doctor can be effectively trained on this, nor can enough
+doctors be trained around the globe for this. It demonstrates the huge potential of AI
+assisted diagnosis [60, 61].
+Sensors such as cameras, LiDAR and millimeter-wave radar on autonomous driving
+cars (Fig. 4b), do not only help humans get an all-direction and all-weather view, but
+also give humans smart advice based on object detection and analysis [62].
+IoT connects machines, objects, animals and people in increasingly numerous ways
+(Fig. 4c). As each pig is recognized and traced, customized plans can be applied. Such
+a detailed overview enables humans to have a better understanding and greater control
+over their work and life [63].
+Ambient Intelligence makes physical spaces sensitive and responsive to the presence
+of humans (Fig. 4d). It enables more efficient clinical workflows and improved patient
+safety in hospital spaces. It could also help the elderly with chronic diseases in daily
+living spaces [64].
+Think. Predicting the protein structure, AlphaFold unlocked a greater understanding
+of what it does and how it works (Fig. 5a). From AlphaGo, AlphaStar to AlphaFold,
+AI demonstrated new methods and great potential to learn and solve complex problems
+effectively and efficiently through massive exploration [19].
+
+AI Creativity and the Human-AI Co-creation Model
+
+179
+
+Fig. 3. AI creativity cases across industries: (a) By name of subcategories, (b) By number
+
+Multi-Channel human-machine interaction allows humans to communicate with AI
+in a natural way [68], such as searching by color and shape (Fig. 5b). Making AI adapt
+to the human way, it brings not only comfort, but also efficiency [65].
+Inspired by the knowledge graph based on the search queries on internet, people can
+get a better overview of the object studied and can trigger more relevant ideas around
+it (Fig. 5c). With the help of AI, the world’s knowledge can be organized and accessed
+more than ever, and then further developed into new concepts [66].
+Simulating a simple game of hide-and-seek, agents built a series of distinct strategies
+and counterstrategies, some of which were unexpected (Fig. 5d). This further suggests
+extremely complex and intelligent behaviors could be synthesized [67].
+
+180
+
+Z. Wu et al.
+
+Fig. 4. (a) Cough test for Covid-19 by MIT [60]. (b) Lidar and camera view at night by Waymo
+[62]. (c) Pig recognition and smart farming by JD.com [63]. (d) Illuminating the dark spaces of
+healthcare with ambient intelligence by Li Fei-Fei et al. [64]
+
+Express. It’s not a dream anymore to have a “Magic brush” that turns a doodle into a
+photo. As if done by an experienced artist or designer, AI turns people’s rough ideas into
+reality (Fig. 6a). AI helps humans focus more on generating and testing ideas without
+worrying about the presenting skills [69]. And DALL·E released in Jan 2021 is pushing
+this to the next level.
+AI can work as a friend sharing ideas with humans, responding and inspiring each
+other to make a story gradually (Fig. 6b). From such a game today, we can foresee that
+the future of collaborative writing between human and AI is coming [70].
+With the help of AI, humans can play any role in any context by controlling characters through body and face movements (Fig. 6c). The making of animations and
+demonstrations becomes easier [71].
+Coding has a history of becoming easier to use, and AI will speed up this process
+(Fig. 6d). Although the making of high-quality software still requires experienced engineers, it will be world-changing to enable everyone to create their own software by
+talking, writing, drawing, playing with building blocks, not only by coding [72].
+
+AI Creativity and the Human-AI Co-creation Model
+
+181
+
+Fig. 5. (a) AlphaFold on protein folding problem by DeepMind [19]. (b) Street art by color
+by Google Arts & Culture [65]. (c) Knowledge graph of google searches by Anvaka [66]. (d)
+Simulation of multi-agent hide and seek by OpenAI [67]
+
+Build and Test. In the context of product manufacturing, AI allows designers and engineers to input their design goals, along with parameters such as materials, manufacturing
+methods, and cost constraints (Fig. 7a). Then AI explores all the possible solutions by
+testing and iterating [73].
+Qualitative changes can happen when quantitative changes are big enough. Personalization comes after. Alibaba Luban’s design engine has demonstrated how powerful
+the true personalization is, as so does TikTok’s recommendation engine (Fig. 7b). AI is
+the key to enable massive design and implementation efficiently at low cost [74].
+A process that takes generations of evolution in the physical world can be simulated
+in the virtual world at much higher speeds. Through the design and making of Xenobots,
+biology and computer scientists worked together and significantly speeded up the process
+of trial and error (Fig. 7c) [75].
+Digital Twin brings parallel universe to reality. Building and testing happens in the
+virtual world and the best solution can be chosen to implement in the physical world
+(Fig. 7d). Meanwhile, anything manifesting in the physical world can be reflected in the
+virtual world for further analysis and exploration [76].
+
+182
+
+Z. Wu et al.
+
+Fig. 6. (a) GauGAN by NVIDIA [69]. (b) AI Dungeon by Latitude [70]. (c) Animation production
+with Kuaishou & PuppetMaster [71]. (d) Build apps by describing in words with debuild, powered
+by GPT-3 [72]
+
+Collaborate. We placed collaborating at the end instead of as its sequence in the model,
+because it’s a great example demonstrating the creative process enhanced by AI. Art
+styles are among the great achievements of civilizations. It’s almost impossible for a
+human to master every style of art, but it’s not hard for AI (Fig. 8a). Trained with
+examples of various artistic styles, AI can imitate any one of them. Based on the variations
+developed upon the input, the best parts can be picked for further development2 .
+Expressing in an ancient language is much harder than understanding it. However,
+given enough training materials, it’s no different for AI to learn a modern language or
+an ancient one (Fig. 8b). Such a poetry AI can give human many inspirations, although
+it’s not perfect, nor does it have a soul3 .
+
+2 The painting by Mr. HOW with Deep Dream Generator: https://deepdreamgenerator.com/.
+3 The poem Mr. HOW with Tsinghua JiuGe: http://118.190.162.99:8080/, Microsoft JueJu: http://
+
+couplet.msra.cn/jueju/ and SouYun: https://sou-yun.cn/MAnalyzePoem.aspx.
+
+AI Creativity and the Human-AI Co-creation Model
+
+183
+
+Fig. 7. (a) “The first chair created with AI” by Philippe Starck, Autodesk & Kartell [73]. (b)
+Alibaba Luban’s AI banner design [74]. (c) Xenobots: first living robots by University of Vermont
+[75]. (d) Collaborative robots in assembly by University of Southern Denmark [76]
+
+Breaking language barriers, AI helps regular people to enjoy different cultures and
+create things more easily (Fig. 8c) [77]. In this case, the poem in ancient Chinese was
+firstly translated into modern Chinese by human, then into English by AI, and then
+fine-tuned by human in the end4 .
+Not everyone can make music although it’s a universal language (Fig. 8d). Music AI
+allows people to bring out the rhythm and rhyme from their heart and mind. Based on
+the initial input, variations will be generated for picking for further developing5 .
+As the ending of a traditional Chinese painting, a stamp was used, which is actually
+a QR code linked to the video of the making of this artwork6 .
+
+4 The poem translated by Mr. HOW with Google, Apple and Microsoft Translation.
+5 The music by Mr. HOW with LingDongYin: https://demo.lazycomposer.com/compose/v2/.
+6 The making of the artwork, The Mind of AI Creativity: http://qr09.cn/Ew06EW.
+
+184
+
+Z. Wu et al.
+
+Fig. 8. The mind of AI creativity (a) Painting, (b) Poem in Chinese, (c) Poem in English, (d)
+Music composing
+
+5 The Future of AI Creativity
+5.1 Developing AI Creativity
+The adoption of AI is expected to run high across industries, company sizes and geography [78]. Skills of using AI as a demand in all online job vacancies have been
+rapidly increasing especially since 2015 [79]. AI talents include technology developers,
+technology-product transformers [80], and product utilizers. All of them need AI Creativity, mastering AI thinking and skills. Regardless of interests or specialties, people
+can always find effective ways to develop their AI Creativity.
+Collaborative creation between human and AI will be seen everywhere. Processes are
+enhanced or even evolved in every step where AI enters. STEM-DAL [81] is a new way
+to inspire and leverage AI Creativity in cross-disciplinary learning and creation. Science
+and Art stand at the two ends. Technology brings Science into application, while Design
+brings Art into application. Meanwhile, Engineering merges Technology and Design,
+while Mathematics and Literature serve as foundations (Fig. 9).
+In recent years, some educational initiatives have proposed some new concepts and
+practices for AI education in addition to coding, such as AI4ALL [82], aik12-MIT [59]
+and Mr. HOW AI Creativity Academy [81]. These initiatives are trying to make AI
+education inclusively accessible for all people with different interests and specialties,
+beyond technology perspectives only. Great potential remains yet to be unleashed.
+
+AI Creativity and the Human-AI Co-creation Model
+
+185
+
+Fig. 9. The STEM-DAL model
+
+5.2 Challenges and Opportunities
+Technology Perspective. Pre-Mature AI technologies are still the norm, although there
+has been a huge leap since the modern era of deep learning began at the 2012 ImageNet
+competition. Scientists are working hard on the next generation of AI to break today’s
+constrains. New initiatives such as GPT-3 aren’t perfect, but it did unleash new potentials.
+Incomplete solutions built on separate technologies according to proprietary standards are very common. Doing anything with AI often relies heavily on experts and wellfunded organizations. This stands in the way of more people adopting AI technologies
+and unleash the great potential of AI Creativity.
+Limited Resources invested in the industry today are mainly driven by capital for to
+maximize financial returns. As more scientists, engineers and other resources are added
+to transform AI technologies into more products, more areas will be covered and driven
+by AI Creativity.
+Attacks on AI raises the alert of AI security. A simple attack can cause AI to see
+something different than what an image really looks like, so a T-shirt with a special
+pattern can render someone “invisible” to cameras, or an autonomous car misread an
+altered traffic sign. Addressing the security issue also needs AI Creativity.
+Society Perspective. Privacy could become very vulnerable in the era of AI. Individuals could become transparent to all kinds of ubiquitous sensors and AI applications
+with recognition and analysis abilities. It’s not always easy to balance privacy with
+convenience. AI Creativity may help to make smart decisions.
+Abuse of AI has been documented, such as unwanted facial recognition, spam calls,
+deepfake videos, etc. Anyone of those could set you in trouble. As more people access
+more AI applications, potential for abuse will increase. AI Creativity can contribute in
+preventing this.
+Discrimination follows from human behaviors, as AI is trained with materials that
+humans generated. As a technical issue, things like accuracy of facial recognition across
+different human races can be easily improved. However, things like the bias in resume
+screening may need a lot of AI Creativity to address.
+Job Replacement is a hot topic, especially for parents. However, many parents
+wouldn’t necessarily want their children to do the jobs AI is going to replace. Rather
+than worrying about potential job replacement, it’s more important to think about how
+
+186
+
+Z. Wu et al.
+
+to inspire and develop AI Creativity for both yourself and future generations, and how
+to live and create with AI.
+
+I don't agree
+with this
+paragraph.
+
+Education Perspective. Exploration in the AI education system is key for developing
+talents. What to learn, how to train, whether AI should be an independent discipline or
+intertwined with other ones… The answers to these questions will only emerge through
+deep thinking and practice. AI Creativity itself shall be used in these explorations.
+Liberal Arts + AI education is almost an untouched area, when compared with
+STEM, robotics and coding. As part of AI Creativity, the fusion of liberal arts and AI
+will be critical. It’s not only to give all kids a balanced education in addition to STEM
+learning, but also to provide a method of development for kids who do not have an
+aptitude for STEM.
+Thinking vs Skills are both important things to learn for AI Creativity. AI thinking
+is for choosing the right strategy, while skills are for choosing the right tactics. They
+support each other and can’t live without each other.
+Democratizing AI and Creativity will be a key outcome of AI Creativity education.
+People will be empowered to go beyond their current level, to live and create with AI
+by playing to each other’s strengths.
+
+6 Conclusion
+AI Creativity has been making significant impact in various fields, bringing new possibilities and challenges to human society and individuals. The topic of cultivating AI
+Creativity has a great value and potential to be explored. For professionals, the evolved
+thinkings and methods need to be built up, such as the Human-AI Co-Creation Model
+we proposed; For educators, the inclusive AI education system needs to be built up, such
+as the STEM-DAL system we proposed, which will be discussed in another paper; For
+scholars, the framework of measuring AI Creativity needs to be built up. For everyone,
+how to unleash the great potential of AI Creativity and how to prevent the unexpected
+consequences need to be discussed. We initiated CREO (Creativity Renaissance in Education and Organizations) with experts around the world, and will keep pushing the
+boundary of AI Creativity.
+Acknowledgements. The authors like to thank Qinwen Chen, Guojie Qi, Peiqi Su, Qing Sheng,
+Jieqiong Li, Qianqiu Qiu, Linda Li and all the volunteers for their contribution in this paper.
+
+

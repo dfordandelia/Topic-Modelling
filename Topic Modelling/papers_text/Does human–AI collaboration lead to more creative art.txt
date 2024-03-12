@@ -1,0 +1,2164 @@
+A B S T R A C T
+
+Keywords:
+AI art
+Haiku poetry
+Aesthetic evaluation
+Creativity
+Human-in-the-loop
+
+With the development of technology, the quality of AI-generated text has improved. This is relevant in the AI art
+field, where AI generates literature or poetry that is appreciated. This study compared human-made and AIgenerated haiku poetry, which is composed with 17 syllables and the world’s shortest and clearest rules, to
+examine aesthetic evaluations of AI art and people’s beliefs about it. AI-generated haiku were divided into those
+with and without human intervention. Two tasks were completed by 385 participants. The first involved eval­
+uating human-made and AI-generated haiku on 21 items, such as beauty. The second involved determining
+whether the haiku were human-made or AI-generated. The results showed that the beauty rating of the AIgenerated haiku with the human intervention was the highest, and those of the human-made and AIgenerated haiku without human intervention were equal. Furthermore, participants could not distinguish be­
+tween human-made and AI-generated haiku. These results suggest that human–AI collaboration has better
+creativity in haiku production. Moreover, a negative correlation was found between discrimination performance
+and beauty rating in AI-generated haiku, suggesting that high-quality AI-generated work is believed to be humanmade. This study indicates the potential of human–AI collaboration in haiku and the underestimation of AI art
+due to algorithm aversion.
+
+1. Introduction
+
+intellectual activities performed by humans. Studies on painting show
+consistent results that the discrimination between human-made and
+AI-generated paintings is difficult (Chamberlain et al., 2018; Elgammal
+et al., 2017; Gangadharbatla, 2022; Ragot, Martin, & Cojean, 2020;
+Ueda et al., 2021). Moreover, Chamberlain et al. (2018) found that the
+discrimination was also difficult when the participants were art majors.
+Interestingly, even if they cannot distinguish the artists of paintings,
+when asked to rate their preference and beauty, the scores differed
+(Ragot et al., 2020; Ueda et al., 2021, but it was not found in Cham­
+berlain et al., 2018). Moreover, some studies showed that the preference
+in art is not influenced by the actual authorship but rather whom a
+person believes the author to be (i.e., attributional authorship, Cham­
+berlain et al., 2018; Ragot et al., 2020, but not in Hong & Curran, 2019).
+Given that AI can now generate literature and poetry, in recent years,
+it is worth extending the discussion to the linguistic arts. Studies
+comparing human-made and AI-generated literature and poetry has
+been examined since the late 2010s (Gunser et al., 2022; Hopkins &
+Kiela, 2017; Köbis & Mossink, 2021; Lau et al., 2018; Lc, 2021; Oliveira,
+
+Artificial Intelligence (AI) art is flourishing. The main focus of AI art
+has been on visual arts such as painting (Elgammal et al., 2017; Gatys
+et al., 2016; Karayev et al., 2013; Li & Wand, 2016, see Cetinic & She,
+2022 for review). Recently, the dramatic improvement in natural lan­
+guage processing and generation technology has enabled AI to create
+literature and poetry that closely resemble those created by humans.
+This kind of AI art has attracted the attention of researchers in the fields
+of computer science and robotics on the generation side, and those from
+psychology and philosophy, where the debate centers on understanding
+beauty and creativity (c.f., Daniele & Song, 2019).
+Previous studies evaluating AI art have compared algorithmic and
+human-made art, asking participants to discriminate the artist (human
+vs. AI) and to evaluate aesthetic scores (e.g., Chamberlain et al., 2018;
+Gangadharbatla, 2022; Ueda et al., 2021). Artist discrimination applies
+the Turing test to AI art, which verifies that the capabilities of a machine
+or artificial intelligence are equal to, or indistinguishable from, the
+
+Abbreviations: HOTL, Human-out-of-the-loop; HITL, Human-in-the-loop; LSTM, Long short-term memory; IRI, Interpersonal Reactivity Index.
+* Corresponding author. Institute for the Future of Human Society, Kyoto University, Yoshida Shimoadachi-cho 46, Sakyo, Kyoto, 606-8501, Japan.
+E-mail address: ueda.yoshiyuki.3e@kyoto-u.jp (Y. Ueda).
+https://doi.org/10.1016/j.chb.2022.107502
+Received 25 May 2022; Received in revised form 6 September 2022; Accepted 24 September 2022
+Available online 4 October 2022
+0747-5632/© 2022 Published by Elsevier Ltd.
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+2009; Schwartz, 2015; see Table 1 for the summary). Oscar Schwartz
+first demonstrated whether it was possible to distinguish between the
+two (Schwartz, 2015). When his “Bot or Not” website asked viewers to
+compare human-made and algorithmically generated poems, 65% of
+algorithmically generated poems deceived the author (i.e., poems
+written by AI seemed to have been written by humans). Later, Lau et al.
+(2018) generated 14-line sonnets by Deep-speare consisting of language,
+rhythm, and rhyme models, and asked laypersons and an expert of En­
+glish literature to evaluate them. Although the laypeople could not
+distinguish between AI-generated and human-made work, the expert
+judged the former inferior to the latter regarding readability and evoked
+emotions. Note that in the study by Lau et al. (2018), there was only one
+expert, and thus, it was unclear whether other experts would also be able
+to distinguish between them or whether this differentiation was unique
+to this particular expert.
+In these studies, AI-generated poems were ultimately selected by
+humans; however, in order to make human involvement in AI poems
+more rigorous, Köbis and Mossink (2021) distinguished AI poems into
+human-out-of-the-loop (HOTL) and human-in-the-loop (HITL), where
+the former did not require human intervention when selecting items
+from AI-generated poems, while the latter required stimuli to be
+generated by AI and selected by humans. The results showed that AI
+poems with HOTL could be distinguished from human-made ones, but
+those with HITL were not. In other words, the findings revealed that
+human involvement could increase the quality of AI poetry, making it
+equivalent to that of humans. More recently, Gunser et al. (2022)
+replicated Köbis and Mossink (2021) using more materials and found
+that participants could not distinguish between human and AI poems
+with HITL. At the same time, human poems were found to be superior in
+multiple evaluations, such as inspiring and well-written.
+The present study attempts to extend the previous findings to the
+world’s shortest poem, the haiku. Haiku, which originated in Japan, has
+clear rules, such as a fixed form of 5-7-5 syllables and the inclusion of
+seasonal words called “kigo” (Iida, 2008). These rules of haiku make it
+different from other forms of poetry. The first aspect is ambiguity; since
+the number of characters in haiku is small, the expression is ambiguous,
+and readers have to supplement and interpret the scene from the little
+information they have (Hitsuwari & Nomura, 2022a; 2022c). Therefore,
+even though AI generates ambiguous haiku, readers will attempt to
+interpret them according to the scenes they can imagine. The second is
+that the impression of haiku depends on one or two mental images
+evoked (Blasko & Merski, 1998; Hitsuwari & Nomura, 2022b). Other
+types of poetry are generally longer than haiku and often translate to
+various images depending on different scenes, which eliminates the
+problem of having consistency and a sense of narrative between scenes.
+Despite the difficulty of composing haiku with a small number of
+characters, AI has attempted this task (Kawamura et al., 2021;
+Yokoyama et al., 2019).1 These characteristics make AI-generated haiku
+highly evaluated and difficult to distinguish from human-generated
+ones.
+In this study, we further examined the factors that contributed to the
+evaluation of beauty in human-made and AI-generated haiku. Previous
+studies evaluated poems with some items (e.g., readability and
+emotional evocation in Hopkins & Kiela, 2017, and well-written,
+inspiring, fascinating, interesting, and aesthetic in Gunser et al., 2022;
+details in Table 1). Although recent studies on neuroaesthetics suggest
+that aesthetic is composed of sensory–motor, emotional–valuation, and
+meaning–knowledge systems (Chatterjee & Vartanian, 2014), the
+number of items used in previous studies was too small to examine the
+
+factors that evoke the feeling of beauty in haiku. To determine the
+general characteristics of the beauty experience across object kinds,
+Brielmann et al. (2021) proposed eleven dimensions that have been
+considered by prominent philosophers of aesthetics (pleasure, wishing
+to continue the experience, feeling alive, feeling that the experience is
+beautiful to everyone, number of felt connections to the experience,
+longing, feeling free of desire, mind wandering, surprise, wanting to
+understand the experience more, and feeling that the experience tells a
+story) and eight dimensions conveyed by psychologists (complexity,
+arousal or excitement, learning from the experience, wanting to un­
+derstand, harmony in variety, meaningfulness, exceeding one’s expec­
+tation, and interest).2 In accordance with Brielmann et al. (2021), these
+dimensions were used to identify factors that delineate the experience of
+beauty in human-made and AI-generated haiku. In addition, we
+exploratory examined feelings of awe and nostalgia, which have been
+involved in a previous haiku study as well (Hitsuwari & Nomura,
+2022c).
+A problematic psychological characteristic in the evaluation of AI art
+is algorithm aversion, the belief that beautiful things are made by
+humans, not AI (Burton et al., 2020). This is also associated with a
+preference for AI poetry (Köbis & Mossink, 2021). Given that Okanda
+et al. (2019) showed that animism and empathy traits influenced the
+evaluation of moral aspects of robots, individual differences in these
+traits may influence the impressions of robots and AI, and could be
+related to the discrimination between human-made and AI-generated
+haiku.
+2. Hypotheses
+This study aimed to examine how haiku, as a literary art form created
+by AI, humans, and a collaboration between them, affects beauty scores
+and discrimination of authors. Our main concerns were fourfold: while
+the first two focused on the evaluation of the work, the latter two
+focused more on the attributional authorship.
+First, we compared the beauty scores of human-made, AI-generated
+without human intervention (i.e., HOTL), and AI-generated with human
+intervention (i.e., HITL) haiku. Since human involvement likely in­
+creases the quality of AI poetry (e.g., Köbis & Mossink, 2021), HITL
+haiku would be more evaluated than HOTL. Moreover, AI-generated
+haiku may be evaluated the same as, or even better than,
+human-made haiku, since people can sufficiently engage their imagi­
+nation, even with little information.
+Second, we examined the factors that can explain the beauty of
+human-made and AI-generated (HOTL/HITL) haiku. Although factors
+affecting the aesthetic perception of human-made and AI-generated art
+are diverse, no study of AI poetry has addressed using a copious number
+of evaluation items. Following the previous study (Brielmann et al.,
+2021), we expected that aesthetic evaluations are associated with both
+philosophical and psychological perspectives.
+Third, we examine whether participants can distinguish between
+human-made and AI-generated (HOTL/HITL) haiku. Referring to the
+previous study using typical poems (Köbis & Mossink, 2021), we expect
+that participants would be able to distinguish between HOTL and human
+haiku but not between HITL and human haiku. However, given that
+haiku have less information and more reliance on the reader’s imagi­
+nation than other poems, even HOTL haiku may not be distinguished
+from human haiku.
+Finally, we examine which factors, especially participants’ back­
+grounds (education and experience of haiku) and personality traits (i.e.,
+animism and empathy, which are associated with attitudes toward ro­
+bots and AI), explain the discrimination accuracy of authors. Based on
+the finding of Chamberlain et al. (2018), which stated that author
+
+1
+
+In a TV show demonstration (not an empirical study) that evaluated the
+quality of five human-made and AI-generated haiku each, the highest rated
+haiku was the AI-generated one although the results of the one-on-one com­
+parisons showed that human-made haiku had a higher win rate than AIgenerated ones.
+
+2
+For a detailed explanation of these dimensions, please see the original text
+and references in Brielmann et al. (2021).
+
+2
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+Table 1
+Literature review comparing human-made and AI-generated poetry.
+ID
+
+Study
+
+HITL
+or
+HOTL
+
+AI
+algorithm
+
+Human
+poems
+
+Number of
+evaluators
+
+Number of
+poems
+
+Rating
+
+Discriminating
+
+Limitations
+
+Notes
+
+1
+
+Schwartz
+(2015)
+
+HITL
+
+Various
+algorithms
+(e.g.,
+RACTER &
+RKCP)
+
+Professional
+poets (e.g.,
+William Blake
+& Frank
+O’Hara)
+
+Thousands of
+people
+
+NA
+
+NA
+
+- 65% of them
+could not
+identify the
+author
+
+2
+
+Hopkins and
+Kiela (2017)
+
+HITL
+
+LSTM
+
+Classic poets
+(e.g.,
+Shakespeare)
+
+70
+
+Eight
+manmade
+and two AIgenerated
+poems
+
+- 48.6% of
+human poems
+were falsely
+attributed to AI
+and 53.8% of AI
+poems were
+falsely
+attributed to
+humans
+
+- First attempt
+to examine
+whether
+human and AI
+poetry can be
+discriminated
+
+3
+
+Crowdworkers
+in Lau et al.
+(2018)
+
+HOTL
+
+Deepspeare
+
+Professional
+poets (e.g.,
+Shakespeare)
+
+1000
+
+50
+manmade
+and 180 AIgenerated
+quatrains
+
+- Human poems
+were rated
+slightly higher
+quality (in total
+score of form,
+readability,
+and emotional
+evocation)
+than AIgenerated
+poems
+- The poems
+judged to be
+the most
+human and
+aesthetic were
+AI-generated
+NA
+
+- Not empirical
+study (without
+control of
+experimental
+conditions or
+participants)
+- Small sample
+size of poems
+and
+participants
+
+- No statistical
+tests were
+performed
+
+- Each
+participant
+rated a few
+poems
+
+4
+
+Expert in Lau
+et al. (2018)
+
+HOTL
+
+Deepspeare
+
+Professional
+poets (e.g.,
+Shakespeare)
+
+1
+
+30
+manmade
+and 90 AIgenerated
+quatrains
+
+- Accuracy was
+53.2%,
+indicating it was
+hard to
+distinguish
+between human
+and AI poems
+NA
+
+- Only one
+evaluator
+
+- Evaluator was
+an expert in
+English
+literature
+
+5
+
+Lc (2021)
+
+HITL
+
+GPT-2
+
+Author made
+
+25
+
+5 manmade
+and 5 AIgenerated
+poems
+
+- Accuracy was
+61.6% for
+human-made
+poems and
+56.0% for AIgenerated
+poems, but there
+was no
+significant
+difference
+between them
+
+- Small sample
+size of poems
+and
+participants
+
+- the AI could
+reproduce the
+nuance of the
+original text
+
+6
+
+Study 1 in
+Köbis and
+Mossink (2021)
+
+HITL
+
+GPT-2
+
+Novice made
+
+192 (About half
+of them
+participated in
+the
+discrimination
+task)
+
+20
+manmade
+and ten AIgenerated
+poems
+
+- 50.2% of all
+answers
+correctly
+discriminated
+the author
+
+- Only HITL
+
+7
+
+Study 2 in
+Köbis and
+Mossink (2021)
+
+HITL
+&
+HOTL
+
+GPT-2
+
+Classic poets
+(Maya
+Angelou &
+Hermann
+Hesse)
+
+384 (185
+participated in
+the
+discrimination
+task)
+
+Ten
+manmade,
+ten AIgenerated
+with HITL,
+and ten AIgenerated
+with HOTL
+poems
+
+- 65.5% in the
+HOTL poems
+and 53.7% in
+the HITL poems
+could be
+discriminated
+
+- Little variety
+in humanmade poems
+
+- AI-generated
+poems was
+better in meter
+and rhyme
+than humanmade.
+- Human-made
+poems were
+better in
+emotion and
+readability
+than AIgenerated
+- Evaluation
+regarding
+structure was
+not
+significantly
+different, but
+expression was
+rated higher
+for humanmade than AIgenerated
+poems
+- Human-made
+poems were
+rated higher
+than AIgenerated
+poems with a
+57.0%
+probability.
+- Participants
+chose the
+better of the
+human-made
+and AIgenerated
+poems, and
+human-made
+poetry was
+
+- First
+experiment
+comparing
+HOTL and
+HITL
+
+(continued on next page)
+
+3
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+Table 1 (continued )
+ID
+
+Study
+
+HITL
+or
+HOTL
+
+AI
+algorithm
+
+Human
+poems
+
+Number of
+evaluators
+
+Number of
+poems
+
+8
+
+Study 1 in
+Gunser et al.
+(2022)
+
+HITL
+
+GPT-2
+
+Experts (
+Gunser et al.,
+2022)
+
+120
+
+18
+manmade
+and 18 AIgenerated
+with HITL
+poems
+
+9
+
+Study 2 in
+Gunser et al.
+(2022)
+
+HITL
+
+GPT-2
+
+Classic poets
+(Franz Kafka,
+Friedrich
+Hölderlin,
+Robert
+Gernhardt, &
+Paul Celan)
+
+302
+
+18
+manmade
+and 18 AIgenerated
+with HITL
+poems
+
+discrimination accuracy did not change depending on whether the
+participant was an art major or not, it was expected that the participants’
+backgrounds would not significantly affect the accuracy of discrimina­
+tion between human-made and AI-generated ones. Moreover, it was
+expected that animism and empathy, which decrease algorithmic aver­
+sion, would work to the advantage of author discrimination, since
+algorithmic aversion instantly attributes a work of beauty to a human
+authorship.
+
+Rating
+
+higher
+evaluated in
+64.9%than AIgenerated.
+(62.9% for
+HITL and
+66.9% for
+HOTL)
+- Human-made
+poems were
+rated higher in
+5 evaluations
+(well-written,
+inspiring,
+fascinating,
+interesting,
+and aesthetic)
+than AIgenerated
+- Human-made
+poems were
+rated higher in
+five
+evaluations
+(well-written,
+inspiring,
+fascinating,
+interesting,
+and aesthetic)
+than AIgenerated
+
+Discriminating
+
+Limitations
+
+Notes
+
+- 40.3% of
+human-made
+poems were
+falsely
+attributed to AI,
+and 42.0% of AIgenerated
+poems were
+falsely
+attributed to
+human-made
+- 33.5% of
+human-made
+poems were
+falsely
+attributed to AI,
+and 40.2% of AIgenerated
+poems were
+falsely
+attributed to
+human-made
+
+- Only HITL
+
+- Expert poets
+and GPT-2
+created
+continuations
+of the classical
+poems
+
+- Human-made
+poems could
+be easily
+detected due to
+their historical
+language
+usage and
+sublime style
+
+3.2. Materials
+3.2.1. Haiku stimulus
+To disperse the seasons and genres of haiku, we selected ten seasonal
+words that must be included in haiku. Forty human-made haiku (four for
+each of the ten seasonal words) were selected from the Saijiki, which
+contains several haiku poems created by professionals for each seasonal
+word. All of haiku in the Saijiki are highly regarded by the professionals.
+In a preliminary survey, eight laypersons (not included in the actual pool
+of participants) confirmed that they had never seen these haikus before.
+For AI-generated haiku, we used the haiku generation system based on
+the Long Short-Term Memory (LSTM) algorithm developed by the
+Harmonic System Engineering Lab at Hokkaido University, Japan
+(Kawamura et al., 2021; Yokoyama et al., 2019). The system first gen­
+erates a set of candidate haiku sentences using a language model trained
+on haiku data by LSTM. The system then applies morphological analysis
+to the generated sentences and selects those that match the form of
+seasonal fixed form haiku. The similarity between the generated sen­
+tences and the haiku in the training data is calculated and sentences that
+are more similar than a certain threshold are removed. Depending on the
+frequency of seasonal words, the number of generated haiku varies. For
+each of the ten seasonal words, the system generated 36,442 to 624,130
+haikus. In the algorithm, the AI itself calculated the degree of their
+validity as Japanese language and finally, generated the top 500 haiku
+as AI-generated haiku.
+From the AI-generated haiku, we randomly selected 20 (two for each
+of the ten seasonal words) and designated them as HOTL haiku. Another
+20 haiku (two for each of the ten seasonal words) that were highly rated
+for their beauty by three amateur/novice haiku artists were designated
+HITL haiku.
+The 80 haiku were then randomly divided into two stimulus lists of
+40 haiku, each consisting of 20 human-made, ten HOTL, and ten HITL
+haiku per list.
+
+3. Methods
+This study was approved by the institutional review board of the
+Psychological Science Unit at Kyoto University (2-P-21). All data, ma­
+terials, and scripts are available online (https://osf.io/s6wny/).
+3.1. Participants
+Assuming a small effect size, 322 subjects would be needed to
+compare the three ways of the generated haiku (i.e., human-made, HITL
+vs. HOTL). Therefore, we conducted a web-based experiment to recruit
+400 Japanese participants through CrowdWorks (https://crowdworks.
+jp). We excluded 15 participants who did not respond appropriately to
+an attention check which involved asking for a specific answer in the
+questionnaire. Therefore, data from 385 participants (191 male and 194
+female participants, Mage = 40.9, SD = 10.1) were included in the final
+analysis. All participants were informed of the study’s purpose, meth­
+odology, risks, duration of the experiment, the voluntary nature of
+participation, their right to withdraw, and how the participants infor­
+mation was to be handled. Furthermore, written informed consent was
+obtained before they participated in the experiment. They were paid 500
+JPY for their participation.
+
+4
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+or AI. After judging all of the haiku, they chose from the following 12
+items that provided clues for their decisions: the rhythm of words,
+consistency, regularity, repeatability, complexity, depth, abstraction,
+intentionality, uniqueness, expression, nuance, and others. Finally, they
+were asked to provide an open-ended explanation of their decision of
+choosing the haikus as human or AI-generated.
+Trait block. Here, in addition to age, sex, educational background,
+and nationality, the participants were asked to answer the five types of
+trait questionnaires. Educational backgrounds were categorized as: (1)
+junior high school, (2) high school, (3) junior college/technical college,
+(4) university, and (5) graduate school.
+
+3.2.2. Questionnaires to investigate personality traits
+To examine the effect of personality traits on judgments, we
+measured personality traits using five types of questionnaires.
+First, the Interpersonal Reactivity Index (IRI) (Davis, 1980; Himichi
+et al., 2017) was used to measure trait empathy. The scale consists of
+four subscales: empathic concern, personal distress, perspective-taking,
+and fantasy, with a five-point Likert scale.
+Second and third, the Adult Animism Scale (Ikeuchi, 2010) and the
+Aliveness Animism Scale (Okanda et al., 2019) were used to measure
+animism traits. The former is an 11-item scale with a five-point Likert
+scale consisting of three subscales: the deification of natural objects, the
+alterity of the owner, and anthropomorphism of possessions. This scale
+reflects the tendency to perceive divinity and the existence of life in
+inanimate objects, even though they do not possess life. The latter scale
+reflects the tendency to think that inanimate objects are alive and asks
+the participants to select all the objects that they think are alive from
+eight items (lit candle, telephone, clock, doll, teddy bear, banana peel,
+cloud, and mud) and four plants (tree, flower, grass, and vegetable).
+Fourth, the following questions were used to measure knowledge of
+and interest in haiku and art: haiku experience (“I just learned about it in
+elementary school or junior high school,” “I have had few opportunities
+to experience it as an adult,” “I have had opportunities to experience it as
+an adult,” “I have had many opportunities to experience it as an adult,”
+“I have had opportunities to experience it every day as an adult.”),
+frequency of museum visits (“more than twice a month,” “about once a
+month,” “a few times a year,” “about once a year,” “I rarely go,” “I have
+never been”), experience in creative jobs (“no such experience,” “a lit­
+tle,” “a lot,” “quite a lot”), and interest in the arts (“not at all,” “very
+little,” “a little,” “a lot,” “quite a lot”).
+Fifth, in addition to the above, as exploratory research, a four-item
+scale developed by Sugimori and Kusumi (2014) was used to measure
+the frequency of déjà vu experiences and sensitivity to similarity. Two
+items measured the frequency of the déjà vu experience using a
+seven-point Likert scale (1: did not have the experience in the past year
+to 7: every day), and the other two items measured the degree to which
+the déjà vu experience applied to them using a five-point Likert scale (1:
+definitely does not apply to 5: definitely applies to me).
+
+3.4. Data analysis
+For the first purpose, we averaged each person’s beauty score for
+each group and compared them with one-factor ANOVA (human haiku,
+HOTL haiku, vs. HITL haiku) using the “anovakun” function (ver. 4.8.6;
+Iseki, 2021) in R (ver. 4.1.0). Furthermore, we conducted the same
+analysis on the 20 ratings other than beauty for exploratory analysis.
+Second, we examined whether the 20 ratings other than beauty could
+explain the beauty score with a linear mixed model using the lmer
+package (Bates et al., 2015). A total of 15,400 observations, with 385
+individuals and 40 haikus, met the sample size of the literature (Arend &
+Schäfer, 2019) on the testing power of hierarchical data and repeated
+measures data (called multilevel models). The dependent variable was
+the beauty score, the independent variables were 20 ratings other than
+beauty and haiku conditions, and educational background was the
+control variable. The participants, haiku, and task order (whether the
+rating block or the discriminating block was first) were put into random
+effects. The independent variables were centered within a cluster. The
+educational background was included as a control variable because
+prior knowledge can significantly influence the evaluation of haiku
+(Sato, 2007).
+Third, to examine whether participants could distinguish between
+human and AI haiku, we conducted a t-test to see if the hit rate signif­
+icantly differed from the chance level (0.5).
+Finally, to examine whether individual traits could explain the
+discrimination accuracy, we analyzed a generalized linear mixed model
+(logistic analysis) with hit or not as the dependent variable, individual
+traits as the independent variable, and participants and haiku as random
+effects. The independent variables were centered using the grand mean.
+
+3.3. Procedure
+The participants accessed the experiment page available on the
+Internet. They first read the informed consent information, and started
+the experiment upon agreeing to it. The experiment consisted of three
+blocks: the rating block to evaluate the haiku, the discriminating block to
+judge whether the creator of the haiku was human or not, and the trait
+block to measure the personality traits of the participants. Following
+Chamberlain et al. (2018), the influence of author attribution (prior
+knowledge about whether the work produced by AI was included in the
+list) was controlled with half the participants completing the rating block
+first, followed by the discriminating block. The other half completed the
+discriminating block first, followed by the rating block. For both sets of
+participants, the trait block was completed at the end of the experiment.
+Furthermore, both sets of participants were presented with two different
+haiku lists (including 40 haikus, each), to investigate the consistency of
+the results in both lists.
+Rating block. Here, human-made and AI-generated haiku were
+presented individually. Participants were asked to evaluate them using
+the following 21 dimensions on a 7-point Likert scale: psychological
+factors related to aesthetic evaluations such as beauty, valence, arousal,
+awe, empathy, vividness, passion, novelty, nostalgia, and déjà vu, and
+certain philosophical factors including pleasure, wish to continue the
+experience, alive, universality, number of connections, longing, free of
+desire, mind wandering, surprise, want to understand, and tells story
+(see Brielmann et al., 2021 for the details).
+Discriminating block. Here, the haiku were presented and the
+participants were asked to judge whether each was created by humans
+
+4. Results
+4.1. Beauty scores for human-made and AI-generated haiku
+Table 2 shows the descriptive statistics for each item of the haiku
+evaluations. We compared the beauty scores of the human, HOTL, and
+HITL conditions (i.e., the first row of Table 2). The result showed that the
+main effect of condition was F(384, 2) = 212.41, p = .00, η2 = 0.06.
+Following multiple comparisons showed that HITL had the highest
+scores. There was no difference in the scores between the human and
+HITL conditions (see Fig. 1). Table 2 also shows the results of explor­
+atory analyses on other 20 ratings. These results suggest that AIgenerated haiku were more highly evaluated than the human-made
+ones when humans intervened in the AI outputs (i.e., HITL).
+4.2. Explanatory factors for beauty of human-made and AI-generated
+haiku
+Next, we determined the most explanatory factors for the aesthetic
+evaluation by examining whether the 20 factors concerning the beauty
+evaluation, task order, haiku list, and condition could explain the beauty
+of haiku using a linear mixed model (Table 3). All factors related to the
+beauty evaluation had contributions to the beauty of haiku, except alive
+(b = − 0.01, SE = 0.01, t = − 0.56, p = .57), mind wandering (b = 0.01,
+5
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+Table 2
+Descriptive statistics for rating items of Haiku evaluation.
+Mean (SD)
+Beauty
+Déjà vu
+Image
+Valence
+Arousal
+Awe
+Nostalgia
+Novelty
+Empathy
+Intention
+Joy
+Continue
+Alive
+Universality
+Longing
+Free desire
+Mind wandering
+Connection
+Surprise
+Understand
+Tells story
+
+Human
+
+HOTL
+
+HITL
+
+4.15
+(.75)
+3.30
+(1.06)
+4.60
+(.68)
+4.11
+(.58)
+3.96
+(.69)
+3.39
+(.99)
+4.14
+(.89)
+3.63
+(.70)
+3.81
+(.87)
+4.48
+(.76)
+3.40
+(.83)
+3.80
+(1.00)
+3.58
+(.99)
+3.82
+(.77)
+3.58
+(.97)
+3.34
+(.92)
+3.20
+(1.00)
+3.34
+(1.02)
+3.06
+(1.04)
+4.10
+(.97)
+4.44
+(.83)
+
+4.14
+(.78)
+3.17
+(1.05)
+3.99
+(.79)
+4.00
+(.60)
+3.82
+(.74)
+3.36
+(1.02)
+4.08
+(.96)
+3.57
+(.73)
+3.53
+(.92)
+4.35
+(.81)
+3.31
+(.87)
+3.71
+(1.05)
+3.44
+(1.02)
+3.79
+(.80)
+3.49
+(1.04)
+3.43
+(.95)
+3.20
+(1.02)
+3.31
+(1.05)
+2.95
+(1.04)
+4.15
+(1.03)
+4.41
+(.86)
+
+4.56
+(.74)
+3.50
+(1.09)
+4.63
+(.75)
+4.28
+(.64)
+4.08
+(.74)
+3.68
+(1.03)
+4.28
+(.90)
+3.64
+(.77)
+3.97
+(.89)
+4.59
+(.78)
+3.57
+(.87)
+4.01
+(1.00)
+3.73
+(1.02)
+4.17
+(.77)
+3.71
+(.99)
+3.53
+(.98)
+3.39
+(1.02)
+3.47
+(1.03)
+3.07
+(1.06)
+4.27
+(1.00)
+4.60
+(.84)
+
+F value
+
+p value
+
+η^2
+
+Multiple comparison
+
+212.41
+
+.00
+
+.06
+
+Human = HOTL < HITL
+
+106.63
+
+.00
+
+.02
+
+HOTL < human < HITL
+
+302.23
+
+.00
+
+.13
+
+HOTL < human = HITL
+
+92.19
+
+.00
+
+.04
+
+HOTL < human < HITL
+
+75.88
+
+.00
+
+.02
+
+HOTL < human < HITL
+
+110.72
+
+.00
+
+.02
+
+Human = HOTL < HITL
+
+42.19
+
+.00
+
+.01
+
+HOTL < human < HITL
+
+6.70
+
+.00
+
+.00
+
+HOTL < human = HITL
+
+181.03
+
+.00
+
+.04
+
+HOTL < human < HITL
+
+54.67
+
+.00
+
+.02
+
+HOTL < human < HITL
+
+68.85
+
+.00
+
+.02
+
+HOTL < human < HITL
+
+92.46
+
+.00
+
+.02
+
+HOTL < human < HITL
+
+78.92
+
+.00
+
+.01
+
+HOTL < human < HITL
+
+177.46
+
+.00
+
+.05
+
+Human = HOTL < HITL
+
+46.68
+
+.00
+
+.01
+
+HOTL < human < HITL
+
+29.93
+
+.00
+
+.01
+
+Human < HOTL < HITL
+
+50.12
+
+.00
+
+.01
+
+Human = HOTL < HITL
+
+31.06
+
+.00
+
+.00
+
+Human = HOTL < HITL
+
+22.74
+
+.00
+
+.00
+
+HOTL < human = HITL
+
+28.67
+
+.00
+
+.01
+
+HOTL < human < HITL
+
+44.50
+
+.00
+
+.01
+
+Human = HOTL < HITL
+
+human intervention (i.e., HITL) had a higher beauty score than humanmade haiku, and the score of AI-generated haiku without human inter­
+vention (i.e., HOTL) was compatible with human-made haiku. The result
+also indicated that task order (i.e., prior knowledge about whether the
+work produced by AI) did not affect the evaluation of the beauty of
+haiku. Furthermore, the result did not depend on the stimulus set that
+was presented to the participants. Refer to Supplementary Table 1 for
+the results of the linear mixed model for each condition.
+4.3. Distinguishing between human-made and AI-generated haiku
+For the attributional authorship (i.e., the participants’ abilities to
+distinguish between human-made and AI-generated haiku), hit rates (i.
+e., the probability of correctly judging human-made haiku as humanmade and AI-generated haiku as AI-generated) for the human, HOTL,
+and HITL conditions were .55, .50, and .43, respectively (Fig. 2; see also
+Supplementary Table 2 for the hit rate of each haiku and list). Although
+the hit rate in the human condition was significantly higher than the
+chance level, t(39) = 3.51, p = .001, in the HITL condition it was
+significantly lower than the chance level, t(19) = − 3.19, p = .005. The
+hit rate in the HOTL condition was not different from the chance, t(19)
+= 0.03, p = .98. These results suggest that the participants could not
+distinguish between human-made and AI-generated for HOTL haiku.
+Furthermore, they believed that the authorship of HITL haiku was
+human rather than AI.
+
+Fig. 1. Beauty scores in the human, HOTL, and HITL conditions.
+
+SE = 0.01, t = 1.17, p = .24), and connection (b = − 0.01, SE = 0.01, t =
+− 1.31, p = .19). Task order (b = − 0.04, SE = 0.08, t = − 0.42, p = .67),
+haiku list (b = − 0.06, SE = 0.06, t = − 1.04, p = .30), and the conditional
+difference between human and HOTL (b = 0.11, SE = 0.09, t = 1.35, p =
+.18) did not explain the beauty of haiku, while the conditional difference
+between human and HITL (b = 0.18, SE = 0.09, t = 2.16, p = .03) did. As
+shown in Section 4.1, these results showed that AI-generated haiku with
+6
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+Table 3
+Results of the linear mixed model for factors explaining beauty.
+Random effects
+
+Name
+
+Variance
+
+SD
+
+ID
+Haiku ID
+Residual
+
+(Intercept)
+(Intercept)
+
+.49
+.09
+.70
+
+.70
+.30
+.84
+
+Fixed effects
+
+Estimate
+
+SE
+
+df
+
+t value
+
+p value
+
+(Intercept)
+Déjà vu
+Image
+Valence
+Arousal
+Awe
+Nostalgia
+Novelty
+Empathy
+Intention
+Joy
+Continue
+Alive
+Universality
+Longing
+Free desire
+Mind wandering
+Connection
+Surprise
+Understand
+Tells story
+Task order
+Haiku list
+Human vs. HOTL
+Human vs. HITL
+Education
+
+4.16
+.09
+.11
+.05
+.04
+.10
+.03
+− .02
+.05
+.03
+.03
+.16
+− .01
+.28
+− .03
+.01
+.01
+− .01
+− .02
+.05
+.03
+− .01
+− .03
+.11
+.18
+.04
+
+.07
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.01
+.11
+.10
+.08
+.08
+.04
+
+227.90
+14940.00
+14990.00
+14970.00
+14940.00
+14990.00
+14960.00
+14940.00
+14950.00
+14950.00
+14980.00
+14930.00
+14940.00
+14990.00
+14930.00
+14970.00
+14930.00
+14920.00
+14950.00
+14920.00
+14930.00
+336.50
+381.00
+75.18
+75.08
+381.00
+
+62.36
+13.15
+16.26
+6.32
+5.05
+13.58
+4.19
+− 3.24
+6.22
+3.82
+3.81
+16.83
+− .56
+32.85
+− 3.32
+2.23
+1.17
+− 1.31
+− 2.40
+6.26
+3.22
+− .08
+− .25
+1.35
+2.14
+1.12
+
+.00***
+.00***
+.00***
+.00***
+.00***
+.00***
+.00***
+.00**
+.00***
+.00***
+.00***
+.00***
+.57
+.00***
+.00***
+.03*
+.24
+.19
+.02*
+.00***
+.00**
+.94
+.81
+.18
+.04*
+.26
+
+Fig. 3. The scatterplot between the beauty score and the hit rate.
+
+4.4. The relationship between hit rate and personality traits
+Finally, we examined the factors explaining the discrimination ac­
+curacy of authors. These factors included, the educational background,
+experience of haiku, and personality traits such as animism and
+empathy. As shown in Table 4, the higher the anthropomorphic ten­
+dency of animism (b = .10, SE = 0.03, z = 2.81, p = .01) and the more
+haiku experience (b = 0.07, SE = 0.03, z = 2.08, p = .04), the higher the
+correct response. This shows that not only the artworks’ characteristics,
+but also the participants’ factor such as anthropomorphic tendencies
+and experience, influenced the discrimination ability of haiku authors.
+Refer to Supplementary Table 3 for the exploratory results entering all
+personal traits measured in this study.
+
+Note. Dummy variables were set as follows: for Task order, − 0.5 for the rating
+first condition and 0.5 for the discriminating first condition; for Haiku list, − 0.5
+for list 1 and 0.5 for list 2; for Human vs. HOTL, 1 for the HOTL condition; for
+Human vs. HITL, the HITL condition is 1, and the other two conditions are 0.
+
+4.5. Exploratory analysis: the rationale behind author discrimination
+We examined the relationship between the rationale behind author
+discrimination (what clues participants focused on to identify the haiku
+author) and hit rate. The most common clue for judging a haiku as
+human-made was “depth of the work” (72% of participants), while that
+for judging haiku as AI-generated was “expressiveness” (58% of par­
+ticipants). Multiple regression analyses with each participant’s hit rate
+as the dependent variable showed that consistency (b = 0.07, SE = 0.02,
+t = 3.91, β = 0.21, p = .00) could explain the human-made haiku hit rate,
+while regularity (b = 0.04, SE = 0.02, t = 2.24, β = 0.12, p = .03),
+Table 4
+Trait factors explaining the discrimination accuracy.
+Random effects
+
+Fig. 2. Hit rate in the human, HOTL, and HITL conditions.
+
+If people believe that beautiful things are made by humans rather
+than AI (i.e., algorithm aversion), there may be a relationship between
+hit rates and beauty scores. We exploratorily examined the relationship
+between the beauty score and the hit rate of each haiku. The results
+showed positive but non-significant correlation in the human condition,
+r(39) = 0.18, p = .26, while there were significantly negative correla­
+tions in the HOTL and HITL conditions, r(19) = − .54, p = .01 and r(19)
+= − .47, p = .04, respectively (Fig. 3). The higher the beauty score in the
+AI haiku, the lower was the hit rate, reflecting that participants believed
+that the more beautiful a haiku, the more likely it was created by a
+human.
+
+Name
+
+Variance
+
+SD
+
+ID
+haikuID
+
+(Intercept)
+(Intercept)
+
+.02
+.15
+
+.16
+.39
+
+Fixed effects
+
+Estimate
+
+SE
+
+z value
+
+p value
+
+(Intercept)
+IRI
+Personal Distress
+Empathic Concern
+Perspective Taking
+Fantasy
+Animism
+Deification
+Personalification
+Anthropomorphization
+Aliveness Animism
+Haiku Experience
+Educational Background
+
+.04
+
+.05
+
+.75
+
+.45
+
+.06
+− .11
+.01
+.04
+
+.03
+.06
+.03
+.03
+
+1.88
+− 1.82
+.26
+1.35
+
+.06
+.07
+.79
+.18
+
+.01
+− .06
+.10
+.01
+.07
+.01
+
+.02
+.03
+.03
+.01
+.03
+.02
+
+.33
+− 1.77
+2.81
+.57
+2.08
+.42
+
+.74
+.08
+.01**
+.57
+.04*
+.67
+
+N: 15400, ID: 385, haikuID: 80.
+7
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+intentionality (b = 0.09, SE = 0.02, t = 4.10, β = 0.21, p = .00), and
+others (b = − 0.15, SE = 0.04, t = − 3.39, β = − 0.17, p = .00) could
+explain the AI-generated haiku hit rate (Table 5).
+
+disappeared for non-experts when there was a slight difference in
+methodology.
+5.2. Factors explaining beauty
+
+5. Discussion
+
+We identified several factors explaining the beauty and hit rate of
+human-made and AI-generated haiku. One of the limitations of previous
+studies was that they compared human poetry with AI poetry using
+limited items such as likeability or beauty. However, this study over­
+came this limitation. For instance, the vividness of mental images,
+positive emotions, and higher-order emotions such as awe and nostalgia,
+which have been known to explain the beauty in human haiku (Hitsu­
+wari & Nomura, 2022b; 2022c), were found to be explanatory factors for
+beauty in AI haiku as well. In addition, philosophical factors considered
+to explain beauty by philosophers and thinkers since long before the
+empirical study of beauty began (Brielmann et al., 2021) were again
+found to relate to the beauty of poetry.
+
+In this study, we evaluated haiku poetry, which has clear rules and
+uses a limited number of characters (i.e., conveying only limited infor­
+mation), created by humans and AI from various perspectives. The re­
+sults showed that the AI-generated haiku which humans chose had
+higher beauty scores than the human-made haiku. Furthermore, the AIgenerated haiku which were randomly chosen had similar beauty scores
+to the human-made haiku. These results suggest that human–AI
+collaboration will lead to better creativity and that AI’s generative
+power is comparable to that of humans in creative fields, at least for
+haiku production. This study also revealed that many factors, specif­
+ically both philosophical and psychological beauty concepts, could
+explain the feeling of beauty in haiku. Regarding the author’s discrim­
+ination, participants could not distinguish between human-made and AIgenerated haiku. This result and the beauty scores discussed above,
+show that AI can produce work of an equivalent quality as humans.
+Furthermore, the personality trait of anthropomorphic tendency and
+haiku experience may contribute to the discrimination ability between
+human-made and AI-generated haiku.
+
+5.3. Author discrimination of AI-generated and human-made haiku
+The failure to discriminate between human-made and AI-generated
+poetry is in-line with previous findings (Hopkins & Kiela, 2017; Lau
+et al., 2018; Schwartz, 2015). In another study, Köbis and Mossink
+(2021) found that the discrimination accuracy between human-made
+and AI-generated poems was above the chance level, due to the high
+accuracy for randomly chosen AI poems (i.e., HOTL; see Table 1), sug­
+gesting that it was hard to identify AI poems with human intervention.
+As with other poetry genres, a major factor behind the failure to
+discriminate could be that the technology for the haiku generation is
+improving (Ito et al., 2018; Kawamura et al., 2021; Yokoyama et al.,
+2019). Moreover, the unique characteristics of haiku, such as being
+much shorter and image-dependent than typical poems, may have hin­
+dered their discrimination even in AI-generated haiku without human
+intervention.
+Considering the negative relationship between beauty scores and hit
+rate in AI-generated haiku, people may have algorithm aversion (Burton
+et al., 2020). Algorithm aversion is an important concept in the research
+context of comparing human and AI poetry (Köbis & Mossink, 2021).
+Here, the thinking may be that humans created the beautiful haiku, i.e.,
+they condescended AI haiku. This study is the first to suggest a rela­
+tionship between algorithm aversion and author discrimination, and the
+result would reflect modern people’s attitudes toward AI art.
+
+5.1. The beauty score between AI-generated and human-made haiku
+The results showing that human-made and AI-generated haiku
+without human intervention had a similar beauty score. The results are
+inconsistent with a previous study (Köbis & Mossink, 2021), where
+human-made poems were liked the most. One explanation for this might
+be the differences in poetic style. Haiku is the shortest form of poetry
+worldwide and needs to consolidate information according to a set of
+rules. Thus, even in this context, the quality of AI art is well ensured. It
+should also be noted that AI training and training materials were
+probably better than those used in previous studies. Haiku may be
+characterized by clear rules such as the 5-7-5 syllable format and the
+inclusion of seasonal words, which may have made training easier.
+Moreover, methodological differences might explain the discrepancies
+between our results and those of previous studies (Köbis & Mossink,
+2021), in which the first two lines of the AI-generated poems were the
+same as the human-made ones, both poems were placed together, and
+participants were asked which they preferred (i.e., two-alternative
+forced choice). Two-alternative forced choice is relatively sensitive to
+subtle differences between the two poems compared with the absolute
+rating we employed in this study. Even if this were the case, the dif­
+ferences between human-made and AI-generated works are subtle. This
+study showed that the advantage that human-made artworks had
+
+5.4. Effects of experience, personality, and clues on author discrimination
+Factors like the personality traits of anthropomorphic tendency and
+empathic concern have been examined in AI and robot interaction
+studies (e.g., Darling et al., 2015; Okanda et al., 2019). This study
+
+Table 5
+Rationale behind author discrimination and hit rate.
+Human
+(Intercept)
+Rhythm
+Consistency
+Regularity
+Repeatability
+Complexity
+Depth
+Abstraction
+Intentionality
+Uniqueness
+Expression
+Nuance
+Others
+
+AI
+
+Mean
+
+Estimate
+
+SE
+
+t value
+
+.30
+.25
+.06
+.02
+.30
+.72
+.25
+.52
+.38
+.48
+.46
+.03
+
+.56
+.02
+.07
+.03
+.09
+− .03
+− .03
+.01
+.00
+.00
+− .01
+− .01
+.07
+
+.02
+.02
+.02
+.03
+.06
+.02
+.02
+.02
+.01
+.01
+.01
+.01
+.05
+
+29.64
+1.41
+3.91
+.96
+1.57
+− 1.62
+− 1.90
+.53
+.11
+.08
+− .98
+− .61
+1.60
+
+Beta
+
+p value
+
+.07
+.21
+.05
+.08
+− .08
+− .10
+.03
+.01
+.00
+− .05
+− .03
+.08
+
+.00***
+.16
+.00***
+.34
+.12
+.11
+.06
+.60
+.91
+.94
+.33
+.54
+.11
+
+8
+
+Mean
+
+Estimate
+
+SE
+
+t value
+
+Beta
+
+p value
+
+.28
+.41
+.38
+.08
+.13
+.23
+.17
+.14
+.05
+.58
+.36
+.03
+
+.46
+− .02
+.00
+.04
+.01
+.02
+− .02
+.01
+.09
+− .05
+− .03
+.01
+− .15
+
+.02
+.02
+.02
+.02
+.03
+.02
+.02
+.02
+.02
+.03
+.02
+.02
+.04
+
+24.23
+− .98
+.26
+2.24
+.26
+.70
+− .97
+.51
+4.10
+− 1.58
+− 1.65
+.68
+− 3.39
+
+− .05
+.01
+.12
+.01
+.03
+− .05
+.03
+.21
+− .08
+− .08
+.03
+− .17
+
+.00***
+.33
+.79
+.03*
+.80
+.49
+.33
+.61
+.00***
+.11
+.10
+.50
+.00***
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+
+showed that they are also meaningful in the discrimination of authors in
+haiku works. From the results, it can be inferred that people with a high
+anthropomorphic tendency do not impulsively judge beautiful haiku as
+human-made, resulting their hit rate to be high.
+Furthermore, we found that participants who paid attention to
+consistency—whether the words used in haiku are consistent with each
+other—had higher hit rates for human-made haiku than AI-generated
+haiku. Compared with this, participants who paid attention to regular­
+ity and intentionality had higher hit rates for AI-generated haiku. AI
+occasionally generated haiku that contained inconsistent meanings and
+were difficult to understand. Therefore, attention to consistency acted as
+a tool for identifying human-made haiku. In addition, regularity is often
+recognized in the appreciation of AI art (cf. Chamberlain et al., 2018),
+and the presence (or absence) of intentionality is one of the major topics
+in AI art research (Chamberlain et al., 2018; McCormack et al., 2019).
+Although the relationship between these factors and AI art detection has
+been pointed out, it has not been demonstrated. This study is the first to
+show this as data.
+
+Funding
+This research was supported by Grants-In-Aid for Scientific Research
+(JSPS KAKENHI Grant Number 19H01773).
+Declaration of competing interest
+We have no known conflict of interest to disclose.
+Data availability
+All data, materials, and scripts are available online (https://osf.
+io/s6wny/).
+Acknowledgements
+We are deeply grateful to Tomohisa Yamashita (Hokkaido Uni­
+veristy) for providing us with AI haiku and allowing us to use them in
+our experiments.
+
+5.5. Limitations and future research
+In this study, human-made and AI-generated haiku were examined in
+terms of rating and discriminating, and the relationship between beauty
+scores and hit rate and various variables was clarified. However, it had
+some limitations. One of them was the selection method of AI haiku for
+the HITL condition. In this study, the selection was made by three nonexperts. As most participants were non-experts, it may have been easier
+for them to understand the HITL haiku than the human-made haiku,
+which experts selected. In the future, experiments with human-made
+haiku selected by the non-experts or HITL haiku intervened by the ex­
+perts could be performed. At the same time, novices and the haiku
+professionals could rate the beauty or discriminate the authors as par­
+ticipants. Nevertheless, at least on laypersons’ perspectives, this study
+indicates that human–AI collaboration has the potential to generate
+great work.
+In this study, only Japanese haiku were presented to Japanese par­
+ticipants. AI models of haiku generation are being refined in other
+countries (Hrešková & Machová, 2018; Wong, Chun, Li, Chen, & Xu,
+2008). Moreover, there was no significant difference in beauty scores in
+an Eastern-Western cultural comparison of haiku (Hitsuwari & Nomura,
+2022c). Hence, this study may be applicable to other cultures as well.
+
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.chb.2022.107502.
+References
+Arend, M. G., & Schäfer, T. (2019). Statistical power in two-level models: A tutorial based
+on Monte Carlo simulation. Psychological Methods, 24(1), 1–19. https://doi.org/
+10.1037/met0000195
+Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). Fitting linear mixed-effects
+models using lme4. Journal of Statistical Software, 67(1), 1–48. https://doi.org/
+10.18637/jss.v067.i01
+Blasko, D. G., & Merski, D. W. (1998). Haiku poetry and metaphorical thought: An
+invitation to interdisciplinary study. Creativity Research Journal, 11(1), 39–46.
+https://doi.org/10.1207/s15326934crj1101_5
+Booten, K., & Gero, K. I. (2021). Poetry machines: Eliciting designs for interactive writing
+tools from poets. Creativity and Cognition, 1–5. https://doi.org/10.1145/
+3450741.3466813. Article 51.
+Brielmann, A. A., Nuzzo, A., & Pelli, D. G. (2021). Beauty, the feeling. Acta Psychologica,
+219, Article 103365. https://doi.org/10.1016/j.actpsy.2021.103365
+Burton, J. W., Stein, M. K., & Jensen, T. B. (2020). A systematic review of algorithm
+aversion in augmented decision making. Journal of Behavioral Decision Making, 33(2),
+220–239. https://doi.org/10.1002/bdm.2155
+Cetinic, E., & She, J. (2022). Understanding and creating art with AI: Review and
+outlook. ACM Transactions on Multimedia Computing, Communications, and
+Applications (TOMM), 18(2), 1–22. https://doi.org/10.1145/3475799
+Chamberlain, R., Mullin, C., Scheerlinck, B., & Wagemans, J. (2018). Putting the art in
+artificial: Aesthetic responses to computer-generated art. Psychology of Aesthetics,
+Creativity, and the Arts, 12(2), 177–192. https://doi.org/10.1037/aca0000136
+Chatterjee, A., & Vartanian, O. (2014). Neuroaesthetics. Trends in Cognitive Sciences, 18
+(7), 370–375. https://doi.org/10.1016/j.tics.2014.03.003
+Daniele, A., & Song, Y. Z. (2019). AI+ art= human. In Proceedings of the 2019 AAAI/ACM
+conference on AI, ethics, and society (pp. 155–161). https://doi.org/10.1145/
+3306618.3314233
+Darling, K., Nandy, P., & Breazeal, C. (2015). Empathic concern and the effect of stories
+in human-robot interaction. In 24th IEEE international symposium on robot and human
+interactive communication (RO-MAN) (pp. 770–775). https://doi.org/10.1109/
+ROMAN.2015.7333675
+Davis, M. H. (1980). A multidimensional approach to individual differences in empathy.
+Journal Supplement Abstract Service Catalog of Selected Documents in Psychology, 10,
+85.
+Elgammal, A., Liu, B., Elhoseiny, M., & Mazzone, M. (2017). CAN: Creative adversarial
+networks generating “art” by learning about styles and deviating from style norms. ArXiv
+https://arxiv.org/abs/1706.07068.
+Gangadharbatla, H. (2022). The role of AI attribution knowledge in the evaluation of
+artwork. Empirical Studies of the Arts, 40(2), 125–142. https://doi.org/10.1177/
+0276237421994697
+Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). Image style transfer using convolutional
+neural networks. In Proceedings of the IEEE conference on computer vision and pattern
+recognition (pp. 2414–2423). https://doi.org/10.1109/CVPR.2016.265
+Gunser, V., Gottschling, S., Brucker, B., Richter, S., Çakir, D., & Gerjets, P. (2022). The
+pure poet: How good is the subjective credibility and stylistic quality of literary short
+texts written with an artificial intelligence tool as compared to texts written by
+human authors?. In Proceedings of the Annual Meeting of the Cognitive Science Society
+(Vol. 44). Retrieved from https://escholarship.org/uc/item/1wx3983m.
+
+5.6. Conclusions
+Aesthetic evaluation and author discrimination of AI-generated and
+human-made haiku were conducted. The beauty scores were the same
+across the human-made haiku and randomly selected AI-generated
+haiku. However, even AI-generated haiku had the highest beauty
+scores if they were chosen by humans. Furthermore, regarding
+discrimination between human-made and AI-generated haiku, it was
+difficult for the participants to discriminate between them. In addition,
+we found a negative correlation between beauty scores and discrimi­
+nation performance in AI haiku. Overall, these results suggest that in
+haiku (where information is minimal) the quality of AI art has reached a
+level which is comparable to that of humans, and the collaboration
+between humans and AI can produce more creative artwork (Booten &
+Gero, 2021). The finding suggests that creativity can be promoted by
+having AI assistance, which may impact art and other domains related to
+creativity.
+CRediT author statement
+Jimpei Hitsuwari: Conceptualization, Methodology, Software,
+Formal analysis, Writing - Original Draft, Visualization. Yoshiyuki
+Ueda: Conceptualization, Methodology, Writing - Review & Editing,
+Supervision. Woojin Yun: Methodology. Michio Nomura: Supervision.
+9
+
+J. Hitsuwari et al.
+
+Computers in Human Behavior 139 (2023) 107502
+meeting of the association for computational linguistics. https://doi.org/10.48550/
+arXiv.1807.03491
+Lc, R. (2021). Imitations of immortality: Learning from human imitative examples in
+transformer poetry generation. In 10th international conference on digital and
+interactive arts (pp. 1–9). https://doi.org/10.1145/3483529.3483537
+Li, C., & Wand, M. (2016). Precomputed real-time texture synthesis with markovian
+generative adversarial networks. In European conference on computer vision (pp.
+702–716). https://doi.org/10.1007/978-3-319-46487-9_43
+McCormack, J., Gifford, T., & Hutchings, P. (2019). Autonomy, authenticity, authorship
+and intention in computer generated art. In International conference on computational
+intelligence in music, sound, art and design (part of EvoStar) (pp. 35–50). https://doi.
+org/10.48550/arXiv.1903.02166
+Okanda, M., Taniguchi, K., & Itakura, S. (2019). The role of animism tendencies and
+empathy in adult evaluations of robot. In Proceedings of the 7th international
+conference on human-agent interaction (Vol. 7, pp. 51–58). https://doi.org/10.1145/
+3349537.3351891
+Oliveira, H. (2009). Automatic generation of poetry: An overview. 1st seminar of art, music,
+creativity and artificial intelligence. Retrieved May 21, 2022 from https://www.resea
+rchgate.net/profile/Hugo-Goncalo-Oliveira/publication/228610670_Automatic_ge
+neration_of_poetry_an_overview/links/00b7d517eea41271af000000/Automatic-ge
+neration-of-poetry-an-overview.pdf.
+Ragot, M., Martin, N., & Cojean, S. (2020, April). AI-generated vs. human artworks. A
+perception bias towards artificial intelligence?. In CHI conference on human factors in
+computing systems (pp. 1–10). https://doi.org/10.1145/3334480.3382892
+Sato, T. (2007). The experienced readers’ liking for haiku and their personality. 26 pp.
+139–147). The Bulletin of Hachinohe Institute of Technology (in Japanese with
+English Abstract) http://id.nii.ac.jp/1078/00001477/.
+Schwartz, O. (2015). Can a computer write poetry?. Retrieved May 21, 2022 from http
+s://www.ted.com/talks/oscar_schwartz_can_a_computer_write_poetry?utm_camp
+aign=tedspread&utm_medium=referral&utm_source=tedcomshare.
+Sugimori, E., & Kusumi, T. (2014). The similarity hypothesis of déjà vu: On the
+relationship between frequency of real-life déjà vu experiences and sensitivity to
+configural resemblance. Journal of Cognitive Psychology, 26(1), 48–57. https://doi.
+org/10.1080/20445911.2013.854248
+Ueda, Y., Hitsuwari, J., Ikeda, H., & Yun, W. (2021). Tell the difference between pictures
+made by artists and computers: Categorization and evaluation. Journal of Vision.
+Vision Sciences Society Annual Meeting, 21(9), 2923. https://doi.org/10.1167/
+jov.21.9.2923
+Wong, M. T., Chun, A. H. W., Li, Q., Chen, S. Y., & Xu, A. (2008, April). Automatic haiku
+generation using VSM. In WSEAS international conference on applied computer and
+applied computational science (Vol. 7, pp. 318–323). Hangzhou, China.
+Yokoyama, S., Yamashita, T., & Kawamura, H. (2019). Generation and selection of haiku
+poems using deep learning. Journal of Japanese Society for Artificial Intelligence, 34(4),
+467–474. https://doi.org/10.11517/jjsai.34.4_467 (in Japanese).
+
+Himichi, T., Osanai, H., Goto, T., Fujita, H., Kawamura, Y., Davis, M. H., & Nomura, M.
+(2017). Development of a Japanese version of the interpersonal reactivity Index.
+Shinrigaku Kenkyu, 88(1), 61–71. https://doi.org/10.4992/jjpsy.88.15218
+Hitsuwari, J., & Nomura, M. (2022a). Ambiguity tolerance can improve through poetry
+appreciation and creation. https://doi.org/10.21203/rs.3.rs-1354600/v1
+Hitsuwari, J., & Nomura, M. (2022b). How individual states and traits predict aesthetic
+appreciation of haiku poetry. Empirical Studies of the Arts, 40(1), 81–99. https://doi.
+org/10.1177/0276237420986420
+Hitsuwari, J., & Nomura, M. (2022c). Beauty and ambiguity: Japan–Germany cross cultural
+comparison on aesthetic evaluation of haiku poetry. Psychology of aesthetics, Creativity
+and the arts. Advance online publication. https://doi.org/10.1037/aca0000497
+Hong, J.-W., & Curran, N. M. (2019). Artificial intelligence, artists, and art: Attitudes
+toward artwork produced by humans vs. artificial intelligence. ACM Transactions on
+Multimedia Computing, Communications, and Applications, 15(2s), 1–16. https://doi.
+org/10.1145/3326337, 58.
+Hopkins, J., & Kiela, D. (2017). Automatically generating rhythmic verse with neural
+networks. In Proceedings of the 55th annual meeting of the association for computational
+linguistics (Vol. 1, pp. 168–178).
+Hrešková, M., & Machová, K. (2018, January). Michiko: Poem models used in automated
+haiku poetry generation. In International conference on current trends in theory and
+practice of informatics (pp. 469–476). https://doi.org/10.1007/978-3-319-73117-9_
+33
+Iida, A. (2008). Poetry writing as expressive pedagogy in an EFL context: Identifying
+possible assessment tools for haiku poetry in EFL freshman college writing. Assessing
+Writing, 13(3), 171–179. https://doi.org/10.1016/j.asw.2008.10.001
+Ikeuchi, H. (2010). Animistic thinking in adults: The memorial service for dolls as a
+voluntary loss. Research in Social Psychology, 25(3), 167–177. https://doi.org/
+10.14966/jssp.KJ00006203282
+Iseki, R. (2021). Anovakun. Available Online at: version 4.8.6. http://riseki.php.xdomain.
+jp/.
+Ito, T., Ono, J., & Ogata, T. (2018). Haiku generation using gap techniques. In Proceedings
+of the 2018 international conference on artificial intelligence and virtual reality (pp.
+93–96). https://doi.org/10.1145/3293663.3293666
+Karayev, S., Trentacoste, M., Han, H., Agarwala, A., Darrell, T., Hertzmann, A., &
+Winnemoeller, H. (2013). Recognizing image style. arXiv preprint https://doi.org/10.
+48550/arXiv.1311.3715.
+Kawamura, H., Yamashita, T., & Yokoyama, S. (2021). Jinkouchinou ga haiku wo yomu AI
+Issa kun no chousen. Tokyo, Japan: Ohmsha (in Japanese).
+Köbis, N., & Mossink, L. D. (2021). Artificial intelligence versus Maya Angelou:
+Experimental evidence that people cannot differentiate AI-generated from humanwritten poetry. Computers in Human Behavior, 114. https://doi.org/10.1016/j.
+chb.2020.106553
+Lau, J. H., Cohn, T., Baldwin, T., Brooke, J., & Hammond, A. (2018). Deep-speare: A joint
+neural model of poetic language, meter and rhyme. In Proceedings of the 56th annual
+
+10
+
+
